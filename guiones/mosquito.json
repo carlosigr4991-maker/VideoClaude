@@ -1,0 +1,15 @@
+{
+  "id": "mosquito",
+  "escenas": [
+    {"id": "gancho", "texto": "En solo siete a diez días, un diminuto huevo puede convertirse en un mosquito que vuela. Y casi toda esa transformación ocurre en el agua.", "fuente": "CDC (Aedes, en clima cálido)"},
+    {"id": "huevos", "texto": "Todo empieza cuando la hembra pone sus huevos. Algunas especies los dejan en la pared de un recipiente, justo encima del nivel del agua. Allí pueden sobrevivir secos durante meses.", "fuente": "CDC; EPA"},
+    {"id": "eclosion", "texto": "Cuando el agua sube y los cubre, llega el momento. Los huevos se abren, y de ellos salen las larvas.", "fuente": "CDC"},
+    {"id": "larva", "texto": "La larva vive en el agua y se mueve sin parar. Come bacterias y otros organismos diminutos, y la mayoría sube a la superficie para respirar aire.", "fuente": "Penn State Extension; EPA"},
+    {"id": "muda", "texto": "A medida que crece, muda su cubierta exterior varias veces.", "fuente": "Penn State Extension"},
+    {"id": "pupa", "texto": "Luego se convierte en pupa. Sigue en el agua y puede nadar, pero ya no come. En unos pocos días, su cuerpo se transforma por completo.", "fuente": "Penn State Extension; EPA"},
+    {"id": "adulto", "texto": "Entonces, el adulto emerge sobre la superficie del agua. Espera a que su cuerpo se endurezca, y levanta el vuelo.", "fuente": "EPA"},
+    {"id": "comida", "texto": "Machos y hembras se alimentan de azúcares de las plantas. Pero solo la hembra pica.", "fuente": "Contra Costa Mosquito & Vector Control"},
+    {"id": "hembra", "texto": "Necesita las proteínas de la sangre para producir sus huevos. Después de alimentarse, busca agua, y el ciclo vuelve a empezar.", "fuente": "CDC; Contra Costa"},
+    {"id": "cierre", "texto": "Por eso, un poco de agua estancada importa tanto. Vaciar baldes, macetas y recipientes puede cortar el ciclo antes de que el mosquito empiece a volar.", "fuente": "CDC; EPA"}
+  ]
+}

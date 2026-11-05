@@ -1,0 +1,33 @@
+node_modules/
+.cache/
+.tmp/
+out/
+logs/
+public/generado/
+borradores/
+
+# Multimedia: se queda solo en este equipo
+voces/
+muestras_voz/
+imagenes/
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+
+# Local
+__pycache__/
+*.pyc
+.claude/settings.local.json
+.env
+.env.*

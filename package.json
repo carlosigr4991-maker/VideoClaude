@@ -1,0 +1,22 @@
+{
+  "name": "estudio-animacion",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "estudio": "remotion studio",
+    "narrar": "E:/FabricaVideos/.venv/Scripts/python.exe scripts/narrar.py",
+    "borrador": "node scripts/borrador.mjs",
+    "render": "node scripts/render.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.540",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "4.0.540"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}

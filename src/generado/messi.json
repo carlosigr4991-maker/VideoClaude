@@ -1,0 +1,1426 @@
+{
+ "id": "messi",
+ "perfil": "natural",
+ "escenas": [
+  {
+   "id": "gancho",
+   "texto": "Cristiano Ronaldo tiene más goles que Lionel Messi. Y aun así, hay un argumento muy fuerte para decir que Messi es el mejor de la historia.",
+   "fuente": "Wikipedia, récords de ambos (nov. 2026)",
+   "audio": "generado/messi/escena_1.wav",
+   "duracion_s": 7.158,
+   "palabras": [
+    {
+     "t": "Cristiano",
+     "ini": 0.0,
+     "fin": 0.4
+    },
+    {
+     "t": "Ronaldo",
+     "ini": 0.4,
+     "fin": 0.82
+    },
+    {
+     "t": "tiene",
+     "ini": 0.82,
+     "fin": 1.06
+    },
+    {
+     "t": "más",
+     "ini": 1.06,
+     "fin": 1.32
+    },
+    {
+     "t": "goles",
+     "ini": 1.32,
+     "fin": 1.66
+    },
+    {
+     "t": "que",
+     "ini": 1.66,
+     "fin": 1.8
+    },
+    {
+     "t": "Lionel",
+     "ini": 1.8,
+     "fin": 2.1
+    },
+    {
+     "t": "Messi.",
+     "ini": 2.1,
+     "fin": 2.34
+    },
+    {
+     "t": "Y",
+     "ini": 2.74,
+     "fin": 2.86
+    },
+    {
+     "t": "aun",
+     "ini": 2.86,
+     "fin": 3.02
+    },
+    {
+     "t": "así,",
+     "ini": 3.02,
+     "fin": 3.34
+    },
+    {
+     "t": "hay",
+     "ini": 3.54,
+     "fin": 3.68
+    },
+    {
+     "t": "un",
+     "ini": 3.68,
+     "fin": 3.78
+    },
+    {
+     "t": "argumento",
+     "ini": 3.78,
+     "fin": 4.3
+    },
+    {
+     "t": "muy",
+     "ini": 4.3,
+     "fin": 4.4
+    },
+    {
+     "t": "fuerte",
+     "ini": 4.4,
+     "fin": 4.74
+    },
+    {
+     "t": "para",
+     "ini": 4.74,
+     "fin": 5.02
+    },
+    {
+     "t": "decir",
+     "ini": 5.02,
+     "fin": 5.28
+    },
+    {
+     "t": "que",
+     "ini": 5.28,
+     "fin": 5.48
+    },
+    {
+     "t": "Messi",
+     "ini": 5.48,
+     "fin": 5.74
+    },
+    {
+     "t": "es",
+     "ini": 5.74,
+     "fin": 6.06
+    },
+    {
+     "t": "el",
+     "ini": 6.06,
+     "fin": 6.16
+    },
+    {
+     "t": "mejor",
+     "ini": 6.16,
+     "fin": 6.4
+    },
+    {
+     "t": "de",
+     "ini": 6.4,
+     "fin": 6.54
+    },
+    {
+     "t": "la",
+     "ini": 6.54,
+     "fin": 6.64
+    },
+    {
+     "t": "historia.",
+     "ini": 6.64,
+     "fin": 6.9
+    }
+   ],
+   "tiempos": "whisper"
+  },
+  {
+   "id": "numeros",
+   "texto": "Porque el argumento no es un número. Son dos. Más de novecientos treinta goles, y más de cuatrocientas veinte asistencias. Nadie en la historia ha dado más.",
+   "fuente": "Wikipedia, logros de Messi (nov. 2026)",
+   "audio": "generado/messi/escena_2.wav",
+   "duracion_s": 9.772,
+   "palabras": [
+    {
+     "t": "Porque",
+     "ini": 0.0,
+     "fin": 0.441
+    },
+    {
+     "t": "el",
+     "ini": 0.441,
+     "fin": 0.588
+    },
+    {
+     "t": "argumento",
+     "ini": 0.588,
+     "fin": 1.25
+    },
+    {
+     "t": "no",
+     "ini": 1.25,
+     "fin": 1.397
+    },
+    {
+     "t": "es",
+     "ini": 1.397,
+     "fin": 1.544
+    },
+    {
+     "t": "un",
+     "ini": 1.544,
+     "fin": 1.691
+    },
+    {
+     "t": "número.",
+     "ini": 1.691,
+     "fin": 2.206
+    },
+    {
+     "t": "Son",
+     "ini": 2.206,
+     "fin": 2.427
+    },
+    {
+     "t": "dos.",
+     "ini": 2.427,
+     "fin": 2.721
+    },
+    {
+     "t": "Más",
+     "ini": 2.721,
+     "fin": 2.942
+    },
+    {
+     "t": "de",
+     "ini": 2.942,
+     "fin": 3.089
+    },
+    {
+     "t": "novecientos",
+     "ini": 3.089,
+     "fin": 3.898
+    },
+    {
+     "t": "treinta",
+     "ini": 3.898,
+     "fin": 4.412
+    },
+    {
+     "t": "goles,",
+     "ini": 4.412,
+     "fin": 4.854
+    },
+    {
+     "t": "y",
+     "ini": 4.854,
+     "fin": 4.927
+    },
+    {
+     "t": "más",
+     "ini": 4.927,
+     "fin": 5.148
+    },
+    {
+     "t": "de",
+     "ini": 5.148,
+     "fin": 5.295
+    },
+    {
+     "t": "cuatrocientas",
+     "ini": 5.295,
+     "fin": 6.251
+    },
+    {
+     "t": "veinte",
+     "ini": 6.251,
+     "fin": 6.692
+    },
+    {
+     "t": "asistencias.",
+     "ini": 6.692,
+     "fin": 7.574
+    },
+    {
+     "t": "Nadie",
+     "ini": 7.574,
+     "fin": 7.942
+    },
+    {
+     "t": "en",
+     "ini": 7.942,
+     "fin": 8.089
+    },
+    {
+     "t": "la",
+     "ini": 8.089,
+     "fin": 8.236
+    },
+    {
+     "t": "historia",
+     "ini": 8.236,
+     "fin": 8.825
+    },
+    {
+     "t": "ha",
+     "ini": 8.825,
+     "fin": 8.972
+    },
+    {
+     "t": "dado",
+     "ini": 8.972,
+     "fin": 9.266
+    },
+    {
+     "t": "más.",
+     "ini": 9.266,
+     "fin": 9.56
+    }
+   ],
+   "tiempos": "proporcional"
+  },
+  {
+   "id": "fusion",
+   "texto": "Casi todos los grandes son una de dos cosas: el que crea la jugada, o el que la termina. Messi es el diez y el nueve en un mismo cuerpo.",
+   "fuente": "Opinión del autor",
+   "audio": "generado/messi/escena_3.wav",
+   "duracion_s": 7.881,
+   "palabras": [
+    {
+     "t": "Casi",
+     "ini": 0.0,
+     "fin": 0.26
+    },
+    {
+     "t": "todos",
+     "ini": 0.26,
+     "fin": 0.5
+    },
+    {
+     "t": "los",
+     "ini": 0.5,
+     "fin": 0.7
+    },
+    {
+     "t": "grandes",
+     "ini": 0.7,
+     "fin": 1.0
+    },
+    {
+     "t": "son",
+     "ini": 1.0,
+     "fin": 1.3
+    },
+    {
+     "t": "una",
+     "ini": 1.3,
+     "fin": 1.58
+    },
+    {
+     "t": "de",
+     "ini": 1.58,
+     "fin": 1.7
+    },
+    {
+     "t": "dos",
+     "ini": 1.7,
+     "fin": 1.88
+    },
+    {
+     "t": "cosas:",
+     "ini": 1.88,
+     "fin": 2.18
+    },
+    {
+     "t": "el",
+     "ini": 2.5,
+     "fin": 2.64
+    },
+    {
+     "t": "que",
+     "ini": 2.64,
+     "fin": 2.78
+    },
+    {
+     "t": "crea",
+     "ini": 2.78,
+     "fin": 3.0
+    },
+    {
+     "t": "la",
+     "ini": 3.0,
+     "fin": 3.08
+    },
+    {
+     "t": "jugada,",
+     "ini": 3.08,
+     "fin": 3.46
+    },
+    {
+     "t": "o",
+     "ini": 3.46,
+     "fin": 3.82
+    },
+    {
+     "t": "el",
+     "ini": 3.82,
+     "fin": 3.92
+    },
+    {
+     "t": "que",
+     "ini": 3.92,
+     "fin": 4.02
+    },
+    {
+     "t": "la",
+     "ini": 4.02,
+     "fin": 4.16
+    },
+    {
+     "t": "termina.",
+     "ini": 4.16,
+     "fin": 4.62
+    },
+    {
+     "t": "Messi",
+     "ini": 4.9,
+     "fin": 5.16
+    },
+    {
+     "t": "es",
+     "ini": 5.16,
+     "fin": 5.42
+    },
+    {
+     "t": "el",
+     "ini": 5.42,
+     "fin": 5.56
+    },
+    {
+     "t": "diez",
+     "ini": 5.56,
+     "fin": 5.78
+    },
+    {
+     "t": "y",
+     "ini": 5.78,
+     "fin": 6.06
+    },
+    {
+     "t": "el",
+     "ini": 6.06,
+     "fin": 6.14
+    },
+    {
+     "t": "nueve",
+     "ini": 6.14,
+     "fin": 6.4
+    },
+    {
+     "t": "en",
+     "ini": 6.4,
+     "fin": 6.76
+    },
+    {
+     "t": "un",
+     "ini": 6.76,
+     "fin": 6.88
+    },
+    {
+     "t": "mismo",
+     "ini": 6.88,
+     "fin": 7.22
+    },
+    {
+     "t": "cuerpo.",
+     "ini": 7.22,
+     "fin": 7.66
+    }
+   ],
+   "tiempos": "whisper"
+  },
+  {
+   "id": "cristiano",
+   "texto": "Cristiano es la mayor máquina de gol que ha existido. Pero brilla más terminando jugadas que creándolas.",
+   "fuente": "985 goles, Wikipedia; el resto es opinión",
+   "audio": "generado/messi/escena_4.wav",
+   "duracion_s": 6.149,
+   "palabras": [
+    {
+     "t": "Cristiano",
+     "ini": 0.0,
+     "fin": 0.6
+    },
+    {
+     "t": "es",
+     "ini": 0.6,
+     "fin": 0.92
+    },
+    {
+     "t": "la",
+     "ini": 0.92,
+     "fin": 1.06
+    },
+    {
+     "t": "mayor",
+     "ini": 1.06,
+     "fin": 1.38
+    },
+    {
+     "t": "máquina",
+     "ini": 1.38,
+     "fin": 1.72
+    },
+    {
+     "t": "de",
+     "ini": 1.72,
+     "fin": 1.94
+    },
+    {
+     "t": "gol",
+     "ini": 1.94,
+     "fin": 2.1
+    },
+    {
+     "t": "que",
+     "ini": 2.1,
+     "fin": 2.34
+    },
+    {
+     "t": "ha",
+     "ini": 2.34,
+     "fin": 2.44
+    },
+    {
+     "t": "existido.",
+     "ini": 2.44,
+     "fin": 3.0
+    },
+    {
+     "t": "Pero",
+     "ini": 3.36,
+     "fin": 3.52
+    },
+    {
+     "t": "brilla",
+     "ini": 3.52,
+     "fin": 3.94
+    },
+    {
+     "t": "más",
+     "ini": 3.94,
+     "fin": 4.1
+    },
+    {
+     "t": "terminando",
+     "ini": 4.1,
+     "fin": 4.68
+    },
+    {
+     "t": "jugadas",
+     "ini": 4.68,
+     "fin": 5.1
+    },
+    {
+     "t": "que",
+     "ini": 5.1,
+     "fin": 5.26
+    },
+    {
+     "t": "creándolas.",
+     "ini": 5.26,
+     "fin": 5.8
+    }
+   ],
+   "tiempos": "whisper"
+  },
+  {
+   "id": "maradona",
+   "texto": "Maradona fue genio puro, y México ochenta y seis sigue siendo leyenda. Pero su cima fue más breve.",
+   "fuente": "Opinión del autor",
+   "audio": "generado/messi/escena_5.wav",
+   "duracion_s": 5.964,
+   "palabras": [
+    {
+     "t": "Maradona",
+     "ini": 0.0,
+     "fin": 0.565
+    },
+    {
+     "t": "fue",
+     "ini": 0.565,
+     "fin": 0.777
+    },
+    {
+     "t": "genio",
+     "ini": 0.777,
+     "fin": 1.13
+    },
+    {
+     "t": "puro,",
+     "ini": 1.13,
+     "fin": 1.483
+    },
+    {
+     "t": "y",
+     "ini": 1.483,
+     "fin": 1.554
+    },
+    {
+     "t": "México",
+     "ini": 1.554,
+     "fin": 1.977
+    },
+    {
+     "t": "ochenta",
+     "ini": 1.977,
+     "fin": 2.472
+    },
+    {
+     "t": "y",
+     "ini": 2.472,
+     "fin": 2.542
+    },
+    {
+     "t": "seis",
+     "ini": 2.542,
+     "fin": 2.825
+    },
+    {
+     "t": "sigue",
+     "ini": 2.825,
+     "fin": 3.178
+    },
+    {
+     "t": "siendo",
+     "ini": 3.178,
+     "fin": 3.601
+    },
+    {
+     "t": "leyenda.",
+     "ini": 3.601,
+     "fin": 4.166
+    },
+    {
+     "t": "Pero",
+     "ini": 4.166,
+     "fin": 4.449
+    },
+    {
+     "t": "su",
+     "ini": 4.449,
+     "fin": 4.59
+    },
+    {
+     "t": "cima",
+     "ini": 4.59,
+     "fin": 4.873
+    },
+    {
+     "t": "fue",
+     "ini": 4.873,
+     "fin": 5.084
+    },
+    {
+     "t": "más",
+     "ini": 5.084,
+     "fin": 5.296
+    },
+    {
+     "t": "breve.",
+     "ini": 5.296,
+     "fin": 5.72
+    }
+   ],
+   "tiempos": "proporcional"
+  },
+  {
+   "id": "pele",
+   "texto": "Pelé ganó tres Mundiales, algo que nadie más ha logrado. Pero jugó otro fútbol, difícil de comparar.",
+   "fuente": "Tres Mundiales: FIFA; el resto es opinión",
+   "audio": "generado/messi/escena_6.wav",
+   "duracion_s": 5.881,
+   "palabras": [
+    {
+     "t": "Pelé",
+     "ini": 0.0,
+     "fin": 0.38
+    },
+    {
+     "t": "ganó",
+     "ini": 0.38,
+     "fin": 0.54
+    },
+    {
+     "t": "tres",
+     "ini": 0.54,
+     "fin": 0.76
+    },
+    {
+     "t": "Mundiales,",
+     "ini": 0.76,
+     "fin": 1.42
+    },
+    {
+     "t": "algo",
+     "ini": 1.68,
+     "fin": 1.86
+    },
+    {
+     "t": "que",
+     "ini": 1.86,
+     "fin": 2.04
+    },
+    {
+     "t": "nadie",
+     "ini": 2.04,
+     "fin": 2.24
+    },
+    {
+     "t": "más",
+     "ini": 2.24,
+     "fin": 2.5
+    },
+    {
+     "t": "ha",
+     "ini": 2.5,
+     "fin": 2.62
+    },
+    {
+     "t": "logrado.",
+     "ini": 2.62,
+     "fin": 3.08
+    },
+    {
+     "t": "Pero",
+     "ini": 3.4,
+     "fin": 3.56
+    },
+    {
+     "t": "jugó",
+     "ini": 3.56,
+     "fin": 3.94
+    },
+    {
+     "t": "otro",
+     "ini": 3.94,
+     "fin": 4.12
+    },
+    {
+     "t": "fútbol,",
+     "ini": 4.12,
+     "fin": 4.58
+    },
+    {
+     "t": "difícil",
+     "ini": 4.74,
+     "fin": 5.08
+    },
+    {
+     "t": "de",
+     "ini": 5.08,
+     "fin": 5.3
+    },
+    {
+     "t": "comparar.",
+     "ini": 5.3,
+     "fin": 5.78
+    }
+   ],
+   "tiempos": "whisper"
+  },
+  {
+   "id": "cruyff",
+   "texto": "Cruyff y Di Stéfano cambiaron el juego para siempre. Pero sus cifras de gol quedan lejos.",
+   "fuente": "Opinión del autor",
+   "audio": "generado/messi/escena_7.wav",
+   "duracion_s": 5.478,
+   "palabras": [
+    {
+     "t": "Cruyff",
+     "ini": 0.0,
+     "fin": 0.42
+    },
+    {
+     "t": "y",
+     "ini": 0.42,
+     "fin": 0.62
+    },
+    {
+     "t": "Di",
+     "ini": 0.62,
+     "fin": 0.72
+    },
+    {
+     "t": "Stéfano",
+     "ini": 0.72,
+     "fin": 1.24
+    },
+    {
+     "t": "cambiaron",
+     "ini": 1.24,
+     "fin": 1.82
+    },
+    {
+     "t": "el",
+     "ini": 1.82,
+     "fin": 1.96
+    },
+    {
+     "t": "juego",
+     "ini": 1.96,
+     "fin": 2.18
+    },
+    {
+     "t": "para",
+     "ini": 2.18,
+     "fin": 2.44
+    },
+    {
+     "t": "siempre.",
+     "ini": 2.44,
+     "fin": 2.86
+    },
+    {
+     "t": "Pero",
+     "ini": 3.3,
+     "fin": 3.46
+    },
+    {
+     "t": "sus",
+     "ini": 3.46,
+     "fin": 3.62
+    },
+    {
+     "t": "cifras",
+     "ini": 3.62,
+     "fin": 4.04
+    },
+    {
+     "t": "de",
+     "ini": 4.04,
+     "fin": 4.2
+    },
+    {
+     "t": "gol",
+     "ini": 4.2,
+     "fin": 4.42
+    },
+    {
+     "t": "quedan",
+     "ini": 4.42,
+     "fin": 4.94
+    },
+    {
+     "t": "lejos.",
+     "ini": 4.94,
+     "fin": 5.24
+    }
+   ],
+   "tiempos": "whisper"
+  },
+  {
+   "id": "jovenes",
+   "texto": "Mbappé y Haaland todavía están escribiendo su historia. La vara es sostenerlo durante dos décadas.",
+   "fuente": "Opinión del autor",
+   "audio": "generado/messi/escena_8.wav",
+   "duracion_s": 5.917,
+   "palabras": [
+    {
+     "t": "Mbappé",
+     "ini": 0.0,
+     "fin": 0.66
+    },
+    {
+     "t": "y",
+     "ini": 0.66,
+     "fin": 0.86
+    },
+    {
+     "t": "Haaland",
+     "ini": 0.86,
+     "fin": 1.16
+    },
+    {
+     "t": "todavía",
+     "ini": 1.16,
+     "fin": 1.7
+    },
+    {
+     "t": "están",
+     "ini": 1.7,
+     "fin": 2.1
+    },
+    {
+     "t": "escribiendo",
+     "ini": 2.1,
+     "fin": 2.62
+    },
+    {
+     "t": "su",
+     "ini": 2.62,
+     "fin": 2.78
+    },
+    {
+     "t": "historia.",
+     "ini": 2.78,
+     "fin": 3.16
+    },
+    {
+     "t": "La",
+     "ini": 3.54,
+     "fin": 3.74
+    },
+    {
+     "t": "vara",
+     "ini": 3.74,
+     "fin": 3.9
+    },
+    {
+     "t": "es",
+     "ini": 3.9,
+     "fin": 4.08
+    },
+    {
+     "t": "sostenerlo",
+     "ini": 4.08,
+     "fin": 4.7
+    },
+    {
+     "t": "durante",
+     "ini": 4.7,
+     "fin": 4.94
+    },
+    {
+     "t": "dos",
+     "ini": 4.94,
+     "fin": 5.28
+    },
+    {
+     "t": "décadas.",
+     "ini": 5.28,
+     "fin": 5.64
+    }
+   ],
+   "tiempos": "whisper"
+  },
+  {
+   "id": "tiempo",
+   "texto": "Porque Messi ganó ocho Balones de Oro, entre dos mil nueve y dos mil veintitrés. Catorce años, del primero al último.",
+   "fuente": "Wikipedia, logros de Messi",
+   "audio": "generado/messi/escena_9.wav",
+   "duracion_s": 7.271,
+   "palabras": [
+    {
+     "t": "Porque",
+     "ini": 0.0,
+     "fin": 0.437
+    },
+    {
+     "t": "Messi",
+     "ini": 0.437,
+     "fin": 0.801
+    },
+    {
+     "t": "ganó",
+     "ini": 0.801,
+     "fin": 1.092
+    },
+    {
+     "t": "ocho",
+     "ini": 1.092,
+     "fin": 1.383
+    },
+    {
+     "t": "Balones",
+     "ini": 1.383,
+     "fin": 1.892
+    },
+    {
+     "t": "de",
+     "ini": 1.892,
+     "fin": 2.038
+    },
+    {
+     "t": "Oro,",
+     "ini": 2.038,
+     "fin": 2.329
+    },
+    {
+     "t": "entre",
+     "ini": 2.329,
+     "fin": 2.693
+    },
+    {
+     "t": "dos",
+     "ini": 2.693,
+     "fin": 2.911
+    },
+    {
+     "t": "mil",
+     "ini": 2.911,
+     "fin": 3.13
+    },
+    {
+     "t": "nueve",
+     "ini": 3.13,
+     "fin": 3.494
+    },
+    {
+     "t": "y",
+     "ini": 3.494,
+     "fin": 3.566
+    },
+    {
+     "t": "dos",
+     "ini": 3.566,
+     "fin": 3.785
+    },
+    {
+     "t": "mil",
+     "ini": 3.785,
+     "fin": 4.003
+    },
+    {
+     "t": "veintitrés.",
+     "ini": 4.003,
+     "fin": 4.804
+    },
+    {
+     "t": "Catorce",
+     "ini": 4.804,
+     "fin": 5.313
+    },
+    {
+     "t": "años,",
+     "ini": 5.313,
+     "fin": 5.677
+    },
+    {
+     "t": "del",
+     "ini": 5.677,
+     "fin": 5.895
+    },
+    {
+     "t": "primero",
+     "ini": 5.895,
+     "fin": 6.405
+    },
+    {
+     "t": "al",
+     "ini": 6.405,
+     "fin": 6.551
+    },
+    {
+     "t": "último.",
+     "ini": 6.551,
+     "fin": 7.06
+    }
+   ],
+   "tiempos": "proporcional"
+  },
+  {
+   "id": "titulos",
+   "texto": "Y lo ganó casi todo. Cuatro Champions. Cuarenta y siete títulos. Y en Catar, por fin, el Mundial.",
+   "fuente": "Wikipedia; ESPN",
+   "audio": "generado/messi/escena_10.wav",
+   "duracion_s": 6.504,
+   "palabras": [
+    {
+     "t": "Y",
+     "ini": 0.0,
+     "fin": 0.078
+    },
+    {
+     "t": "lo",
+     "ini": 0.078,
+     "fin": 0.233
+    },
+    {
+     "t": "ganó",
+     "ini": 0.233,
+     "fin": 0.544
+    },
+    {
+     "t": "casi",
+     "ini": 0.544,
+     "fin": 0.855
+    },
+    {
+     "t": "todo.",
+     "ini": 0.855,
+     "fin": 1.244
+    },
+    {
+     "t": "Cuatro",
+     "ini": 1.244,
+     "fin": 1.711
+    },
+    {
+     "t": "Champions.",
+     "ini": 1.711,
+     "fin": 2.488
+    },
+    {
+     "t": "Cuarenta",
+     "ini": 2.488,
+     "fin": 3.11
+    },
+    {
+     "t": "y",
+     "ini": 3.11,
+     "fin": 3.188
+    },
+    {
+     "t": "siete",
+     "ini": 3.188,
+     "fin": 3.576
+    },
+    {
+     "t": "títulos.",
+     "ini": 3.576,
+     "fin": 4.198
+    },
+    {
+     "t": "Y",
+     "ini": 4.198,
+     "fin": 4.276
+    },
+    {
+     "t": "en",
+     "ini": 4.276,
+     "fin": 4.432
+    },
+    {
+     "t": "Catar,",
+     "ini": 4.432,
+     "fin": 4.898
+    },
+    {
+     "t": "por",
+     "ini": 4.898,
+     "fin": 5.132
+    },
+    {
+     "t": "fin,",
+     "ini": 5.132,
+     "fin": 5.442
+    },
+    {
+     "t": "el",
+     "ini": 5.442,
+     "fin": 5.598
+    },
+    {
+     "t": "Mundial.",
+     "ini": 5.598,
+     "fin": 6.22
+    }
+   ],
+   "tiempos": "proporcional"
+  },
+  {
+   "id": "ultimo",
+   "texto": "En dos mil veintiséis, con treinta y nueve años, volvió a la final. La perdió contra España. Pero dejó ocho goles, cuatro asistencias y el Balón de Plata.",
+   "fuente": "ESPN",
+   "audio": "generado/messi/escena_11.wav",
+   "duracion_s": 9.146,
+   "palabras": [
+    {
+     "t": "En",
+     "ini": 0.0,
+     "fin": 0.14
+    },
+    {
+     "t": "dos",
+     "ini": 0.14,
+     "fin": 0.351
+    },
+    {
+     "t": "mil",
+     "ini": 0.351,
+     "fin": 0.562
+    },
+    {
+     "t": "veintiséis,",
+     "ini": 0.562,
+     "fin": 1.334
+    },
+    {
+     "t": "con",
+     "ini": 1.334,
+     "fin": 1.545
+    },
+    {
+     "t": "treinta",
+     "ini": 1.545,
+     "fin": 2.037
+    },
+    {
+     "t": "y",
+     "ini": 2.037,
+     "fin": 2.107
+    },
+    {
+     "t": "nueve",
+     "ini": 2.107,
+     "fin": 2.458
+    },
+    {
+     "t": "años,",
+     "ini": 2.458,
+     "fin": 2.809
+    },
+    {
+     "t": "volvió",
+     "ini": 2.809,
+     "fin": 3.231
+    },
+    {
+     "t": "a",
+     "ini": 3.231,
+     "fin": 3.301
+    },
+    {
+     "t": "la",
+     "ini": 3.301,
+     "fin": 3.442
+    },
+    {
+     "t": "final.",
+     "ini": 3.442,
+     "fin": 3.863
+    },
+    {
+     "t": "La",
+     "ini": 3.863,
+     "fin": 4.003
+    },
+    {
+     "t": "perdió",
+     "ini": 4.003,
+     "fin": 4.425
+    },
+    {
+     "t": "contra",
+     "ini": 4.425,
+     "fin": 4.846
+    },
+    {
+     "t": "España.",
+     "ini": 4.846,
+     "fin": 5.338
+    },
+    {
+     "t": "Pero",
+     "ini": 5.338,
+     "fin": 5.619
+    },
+    {
+     "t": "dejó",
+     "ini": 5.619,
+     "fin": 5.9
+    },
+    {
+     "t": "ocho",
+     "ini": 5.9,
+     "fin": 6.181
+    },
+    {
+     "t": "goles,",
+     "ini": 6.181,
+     "fin": 6.602
+    },
+    {
+     "t": "cuatro",
+     "ini": 6.602,
+     "fin": 7.024
+    },
+    {
+     "t": "asistencias",
+     "ini": 7.024,
+     "fin": 7.796
+    },
+    {
+     "t": "y",
+     "ini": 7.796,
+     "fin": 7.866
+    },
+    {
+     "t": "el",
+     "ini": 7.866,
+     "fin": 8.007
+    },
+    {
+     "t": "Balón",
+     "ini": 8.007,
+     "fin": 8.358
+    },
+    {
+     "t": "de",
+     "ini": 8.358,
+     "fin": 8.499
+    },
+    {
+     "t": "Plata.",
+     "ini": 8.499,
+     "fin": 8.92
+    }
+   ],
+   "tiempos": "proporcional"
+  },
+  {
+   "id": "cierre",
+   "texto": "¿Es el mejor de la historia? Nunca habrá una sola respuesta. Pero nadie ha juntado tanto gol, tanta creación, durante tanto tiempo. Y tú, ¿a quién elegirías?",
+   "fuente": "Opinión del autor",
+   "audio": "generado/messi/escena_12.wav",
+   "duracion_s": 9.113,
+   "palabras": [
+    {
+     "t": "¿Es",
+     "ini": 0.0,
+     "fin": 0.22
+    },
+    {
+     "t": "el",
+     "ini": 0.22,
+     "fin": 0.32
+    },
+    {
+     "t": "mejor",
+     "ini": 0.32,
+     "fin": 0.6
+    },
+    {
+     "t": "de",
+     "ini": 0.6,
+     "fin": 0.74
+    },
+    {
+     "t": "la",
+     "ini": 0.74,
+     "fin": 0.82
+    },
+    {
+     "t": "historia?",
+     "ini": 0.82,
+     "fin": 1.14
+    },
+    {
+     "t": "Nunca",
+     "ini": 1.64,
+     "fin": 2.0
+    },
+    {
+     "t": "habrá",
+     "ini": 2.0,
+     "fin": 2.26
+    },
+    {
+     "t": "una",
+     "ini": 2.26,
+     "fin": 2.36
+    },
+    {
+     "t": "sola",
+     "ini": 2.36,
+     "fin": 2.54
+    },
+    {
+     "t": "respuesta.",
+     "ini": 2.54,
+     "fin": 3.06
+    },
+    {
+     "t": "Pero",
+     "ini": 3.5,
+     "fin": 3.7
+    },
+    {
+     "t": "nadie",
+     "ini": 3.7,
+     "fin": 3.98
+    },
+    {
+     "t": "ha",
+     "ini": 3.98,
+     "fin": 4.18
+    },
+    {
+     "t": "juntado",
+     "ini": 4.18,
+     "fin": 4.68
+    },
+    {
+     "t": "tanto",
+     "ini": 4.68,
+     "fin": 4.84
+    },
+    {
+     "t": "gol,",
+     "ini": 4.84,
+     "fin": 5.28
+    },
+    {
+     "t": "tanta",
+     "ini": 5.7,
+     "fin": 5.84
+    },
+    {
+     "t": "creación,",
+     "ini": 5.84,
+     "fin": 6.36
+    },
+    {
+     "t": "durante",
+     "ini": 6.36,
+     "fin": 6.58
+    },
+    {
+     "t": "tanto",
+     "ini": 6.58,
+     "fin": 6.98
+    },
+    {
+     "t": "tiempo.",
+     "ini": 6.98,
+     "fin": 7.38
+    },
+    {
+     "t": "Y",
+     "ini": 7.76,
+     "fin": 7.84
+    },
+    {
+     "t": "tú,",
+     "ini": 7.84,
+     "fin": 8.02
+    },
+    {
+     "t": "¿a",
+     "ini": 8.02,
+     "fin": 8.26
+    },
+    {
+     "t": "quién",
+     "ini": 8.26,
+     "fin": 8.4
+    },
+    {
+     "t": "elegirías?",
+     "ini": 8.4,
+     "fin": 8.94
+    }
+   ],
+   "tiempos": "whisper"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "amor-1",
+  "escenas": [
+    {"id": "gancho", "texto": "¿Cuántas parejas siguen juntas porque se aman? ¿Y cuántas porque cada uno tiene en el otro algo que no quiere perder?"},
+    {"id": "teoria", "texto": "Una pareja y un amor pleno no son lo mismo. Esta es la teoría de las tres verdades del amor."},
+    {"id": "tres", "texto": "Según esta idea, el amor integral necesita tres verdades. Y cada una responde una pregunta distinta."},
+    {"id": "sexual", "texto": "La verdad sexual: ¿deseo a esta persona?"},
+    {"id": "intelectual", "texto": "La verdad intelectual: ¿me interesa su mente?"},
+    {"id": "relacional", "texto": "La verdad relacional: ¿puedo construir una vida con ella?"},
+    {"id": "influencia", "texto": "Se influyen entre sí. Una buena conversación puede despertar deseo. Pero ninguna reemplaza a las otras."},
+    {"id": "integral", "texto": "Con las tres, hay amor integral. Se desean, pueden conversar durante horas y saben vivir juntos."},
+    {"id": "sinsexual", "texto": "Sin deseo, queda una compañía profunda. Se admiran, se entienden y comparten una vida. Puede ser amor, pero no integral."},
+    {"id": "sinintelectual", "texto": "Sin conexión intelectual, hay intimidad y buena convivencia. Pero, con el tiempo, uno puede sentir que no tiene con quién pensar."},
+    {"id": "sinrelacional", "texto": "Sin la verdad relacional, hay deseo y conversaciones interminables. Pero no logran resolver un conflicto, ni compartir un día cualquiera. Mucha intensidad, y ninguna pareja que funcione."},
+    {"id": "solodeseo", "texto": "Y cuando queda una sola, el vínculo cambia de naturaleza. Solo deseo: se buscan por el cuerpo."},
+    {"id": "solomente", "texto": "Solo intelecto: una admiración que se confunde con amor."},
+    {"id": "solovida", "texto": "Solo convivencia: una casa, unas cuentas y un círculo social, sostenidos por la costumbre."},
+    {"id": "gira", "texto": "Pero falta lo más importante. Aunque las tres verdades estén presentes, todavía puede no haber amor integral."}
+  ]
+}

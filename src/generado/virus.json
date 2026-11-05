@@ -1,0 +1,1476 @@
+{
+ "id": "virus",
+ "perfil": "natural",
+ "escenas": [
+  {
+   "id": "gancho",
+   "texto": "Llevas virus escritos en tu ADN. Cerca del ocho por ciento de tu genoma viene de retrovirus antiguos que infectaron a nuestros ancestros.",
+   "fuente": "Consorcio del Genoma Humano, Nature 2001",
+   "audio": "generado/virus/escena_1.wav",
+   "duracion_s": 7.694,
+   "palabras": [
+    {
+     "t": "Llevas",
+     "ini": 0.0,
+     "fin": 0.39
+    },
+    {
+     "t": "virus",
+     "ini": 0.39,
+     "fin": 0.715
+    },
+    {
+     "t": "escritos",
+     "ini": 0.715,
+     "fin": 1.236
+    },
+    {
+     "t": "en",
+     "ini": 1.236,
+     "fin": 1.366
+    },
+    {
+     "t": "tu",
+     "ini": 1.366,
+     "fin": 1.496
+    },
+    {
+     "t": "ADN.",
+     "ini": 1.496,
+     "fin": 1.756
+    },
+    {
+     "t": "Cerca",
+     "ini": 1.756,
+     "fin": 2.081
+    },
+    {
+     "t": "del",
+     "ini": 2.081,
+     "fin": 2.277
+    },
+    {
+     "t": "ocho",
+     "ini": 2.277,
+     "fin": 2.537
+    },
+    {
+     "t": "por",
+     "ini": 2.537,
+     "fin": 2.732
+    },
+    {
+     "t": "ciento",
+     "ini": 2.732,
+     "fin": 3.122
+    },
+    {
+     "t": "de",
+     "ini": 3.122,
+     "fin": 3.252
+    },
+    {
+     "t": "tu",
+     "ini": 3.252,
+     "fin": 3.382
+    },
+    {
+     "t": "genoma",
+     "ini": 3.382,
+     "fin": 3.773
+    },
+    {
+     "t": "viene",
+     "ini": 3.773,
+     "fin": 4.098
+    },
+    {
+     "t": "de",
+     "ini": 4.098,
+     "fin": 4.228
+    },
+    {
+     "t": "retrovirus",
+     "ini": 4.228,
+     "fin": 4.878
+    },
+    {
+     "t": "antiguos",
+     "ini": 4.878,
+     "fin": 5.399
+    },
+    {
+     "t": "que",
+     "ini": 5.399,
+     "fin": 5.594
+    },
+    {
+     "t": "infectaron",
+     "ini": 5.594,
+     "fin": 6.244
+    },
+    {
+     "t": "a",
+     "ini": 6.244,
+     "fin": 6.309
+    },
+    {
+     "t": "nuestros",
+     "ini": 6.309,
+     "fin": 6.83
+    },
+    {
+     "t": "ancestros.",
+     "ini": 6.83,
+     "fin": 7.48
+    }
+   ],
+   "tiempos": "proporcional"
+  },
+  {
+   "id": "infeccion",
+   "texto": "Un retrovirus entra en una célula y copia su código dentro del ADN. Si esa célula es un óvulo o un espermatozoide, la copia se hereda, generación tras generación.",
+   "fuente": "Griffiths, Genome Biology 2001",
+   "audio": "generado/virus/escena_2.wav",
+   "duracion_s": 9.78,
+   "palabras": [
+    {
+     "t": "Un",
+     "ini": 0.0,
+     "fin": 0.2
+    },
+    {
+     "t": "retrovirus",
+     "ini": 0.2,
+     "fin": 0.8
+    },
+    {
+     "t": "entra",
+     "ini": 0.8,
+     "fin": 1.2
+    },
+    {
+     "t": "en",
+     "ini": 1.2,
+     "fin": 1.36
+    },
+    {
+     "t": "una",
+     "ini": 1.36,
+     "fin": 1.48
+    },
+    {
+     "t": "célula",
+     "ini": 1.48,
+     "fin": 1.94
+    },
+    {
+     "t": "y",
+     "ini": 1.94,
+     "fin": 2.14
+    },
+    {
+     "t": "copia",
+     "ini": 2.14,
+     "fin": 2.46
+    },
+    {
+     "t": "su",
+     "ini": 2.46,
+     "fin": 2.58
+    },
+    {
+     "t": "código",
+     "ini": 2.58,
+     "fin": 2.88
+    },
+    {
+     "t": "dentro",
+     "ini": 2.88,
+     "fin": 3.2
+    },
+    {
+     "t": "del",
+     "ini": 3.2,
+     "fin": 3.46
+    },
+    {
+     "t": "ADN.",
+     "ini": 3.46,
+     "fin": 3.98
+    },
+    {
+     "t": "Si",
+     "ini": 4.26,
+     "fin": 4.5
+    },
+    {
+     "t": "esa",
+     "ini": 4.5,
+     "fin": 4.7
+    },
+    {
+     "t": "célula",
+     "ini": 4.7,
+     "fin": 5.14
+    },
+    {
+     "t": "es",
+     "ini": 5.14,
+     "fin": 5.3
+    },
+    {
+     "t": "un",
+     "ini": 5.3,
+     "fin": 5.42
+    },
+    {
+     "t": "óvulo",
+     "ini": 5.42,
+     "fin": 5.76
+    },
+    {
+     "t": "o",
+     "ini": 5.76,
+     "fin": 5.98
+    },
+    {
+     "t": "un",
+     "ini": 5.98,
+     "fin": 6.12
+    },
+    {
+     "t": "espermatozoide,",
+     "ini": 6.12,
+     "fin": 6.9
+    },
+    {
+     "t": "la",
+     "ini": 7.12,
+     "fin": 7.22
+    },
+    {
+     "t": "copia",
+     "ini": 7.22,
+     "fin": 7.58
+    },
+    {
+     "t": "se",
+     "ini": 7.58,
+     "fin": 7.7
+    },
+    {
+     "t": "hereda,",
+     "ini": 7.7,
+     "fin": 7.98
+    },
+    {
+     "t": "generación",
+     "ini": 8.16,
+     "fin": 8.78
+    },
+    {
+     "t": "tras",
+     "ini": 8.78,
+     "fin": 9.0
+    },
+    {
+     "t": "generación.",
+     "ini": 9.0,
+     "fin": 9.6
+    }
+   ],
+   "tiempos": "whisper"
+  },
+  {
+   "id": "restos",
+   "texto": "Casi todas esas copias están dañadas, y ya no pueden fabricar virus. Pero la evolución reutilizó algunas.",
+   "fuente": "Griffiths, Genome Biology 2001",
+   "audio": "generado/virus/escena_3.wav",
+   "duracion_s": 6.478,
+   "palabras": [
+    {
+     "t": "Casi",
+     "ini": 0.0,
+     "fin": 0.34
+    },
+    {
+     "t": "todas",
+     "ini": 0.34,
+     "fin": 0.58
+    },
+    {
+     "t": "esas",
+     "ini": 0.58,
+     "fin": 0.86
+    },
+    {
+     "t": "copias",
+     "ini": 0.86,
+     "fin": 1.36
+    },
+    {
+     "t": "están",
+     "ini": 1.36,
+     "fin": 1.66
+    },
+    {
+     "t": "dañadas,",
+     "ini": 1.66,
+     "fin": 2.24
+    },
+    {
+     "t": "y",
+     "ini": 2.24,
+     "fin": 2.64
+    },
+    {
+     "t": "ya",
+     "ini": 2.64,
+     "fin": 2.8
+    },
+    {
+     "t": "no",
+     "ini": 2.8,
+     "fin": 2.92
+    },
+    {
+     "t": "pueden",
+     "ini": 2.92,
+     "fin": 3.16
+    },
+    {
+     "t": "fabricar",
+     "ini": 3.16,
+     "fin": 3.66
+    },
+    {
+     "t": "virus.",
+     "ini": 3.66,
+     "fin": 3.92
+    },
+    {
+     "t": "Pero",
+     "ini": 4.4,
+     "fin": 4.6
+    },
+    {
+     "t": "la",
+     "ini": 4.6,
+     "fin": 4.76
+    },
+    {
+     "t": "evolución",
+     "ini": 4.76,
+     "fin": 5.32
+    },
+    {
+     "t": "reutilizó",
+     "ini": 5.32,
+     "fin": 5.92
+    },
+    {
+     "t": "algunas.",
+     "ini": 5.92,
+     "fin": 6.16
+    }
+   ],
+   "tiempos": "whisper"
+  },
+  {
+   "id": "llave",
+   "texto": "A un virus, una proteína de su envoltura le sirve para fusionarse con la célula y entrar.",
+   "fuente": "Mi et al., Nature 2000",
+   "audio": "generado/virus/escena_4.wav",
+   "duracion_s": 4.946,
+   "palabras": [
+    {
+     "t": "A",
+     "ini": 0.0,
+     "fin": 0.2
+    },
+    {
+     "t": "un",
+     "ini": 0.2,
+     "fin": 0.34
+    },
+    {
+     "t": "virus,",
+     "ini": 0.34,
+     "fin": 0.64
+    },
+    {
+     "t": "una",
+     "ini": 1.08,
+     "fin": 1.28
+    },
+    {
+     "t": "proteína",
+     "ini": 1.28,
+     "fin": 1.8
+    },
+    {
+     "t": "de",
+     "ini": 1.8,
+     "fin": 1.9
+    },
+    {
+     "t": "su",
+     "ini": 1.9,
+     "fin": 1.98
+    },
+    {
+     "t": "envoltura",
+     "ini": 1.98,
+     "fin": 2.44
+    },
+    {
+     "t": "le",
+     "ini": 2.44,
+     "fin": 2.56
+    },
+    {
+     "t": "sirve",
+     "ini": 2.56,
+     "fin": 2.88
+    },
+    {
+     "t": "para",
+     "ini": 2.88,
+     "fin": 3.02
+    },
+    {
+     "t": "fusionarse",
+     "ini": 3.02,
+     "fin": 3.58
+    },
+    {
+     "t": "con",
+     "ini": 3.58,
+     "fin": 3.78
+    },
+    {
+     "t": "la",
+     "ini": 3.78,
+     "fin": 3.92
+    },
+    {
+     "t": "célula",
+     "ini": 3.92,
+     "fin": 4.32
+    },
+    {
+     "t": "y",
+     "ini": 4.32,
+     "fin": 4.48
+    },
+    {
+     "t": "entrar.",
+     "ini": 4.48,
+     "fin": 4.74
+    }
+   ],
+   "tiempos": "whisper"
+  },
+  {
+   "id": "placenta",
+   "texto": "En nosotros, una versión de esa proteína se llama sincitina, y ayuda a fusionar células de la placenta, donde se forma la capa que separa la sangre de la madre y la del feto.",
+   "fuente": "Mi et al., Nature 2000",
+   "audio": "generado/virus/escena_5.wav",
+   "duracion_s": 9.602,
+   "palabras": [
+    {
+     "t": "En",
+     "ini": 0.0,
+     "fin": 0.2
+    },
+    {
+     "t": "nosotros,",
+     "ini": 0.2,
+     "fin": 0.62
+    },
+    {
+     "t": "una",
+     "ini": 0.62,
+     "fin": 1.08
+    },
+    {
+     "t": "versión",
+     "ini": 1.08,
+     "fin": 1.42
+    },
+    {
+     "t": "de",
+     "ini": 1.42,
+     "fin": 1.62
+    },
+    {
+     "t": "esa",
+     "ini": 1.62,
+     "fin": 1.78
+    },
+    {
+     "t": "proteína",
+     "ini": 1.78,
+     "fin": 2.28
+    },
+    {
+     "t": "se",
+     "ini": 2.28,
+     "fin": 2.44
+    },
+    {
+     "t": "llama",
+     "ini": 2.44,
+     "fin": 2.62
+    },
+    {
+     "t": "sincitina,",
+     "ini": 2.62,
+     "fin": 3.42
+    },
+    {
+     "t": "y",
+     "ini": 3.42,
+     "fin": 3.74
+    },
+    {
+     "t": "ayuda",
+     "ini": 3.74,
+     "fin": 3.94
+    },
+    {
+     "t": "a",
+     "ini": 3.94,
+     "fin": 4.1
+    },
+    {
+     "t": "fusionar",
+     "ini": 4.1,
+     "fin": 4.56
+    },
+    {
+     "t": "células",
+     "ini": 4.56,
+     "fin": 4.86
+    },
+    {
+     "t": "de",
+     "ini": 4.86,
+     "fin": 5.12
+    },
+    {
+     "t": "la",
+     "ini": 5.12,
+     "fin": 5.22
+    },
+    {
+     "t": "placenta,",
+     "ini": 5.22,
+     "fin": 5.76
+    },
+    {
+     "t": "donde",
+     "ini": 5.76,
+     "fin": 6.18
+    },
+    {
+     "t": "se",
+     "ini": 6.18,
+     "fin": 6.42
+    },
+    {
+     "t": "forma",
+     "ini": 6.42,
+     "fin": 6.68
+    },
+    {
+     "t": "la",
+     "ini": 6.68,
+     "fin": 6.86
+    },
+    {
+     "t": "capa",
+     "ini": 6.86,
+     "fin": 7.24
+    },
+    {
+     "t": "que",
+     "ini": 7.24,
+     "fin": 7.34
+    },
+    {
+     "t": "separa",
+     "ini": 7.34,
+     "fin": 7.74
+    },
+    {
+     "t": "la",
+     "ini": 7.74,
+     "fin": 7.84
+    },
+    {
+     "t": "sangre",
+     "ini": 7.84,
+     "fin": 8.12
+    },
+    {
+     "t": "de",
+     "ini": 8.12,
+     "fin": 8.3
+    },
+    {
+     "t": "la",
+     "ini": 8.3,
+     "fin": 8.4
+    },
+    {
+     "t": "madre",
+     "ini": 8.4,
+     "fin": 8.64
+    },
+    {
+     "t": "y",
+     "ini": 8.64,
+     "fin": 8.88
+    },
+    {
+     "t": "la",
+     "ini": 8.88,
+     "fin": 8.98
+    },
+    {
+     "t": "del",
+     "ini": 8.98,
+     "fin": 9.1
+    },
+    {
+     "t": "feto.",
+     "ini": 9.1,
+     "fin": 9.52
+    }
+   ],
+   "tiempos": "whisper"
+  },
+  {
+   "id": "matiz",
+   "texto": "Los virus no crearon la placenta. Pero la evolución aprovechó una de sus piezas.",
+   "fuente": "Mi et al., Nature 2000",
+   "audio": "generado/virus/escena_6.wav",
+   "duracion_s": 5.167,
+   "palabras": [
+    {
+     "t": "Los",
+     "ini": 0.0,
+     "fin": 0.18
+    },
+    {
+     "t": "virus",
+     "ini": 0.18,
+     "fin": 0.48
+    },
+    {
+     "t": "no",
+     "ini": 0.48,
+     "fin": 0.86
+    },
+    {
+     "t": "crearon",
+     "ini": 0.86,
+     "fin": 1.32
+    },
+    {
+     "t": "la",
+     "ini": 1.32,
+     "fin": 1.48
+    },
+    {
+     "t": "placenta.",
+     "ini": 1.48,
+     "fin": 1.98
+    },
+    {
+     "t": "Pero",
+     "ini": 2.22,
+     "fin": 2.58
+    },
+    {
+     "t": "la",
+     "ini": 2.58,
+     "fin": 2.74
+    },
+    {
+     "t": "evolución",
+     "ini": 2.74,
+     "fin": 3.3
+    },
+    {
+     "t": "aprovechó",
+     "ini": 3.3,
+     "fin": 4.08
+    },
+    {
+     "t": "una",
+     "ini": 4.08,
+     "fin": 4.28
+    },
+    {
+     "t": "de",
+     "ini": 4.28,
+     "fin": 4.42
+    },
+    {
+     "t": "sus",
+     "ini": 4.42,
+     "fin": 4.54
+    },
+    {
+     "t": "piezas.",
+     "ini": 4.54,
+     "fin": 4.96
+    }
+   ],
+   "tiempos": "whisper"
+  },
+  {
+   "id": "defensa",
+   "texto": "Otros restos virales ayudan hoy a encender genes de defensa. Lo que fue parte de una infección, ahora trabaja para el sistema inmunitario.",
+   "fuente": "Chuong, Elde y Feschotte, Science 2016",
+   "audio": "generado/virus/escena_7.wav",
+   "duracion_s": 8.124,
+   "palabras": [
+    {
+     "t": "Otros",
+     "ini": 0.0,
+     "fin": 0.28
+    },
+    {
+     "t": "restos",
+     "ini": 0.28,
+     "fin": 0.74
+    },
+    {
+     "t": "virales",
+     "ini": 0.74,
+     "fin": 1.16
+    },
+    {
+     "t": "ayudan",
+     "ini": 1.16,
+     "fin": 1.72
+    },
+    {
+     "t": "hoy",
+     "ini": 1.72,
+     "fin": 1.88
+    },
+    {
+     "t": "a",
+     "ini": 1.88,
+     "fin": 2.06
+    },
+    {
+     "t": "encender",
+     "ini": 2.06,
+     "fin": 2.48
+    },
+    {
+     "t": "genes",
+     "ini": 2.48,
+     "fin": 2.8
+    },
+    {
+     "t": "de",
+     "ini": 2.8,
+     "fin": 2.98
+    },
+    {
+     "t": "defensa.",
+     "ini": 2.98,
+     "fin": 3.46
+    },
+    {
+     "t": "Lo",
+     "ini": 3.84,
+     "fin": 3.98
+    },
+    {
+     "t": "que",
+     "ini": 3.98,
+     "fin": 4.12
+    },
+    {
+     "t": "fue",
+     "ini": 4.12,
+     "fin": 4.26
+    },
+    {
+     "t": "parte",
+     "ini": 4.26,
+     "fin": 4.54
+    },
+    {
+     "t": "de",
+     "ini": 4.54,
+     "fin": 4.76
+    },
+    {
+     "t": "una",
+     "ini": 4.76,
+     "fin": 4.94
+    },
+    {
+     "t": "infección,",
+     "ini": 4.94,
+     "fin": 5.5
+    },
+    {
+     "t": "ahora",
+     "ini": 5.92,
+     "fin": 6.18
+    },
+    {
+     "t": "trabaja",
+     "ini": 6.18,
+     "fin": 6.7
+    },
+    {
+     "t": "para",
+     "ini": 6.7,
+     "fin": 6.86
+    },
+    {
+     "t": "el",
+     "ini": 6.86,
+     "fin": 6.98
+    },
+    {
+     "t": "sistema",
+     "ini": 6.98,
+     "fin": 7.3
+    },
+    {
+     "t": "inmunitario.",
+     "ini": 7.3,
+     "fin": 8.02
+    }
+   ],
+   "tiempos": "whisper"
+  },
+  {
+   "id": "seleccion",
+   "texto": "Y los virus también nos moldearon de otra forma: quienes resistían mejor una infección dejaban más descendencia. No es que el virus quiera mejorarnos. Es selección natural.",
+   "fuente": "Principio general de la biología evolutiva",
+   "audio": "generado/virus/escena_8.wav",
+   "duracion_s": 9.573,
+   "palabras": [
+    {
+     "t": "Y",
+     "ini": 0.0,
+     "fin": 0.063
+    },
+    {
+     "t": "los",
+     "ini": 0.063,
+     "fin": 0.254
+    },
+    {
+     "t": "virus",
+     "ini": 0.254,
+     "fin": 0.571
+    },
+    {
+     "t": "también",
+     "ini": 0.571,
+     "fin": 1.015
+    },
+    {
+     "t": "nos",
+     "ini": 1.015,
+     "fin": 1.205
+    },
+    {
+     "t": "moldearon",
+     "ini": 1.205,
+     "fin": 1.776
+    },
+    {
+     "t": "de",
+     "ini": 1.776,
+     "fin": 1.903
+    },
+    {
+     "t": "otra",
+     "ini": 1.903,
+     "fin": 2.156
+    },
+    {
+     "t": "forma:",
+     "ini": 2.156,
+     "fin": 2.537
+    },
+    {
+     "t": "quienes",
+     "ini": 2.537,
+     "fin": 2.981
+    },
+    {
+     "t": "resistían",
+     "ini": 2.981,
+     "fin": 3.552
+    },
+    {
+     "t": "mejor",
+     "ini": 3.552,
+     "fin": 3.869
+    },
+    {
+     "t": "una",
+     "ini": 3.869,
+     "fin": 4.059
+    },
+    {
+     "t": "infección",
+     "ini": 4.059,
+     "fin": 4.63
+    },
+    {
+     "t": "dejaban",
+     "ini": 4.63,
+     "fin": 5.074
+    },
+    {
+     "t": "más",
+     "ini": 5.074,
+     "fin": 5.264
+    },
+    {
+     "t": "descendencia.",
+     "ini": 5.264,
+     "fin": 6.089
+    },
+    {
+     "t": "No",
+     "ini": 6.089,
+     "fin": 6.216
+    },
+    {
+     "t": "es",
+     "ini": 6.216,
+     "fin": 6.342
+    },
+    {
+     "t": "que",
+     "ini": 6.342,
+     "fin": 6.533
+    },
+    {
+     "t": "el",
+     "ini": 6.533,
+     "fin": 6.66
+    },
+    {
+     "t": "virus",
+     "ini": 6.66,
+     "fin": 6.977
+    },
+    {
+     "t": "quiera",
+     "ini": 6.977,
+     "fin": 7.357
+    },
+    {
+     "t": "mejorarnos.",
+     "ini": 7.357,
+     "fin": 8.055
+    },
+    {
+     "t": "Es",
+     "ini": 8.055,
+     "fin": 8.182
+    },
+    {
+     "t": "selección",
+     "ini": 8.182,
+     "fin": 8.753
+    },
+    {
+     "t": "natural.",
+     "ini": 8.753,
+     "fin": 9.26
+    }
+   ],
+   "tiempos": "proporcional"
+  },
+  {
+   "id": "viruela",
+   "texto": "Pero la mayor paradoja llegó con la viruela. De cada diez enfermos, murieron unos tres.",
+   "fuente": "CDC",
+   "audio": "generado/virus/escena_9.wav",
+   "duracion_s": 5.154,
+   "palabras": [
+    {
+     "t": "Pero",
+     "ini": 0.0,
+     "fin": 0.22
+    },
+    {
+     "t": "la",
+     "ini": 0.22,
+     "fin": 0.38
+    },
+    {
+     "t": "mayor",
+     "ini": 0.38,
+     "fin": 0.66
+    },
+    {
+     "t": "paradoja",
+     "ini": 0.66,
+     "fin": 1.2
+    },
+    {
+     "t": "llegó",
+     "ini": 1.2,
+     "fin": 1.4
+    },
+    {
+     "t": "con",
+     "ini": 1.4,
+     "fin": 1.66
+    },
+    {
+     "t": "la",
+     "ini": 1.66,
+     "fin": 1.76
+    },
+    {
+     "t": "viruela.",
+     "ini": 1.76,
+     "fin": 2.1
+    },
+    {
+     "t": "De",
+     "ini": 2.4,
+     "fin": 2.62
+    },
+    {
+     "t": "cada",
+     "ini": 2.62,
+     "fin": 2.86
+    },
+    {
+     "t": "diez",
+     "ini": 2.86,
+     "fin": 3.16
+    },
+    {
+     "t": "enfermos,",
+     "ini": 3.16,
+     "fin": 3.76
+    },
+    {
+     "t": "murieron",
+     "ini": 3.76,
+     "fin": 4.32
+    },
+    {
+     "t": "unos",
+     "ini": 4.32,
+     "fin": 4.6
+    },
+    {
+     "t": "tres.",
+     "ini": 4.6,
+     "fin": 4.9
+    }
+   ],
+   "tiempos": "whisper"
+  },
+  {
+   "id": "jenner",
+   "texto": "En mil setecientos noventa y seis, Edward Jenner probó que la viruela de las vacas podía proteger contra la humana. De ahí viene la palabra vacuna.",
+   "fuente": "CDC",
+   "audio": "generado/virus/escena_10.wav",
+   "duracion_s": 8.17,
+   "palabras": [
+    {
+     "t": "En",
+     "ini": 0.0,
+     "fin": 0.129
+    },
+    {
+     "t": "mil",
+     "ini": 0.129,
+     "fin": 0.322
+    },
+    {
+     "t": "setecientos",
+     "ini": 0.322,
+     "fin": 1.031
+    },
+    {
+     "t": "noventa",
+     "ini": 1.031,
+     "fin": 1.482
+    },
+    {
+     "t": "y",
+     "ini": 1.482,
+     "fin": 1.546
+    },
+    {
+     "t": "seis,",
+     "ini": 1.546,
+     "fin": 1.868
+    },
+    {
+     "t": "Edward",
+     "ini": 1.868,
+     "fin": 2.255
+    },
+    {
+     "t": "Jenner",
+     "ini": 2.255,
+     "fin": 2.641
+    },
+    {
+     "t": "probó",
+     "ini": 2.641,
+     "fin": 2.964
+    },
+    {
+     "t": "que",
+     "ini": 2.964,
+     "fin": 3.157
+    },
+    {
+     "t": "la",
+     "ini": 3.157,
+     "fin": 3.286
+    },
+    {
+     "t": "viruela",
+     "ini": 3.286,
+     "fin": 3.737
+    },
+    {
+     "t": "de",
+     "ini": 3.737,
+     "fin": 3.866
+    },
+    {
+     "t": "las",
+     "ini": 3.866,
+     "fin": 4.059
+    },
+    {
+     "t": "vacas",
+     "ini": 4.059,
+     "fin": 4.381
+    },
+    {
+     "t": "podía",
+     "ini": 4.381,
+     "fin": 4.703
+    },
+    {
+     "t": "proteger",
+     "ini": 4.703,
+     "fin": 5.219
+    },
+    {
+     "t": "contra",
+     "ini": 5.219,
+     "fin": 5.605
+    },
+    {
+     "t": "la",
+     "ini": 5.605,
+     "fin": 5.734
+    },
+    {
+     "t": "humana.",
+     "ini": 5.734,
+     "fin": 6.185
+    },
+    {
+     "t": "De",
+     "ini": 6.185,
+     "fin": 6.314
+    },
+    {
+     "t": "ahí",
+     "ini": 6.314,
+     "fin": 6.507
+    },
+    {
+     "t": "viene",
+     "ini": 6.507,
+     "fin": 6.829
+    },
+    {
+     "t": "la",
+     "ini": 6.829,
+     "fin": 6.958
+    },
+    {
+     "t": "palabra",
+     "ini": 6.958,
+     "fin": 7.409
+    },
+    {
+     "t": "vacuna.",
+     "ini": 7.409,
+     "fin": 7.86
+    }
+   ],
+   "tiempos": "proporcional"
+  },
+  {
+   "id": "erradicacion",
+   "texto": "Más tarde, las vacunas usaron otro virus emparentado, el vaccinia. Y en mil novecientos ochenta, tras una campaña mundial, la viruela fue declarada erradicada.",
+   "fuente": "CDC; OMS",
+   "audio": "generado/virus/escena_11.wav",
+   "duracion_s": 9.86,
+   "palabras": [
+    {
+     "t": "Más",
+     "ini": 0.0,
+     "fin": 0.214
+    },
+    {
+     "t": "tarde,",
+     "ini": 0.214,
+     "fin": 0.642
+    },
+    {
+     "t": "las",
+     "ini": 0.642,
+     "fin": 0.856
+    },
+    {
+     "t": "vacunas",
+     "ini": 0.856,
+     "fin": 1.355
+    },
+    {
+     "t": "usaron",
+     "ini": 1.355,
+     "fin": 1.783
+    },
+    {
+     "t": "otro",
+     "ini": 1.783,
+     "fin": 2.068
+    },
+    {
+     "t": "virus",
+     "ini": 2.068,
+     "fin": 2.425
+    },
+    {
+     "t": "emparentado,",
+     "ini": 2.425,
+     "fin": 3.281
+    },
+    {
+     "t": "el",
+     "ini": 3.281,
+     "fin": 3.424
+    },
+    {
+     "t": "vaccinia.",
+     "ini": 3.424,
+     "fin": 4.065
+    },
+    {
+     "t": "Y",
+     "ini": 4.065,
+     "fin": 4.137
+    },
+    {
+     "t": "en",
+     "ini": 4.137,
+     "fin": 4.279
+    },
+    {
+     "t": "mil",
+     "ini": 4.279,
+     "fin": 4.493
+    },
+    {
+     "t": "novecientos",
+     "ini": 4.493,
+     "fin": 5.278
+    },
+    {
+     "t": "ochenta,",
+     "ini": 5.278,
+     "fin": 5.849
+    },
+    {
+     "t": "tras",
+     "ini": 5.849,
+     "fin": 6.134
+    },
+    {
+     "t": "una",
+     "ini": 6.134,
+     "fin": 6.348
+    },
+    {
+     "t": "campaña",
+     "ini": 6.348,
+     "fin": 6.847
+    },
+    {
+     "t": "mundial,",
+     "ini": 6.847,
+     "fin": 7.418
+    },
+    {
+     "t": "la",
+     "ini": 7.418,
+     "fin": 7.56
+    },
+    {
+     "t": "viruela",
+     "ini": 7.56,
+     "fin": 8.06
+    },
+    {
+     "t": "fue",
+     "ini": 8.06,
+     "fin": 8.274
+    },
+    {
+     "t": "declarada",
+     "ini": 8.274,
+     "fin": 8.915
+    },
+    {
+     "t": "erradicada.",
+     "ini": 8.915,
+     "fin": 9.7
+    }
+   ],
+   "tiempos": "proporcional"
+  },
+  {
+   "id": "cierre",
+   "texto": "Los virus siguen siendo peligrosos. Pero una parte de aquello contra lo que luchamos también forma parte de lo que somos.",
+   "fuente": "Conclusión del autor",
+   "audio": "generado/virus/escena_12.wav",
+   "duracion_s": 6.805,
+   "palabras": [
+    {
+     "t": "Los",
+     "ini": 0.0,
+     "fin": 0.22
+    },
+    {
+     "t": "virus",
+     "ini": 0.22,
+     "fin": 0.56
+    },
+    {
+     "t": "siguen",
+     "ini": 0.56,
+     "fin": 1.16
+    },
+    {
+     "t": "siendo",
+     "ini": 1.16,
+     "fin": 1.46
+    },
+    {
+     "t": "peligrosos.",
+     "ini": 1.46,
+     "fin": 2.44
+    },
+    {
+     "t": "Pero",
+     "ini": 2.54,
+     "fin": 2.74
+    },
+    {
+     "t": "una",
+     "ini": 2.74,
+     "fin": 2.96
+    },
+    {
+     "t": "parte",
+     "ini": 2.96,
+     "fin": 3.3
+    },
+    {
+     "t": "de",
+     "ini": 3.3,
+     "fin": 3.5
+    },
+    {
+     "t": "aquello",
+     "ini": 3.5,
+     "fin": 3.82
+    },
+    {
+     "t": "contra",
+     "ini": 3.82,
+     "fin": 4.08
+    },
+    {
+     "t": "lo",
+     "ini": 4.08,
+     "fin": 4.28
+    },
+    {
+     "t": "que",
+     "ini": 4.28,
+     "fin": 4.38
+    },
+    {
+     "t": "luchamos",
+     "ini": 4.38,
+     "fin": 4.8
+    },
+    {
+     "t": "también",
+     "ini": 4.8,
+     "fin": 5.14
+    },
+    {
+     "t": "forma",
+     "ini": 5.14,
+     "fin": 5.5
+    },
+    {
+     "t": "parte",
+     "ini": 5.5,
+     "fin": 5.9
+    },
+    {
+     "t": "de",
+     "ini": 5.9,
+     "fin": 6.06
+    },
+    {
+     "t": "lo",
+     "ini": 6.06,
+     "fin": 6.18
+    },
+    {
+     "t": "que",
+     "ini": 6.18,
+     "fin": 6.28
+    },
+    {
+     "t": "somos.",
+     "ini": 6.28,
+     "fin": 6.52
+    }
+   ],
+   "tiempos": "whisper"
+  }
+ ]
+}

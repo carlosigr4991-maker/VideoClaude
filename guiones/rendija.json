@@ -1,0 +1,15 @@
+{
+  "id": "rendija",
+  "escenas": [
+    {"id": "bolitas", "texto": "Lanza bolitas contra una pared con dos rendijas. Detrás, en una pantalla, verás dos franjas. Una por cada abertura.", "fuente": "Física clásica"},
+    {"id": "electrones", "texto": "Ahora cambia las bolitas por electrones. En mil novecientos sesenta y uno, Claus Jönsson hizo este experimento, y la pantalla no mostró dos franjas. Mostró muchas.", "fuente": "Jönsson, Zeitschrift für Physik 1961"},
+    {"id": "ondas", "texto": "Es el patrón que dejan dos ondas cuando se cruzan. Donde se suman, una franja brillante. Donde se cancelan, oscuridad.", "fuente": "Física de ondas"},
+    {"id": "uno", "texto": "Se podría pensar que los electrones chocan entre sí. Pero en mil novecientos ochenta y nueve, un equipo de Hitachi, en una versión de este experimento, los envió uno por uno. Cada electrón dejó un solo punto. Y aun así, punto tras punto, las franjas aparecieron.", "fuente": "Tonomura et al., American Journal of Physics 1989"},
+    {"id": "detector", "texto": "Entonces viene lo más extraño. Si colocas un detector capaz de revelar por qué camino pasa cada electrón, las franjas se apagan.", "fuente": "Buks et al., Nature 1998"},
+    {"id": "mente", "texto": "No es que tu mirada cambie la materia. No hace falta ninguna mente. El detector interactúa físicamente con el electrón, y esa interacción basta para borrar las franjas.", "fuente": "Buks et al., Nature 1998"},
+    {"id": "caminos", "texto": "¿Entonces el electrón pasó por los dos lados? No exactamente. La mecánica cuántica no describe una bolita en dos caminos, sino posibilidades que se pueden sumar o cancelar.", "fuente": "Mecánica cuántica"},
+    {"id": "debate", "texto": "Qué significa eso en realidad, los físicos todavía lo debaten. Las fórmulas predicen el resultado, pero no hay una sola interpretación aceptada.", "fuente": "Tesis del usuario"},
+    {"id": "limites", "texto": "Este experimento no prueba que vivamos en una simulación, ni que el pensamiento cree la realidad. Prueba algo más incómodo: nuestra intuición no sirve para todo.", "fuente": "Tesis del usuario"},
+    {"id": "cierre", "texto": "Creíamos que observar era solo mirar. En el mundo cuántico, medir es interactuar. Y quizás el universo sea más extraño de lo que nuestra mente puede imaginar.", "fuente": "Tesis del usuario"}
+  ]
+}

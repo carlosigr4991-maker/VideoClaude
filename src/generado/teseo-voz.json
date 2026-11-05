@@ -1,0 +1,1417 @@
+{
+ "id": "teseo-voz",
+ "perfil": "voz",
+ "escenas": [
+  {
+   "id": "gancho",
+   "texto": "¿Eres la misma persona que hace cinco minutos? Piénsalo bien. En ese tiempo, tu cuerpo reemplazó más de mil millones de células. Y esta pregunta empezó con un barco.",
+   "fuente": "Sender y Milo, Nature Medicine 2021",
+   "audio": "generado/teseo-voz/escena_1.wav",
+   "duracion_s": 12.86,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "¿Eres",
+     "ini": 0.0,
+     "fin": 0.3
+    },
+    {
+     "t": "la",
+     "ini": 0.3,
+     "fin": 0.5
+    },
+    {
+     "t": "misma",
+     "ini": 0.5,
+     "fin": 0.74
+    },
+    {
+     "t": "persona",
+     "ini": 0.74,
+     "fin": 1.24
+    },
+    {
+     "t": "que",
+     "ini": 1.24,
+     "fin": 1.46
+    },
+    {
+     "t": "hace",
+     "ini": 1.46,
+     "fin": 1.68
+    },
+    {
+     "t": "cinco",
+     "ini": 1.75,
+     "fin": 2.06
+    },
+    {
+     "t": "minutos?",
+     "ini": 2.04,
+     "fin": 2.44
+    },
+    {
+     "t": "Piénsalo",
+     "ini": 3.22,
+     "fin": 3.86
+    },
+    {
+     "t": "bien.",
+     "ini": 3.86,
+     "fin": 4.12
+    },
+    {
+     "t": "En",
+     "ini": 4.8,
+     "fin": 5.02
+    },
+    {
+     "t": "ese",
+     "ini": 5.02,
+     "fin": 5.18
+    },
+    {
+     "t": "tiempo,",
+     "ini": 5.18,
+     "fin": 5.6
+    },
+    {
+     "t": "tu",
+     "ini": 6.04,
+     "fin": 6.14
+    },
+    {
+     "t": "cuerpo",
+     "ini": 6.14,
+     "fin": 6.46
+    },
+    {
+     "t": "reemplazó",
+     "ini": 6.46,
+     "fin": 7.16
+    },
+    {
+     "t": "más",
+     "ini": 7.16,
+     "fin": 7.38
+    },
+    {
+     "t": "de",
+     "ini": 7.38,
+     "fin": 7.58
+    },
+    {
+     "t": "mil",
+     "ini": 7.58,
+     "fin": 7.9
+    },
+    {
+     "t": "millones",
+     "ini": 7.9,
+     "fin": 8.44
+    },
+    {
+     "t": "de",
+     "ini": 8.44,
+     "fin": 8.68
+    },
+    {
+     "t": "células.",
+     "ini": 8.68,
+     "fin": 9.06
+    },
+    {
+     "t": "Y",
+     "ini": 9.74,
+     "fin": 10.06
+    },
+    {
+     "t": "esta",
+     "ini": 10.06,
+     "fin": 10.28
+    },
+    {
+     "t": "pregunta",
+     "ini": 10.28,
+     "fin": 10.72
+    },
+    {
+     "t": "empezó",
+     "ini": 10.72,
+     "fin": 11.68
+    },
+    {
+     "t": "con",
+     "ini": 11.68,
+     "fin": 11.84
+    },
+    {
+     "t": "un",
+     "ini": 11.84,
+     "fin": 12.0
+    },
+    {
+     "t": "barco.",
+     "ini": 12.0,
+     "fin": 12.4
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "barco",
+   "texto": "Los atenienses conservaron durante siglos el barco de Teseo. Cuando una tabla se pudría, la cambiaban por otra. Imagina el día en que ya no queda ninguna original. ¿Sigue siendo el mismo barco?",
+   "fuente": "Plutarco, Vida de Teseo",
+   "audio": "generado/teseo-voz/escena_2.wav",
+   "duracion_s": 14.015,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Los",
+     "ini": 0.46,
+     "fin": 0.64
+    },
+    {
+     "t": "atenienses",
+     "ini": 0.83,
+     "fin": 1.28
+    },
+    {
+     "t": "conservaron",
+     "ini": 1.2,
+     "fin": 1.92
+    },
+    {
+     "t": "durante",
+     "ini": 1.92,
+     "fin": 2.18
+    },
+    {
+     "t": "siglos",
+     "ini": 2.18,
+     "fin": 2.78
+    },
+    {
+     "t": "el",
+     "ini": 2.78,
+     "fin": 3.16
+    },
+    {
+     "t": "barco",
+     "ini": 3.16,
+     "fin": 3.54
+    },
+    {
+     "t": "de",
+     "ini": 3.54,
+     "fin": 3.68
+    },
+    {
+     "t": "Teseo.",
+     "ini": 3.68,
+     "fin": 4.16
+    },
+    {
+     "t": "Cuando",
+     "ini": 4.78,
+     "fin": 5.1
+    },
+    {
+     "t": "una",
+     "ini": 5.1,
+     "fin": 5.4
+    },
+    {
+     "t": "tabla",
+     "ini": 5.4,
+     "fin": 5.76
+    },
+    {
+     "t": "se",
+     "ini": 5.76,
+     "fin": 5.94
+    },
+    {
+     "t": "pudría,",
+     "ini": 5.94,
+     "fin": 6.42
+    },
+    {
+     "t": "la",
+     "ini": 6.8,
+     "fin": 6.96
+    },
+    {
+     "t": "cambiaban",
+     "ini": 6.96,
+     "fin": 7.52
+    },
+    {
+     "t": "por",
+     "ini": 7.52,
+     "fin": 7.74
+    },
+    {
+     "t": "otra.",
+     "ini": 7.74,
+     "fin": 8.0
+    },
+    {
+     "t": "Imagina",
+     "ini": 8.66,
+     "fin": 9.14
+    },
+    {
+     "t": "el",
+     "ini": 9.14,
+     "fin": 9.3
+    },
+    {
+     "t": "día",
+     "ini": 9.3,
+     "fin": 9.52
+    },
+    {
+     "t": "en",
+     "ini": 9.52,
+     "fin": 9.72
+    },
+    {
+     "t": "que",
+     "ini": 9.72,
+     "fin": 9.84
+    },
+    {
+     "t": "ya",
+     "ini": 9.84,
+     "fin": 10.04
+    },
+    {
+     "t": "no",
+     "ini": 10.04,
+     "fin": 10.18
+    },
+    {
+     "t": "queda",
+     "ini": 10.18,
+     "fin": 10.42
+    },
+    {
+     "t": "ninguna",
+     "ini": 10.42,
+     "fin": 10.92
+    },
+    {
+     "t": "original.",
+     "ini": 10.92,
+     "fin": 11.48
+    },
+    {
+     "t": "¿Sigue",
+     "ini": 12.32,
+     "fin": 12.64
+    },
+    {
+     "t": "siendo",
+     "ini": 12.64,
+     "fin": 13.02
+    },
+    {
+     "t": "el",
+     "ini": 13.02,
+     "fin": 13.18
+    },
+    {
+     "t": "mismo",
+     "ini": 13.18,
+     "fin": 13.42
+    },
+    {
+     "t": "barco?",
+     "ini": 13.42,
+     "fin": 13.88
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "segundo",
+   "texto": "Thomas Hobbes lo complicó aún más. ¿Y si alguien guarda las tablas viejas y arma otro barco con ellas? ¿Cuál es el verdadero? Todavía no hay una respuesta definitiva.",
+   "fuente": "Hobbes, De Corpore, 1655",
+   "audio": "generado/teseo-voz/escena_3.wav",
+   "duracion_s": 12.745,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Thomas",
+     "ini": 0.135,
+     "fin": 0.585
+    },
+    {
+     "t": "Hobbes",
+     "ini": 0.865,
+     "fin": 1.305
+    },
+    {
+     "t": "lo",
+     "ini": 1.305,
+     "fin": 1.525
+    },
+    {
+     "t": "complicó",
+     "ini": 1.525,
+     "fin": 2.065
+    },
+    {
+     "t": "aún",
+     "ini": 2.065,
+     "fin": 2.305
+    },
+    {
+     "t": "más.",
+     "ini": 2.305,
+     "fin": 2.625
+    },
+    {
+     "t": "¿Y",
+     "ini": 3.365,
+     "fin": 3.725
+    },
+    {
+     "t": "si",
+     "ini": 3.725,
+     "fin": 3.805
+    },
+    {
+     "t": "alguien",
+     "ini": 3.805,
+     "fin": 4.145
+    },
+    {
+     "t": "guarda",
+     "ini": 4.145,
+     "fin": 4.585
+    },
+    {
+     "t": "las",
+     "ini": 4.585,
+     "fin": 4.725
+    },
+    {
+     "t": "tablas",
+     "ini": 4.725,
+     "fin": 5.045
+    },
+    {
+     "t": "viejas",
+     "ini": 5.045,
+     "fin": 5.565
+    },
+    {
+     "t": "y",
+     "ini": 5.565,
+     "fin": 6.025
+    },
+    {
+     "t": "arma",
+     "ini": 6.025,
+     "fin": 6.285
+    },
+    {
+     "t": "otro",
+     "ini": 6.285,
+     "fin": 6.585
+    },
+    {
+     "t": "barco",
+     "ini": 6.585,
+     "fin": 6.985
+    },
+    {
+     "t": "con",
+     "ini": 6.985,
+     "fin": 7.165
+    },
+    {
+     "t": "ellas?",
+     "ini": 7.165,
+     "fin": 7.385
+    },
+    {
+     "t": "¿Cuál",
+     "ini": 8.245,
+     "fin": 8.525
+    },
+    {
+     "t": "es",
+     "ini": 8.525,
+     "fin": 8.685
+    },
+    {
+     "t": "el",
+     "ini": 8.685,
+     "fin": 8.845
+    },
+    {
+     "t": "verdadero?",
+     "ini": 8.845,
+     "fin": 9.325
+    },
+    {
+     "t": "Todavía",
+     "ini": 10.045,
+     "fin": 10.485
+    },
+    {
+     "t": "no",
+     "ini": 10.485,
+     "fin": 10.725
+    },
+    {
+     "t": "hay",
+     "ini": 10.725,
+     "fin": 10.965
+    },
+    {
+     "t": "una",
+     "ini": 10.965,
+     "fin": 11.145
+    },
+    {
+     "t": "respuesta",
+     "ini": 11.145,
+     "fin": 11.565
+    },
+    {
+     "t": "definitiva.",
+     "ini": 11.565,
+     "fin": 12.345
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "cuerpo",
+   "texto": "Ahora piensa que ese barco eres tú.",
+   "fuente": "Tesis del usuario",
+   "audio": "generado/teseo-voz/escena_4.wav",
+   "duracion_s": 3.14,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Ahora",
+     "ini": 0.4,
+     "fin": 0.78
+    },
+    {
+     "t": "piensa",
+     "ini": 0.78,
+     "fin": 1.28
+    },
+    {
+     "t": "que",
+     "ini": 1.28,
+     "fin": 1.48
+    },
+    {
+     "t": "ese",
+     "ini": 1.48,
+     "fin": 1.68
+    },
+    {
+     "t": "barco",
+     "ini": 1.68,
+     "fin": 2.12
+    },
+    {
+     "t": "eres",
+     "ini": 2.12,
+     "fin": 2.42
+    },
+    {
+     "t": "tú.",
+     "ini": 2.42,
+     "fin": 2.7
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "renovacion",
+   "texto": "Las células que recubren tu intestino duran unos pocos días. Tus glóbulos rojos, unos cuatro meses. Y tus huesos se destruyen y se reconstruyen sin parar.",
+   "fuente": "Spalding et al., Cell 2005; Sender y Milo, Nature Medicine 2021",
+   "audio": "generado/teseo-voz/escena_5.wav",
+   "duracion_s": 11.42,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Las",
+     "ini": 0.44,
+     "fin": 0.68
+    },
+    {
+     "t": "células",
+     "ini": 0.68,
+     "fin": 0.96
+    },
+    {
+     "t": "que",
+     "ini": 0.96,
+     "fin": 1.24
+    },
+    {
+     "t": "recubren",
+     "ini": 1.24,
+     "fin": 1.72
+    },
+    {
+     "t": "tu",
+     "ini": 1.72,
+     "fin": 1.9
+    },
+    {
+     "t": "intestino",
+     "ini": 1.9,
+     "fin": 2.5
+    },
+    {
+     "t": "duran",
+     "ini": 2.5,
+     "fin": 3.24
+    },
+    {
+     "t": "unos",
+     "ini": 3.24,
+     "fin": 3.44
+    },
+    {
+     "t": "pocos",
+     "ini": 3.44,
+     "fin": 3.86
+    },
+    {
+     "t": "días.",
+     "ini": 3.86,
+     "fin": 4.16
+    },
+    {
+     "t": "Tus",
+     "ini": 4.86,
+     "fin": 5.02
+    },
+    {
+     "t": "glóbulos",
+     "ini": 5.02,
+     "fin": 5.56
+    },
+    {
+     "t": "rojos,",
+     "ini": 5.56,
+     "fin": 5.94
+    },
+    {
+     "t": "unos",
+     "ini": 5.94,
+     "fin": 6.44
+    },
+    {
+     "t": "cuatro",
+     "ini": 6.44,
+     "fin": 6.86
+    },
+    {
+     "t": "meses.",
+     "ini": 6.86,
+     "fin": 7.24
+    },
+    {
+     "t": "Y",
+     "ini": 7.78,
+     "fin": 8.14
+    },
+    {
+     "t": "tus",
+     "ini": 8.14,
+     "fin": 8.3
+    },
+    {
+     "t": "huesos",
+     "ini": 8.3,
+     "fin": 8.72
+    },
+    {
+     "t": "se",
+     "ini": 8.72,
+     "fin": 8.92
+    },
+    {
+     "t": "destruyen",
+     "ini": 8.92,
+     "fin": 9.5
+    },
+    {
+     "t": "y",
+     "ini": 9.5,
+     "fin": 9.62
+    },
+    {
+     "t": "se",
+     "ini": 9.62,
+     "fin": 9.74
+    },
+    {
+     "t": "reconstruyen",
+     "ini": 9.74,
+     "fin": 10.52
+    },
+    {
+     "t": "sin",
+     "ini": 10.52,
+     "fin": 10.76
+    },
+    {
+     "t": "parar.",
+     "ini": 10.76,
+     "fin": 11.06
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "siete",
+   "texto": "Dicen que cada siete años cambias por completo. Es falso. Muchas neuronas de tu corteza tienen casi tu misma edad.",
+   "fuente": "Spalding et al., Cell 2005",
+   "audio": "generado/teseo-voz/escena_6.wav",
+   "duracion_s": 9.53,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Dicen",
+     "ini": 0.36,
+     "fin": 1.0
+    },
+    {
+     "t": "que",
+     "ini": 1.0,
+     "fin": 1.18
+    },
+    {
+     "t": "cada",
+     "ini": 1.18,
+     "fin": 1.4
+    },
+    {
+     "t": "siete",
+     "ini": 1.4,
+     "fin": 1.72
+    },
+    {
+     "t": "años",
+     "ini": 1.72,
+     "fin": 2.18
+    },
+    {
+     "t": "cambias",
+     "ini": 2.18,
+     "fin": 2.78
+    },
+    {
+     "t": "por",
+     "ini": 2.78,
+     "fin": 3.02
+    },
+    {
+     "t": "completo.",
+     "ini": 3.02,
+     "fin": 3.52
+    },
+    {
+     "t": "Es",
+     "ini": 4.16,
+     "fin": 4.42
+    },
+    {
+     "t": "falso.",
+     "ini": 4.42,
+     "fin": 4.82
+    },
+    {
+     "t": "Muchas",
+     "ini": 5.44,
+     "fin": 5.82
+    },
+    {
+     "t": "neuronas",
+     "ini": 5.82,
+     "fin": 6.46
+    },
+    {
+     "t": "de",
+     "ini": 6.46,
+     "fin": 6.58
+    },
+    {
+     "t": "tu",
+     "ini": 6.58,
+     "fin": 6.7
+    },
+    {
+     "t": "corteza",
+     "ini": 6.7,
+     "fin": 7.22
+    },
+    {
+     "t": "tienen",
+     "ini": 7.22,
+     "fin": 7.84
+    },
+    {
+     "t": "casi",
+     "ini": 7.84,
+     "fin": 8.26
+    },
+    {
+     "t": "tu",
+     "ini": 8.26,
+     "fin": 8.52
+    },
+    {
+     "t": "misma",
+     "ini": 8.52,
+     "fin": 8.82
+    },
+    {
+     "t": "edad.",
+     "ini": 8.82,
+     "fin": 9.26
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "rio",
+   "texto": "Entonces, ¿qué permanece? Piensa en un río. El agua nunca es la misma, pero sigue siendo el mismo río. Quizás lo que perdura no sea la materia, sino el proceso.",
+   "fuente": "Tesis del usuario",
+   "audio": "generado/teseo-voz/escena_7.wav",
+   "duracion_s": 12.92,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Entonces,",
+     "ini": 0.27,
+     "fin": 0.77
+    },
+    {
+     "t": "¿qué",
+     "ini": 1.31,
+     "fin": 1.47
+    },
+    {
+     "t": "permanece?",
+     "ini": 1.47,
+     "fin": 2.11
+    },
+    {
+     "t": "Piensa",
+     "ini": 2.83,
+     "fin": 3.29
+    },
+    {
+     "t": "en",
+     "ini": 3.29,
+     "fin": 3.45
+    },
+    {
+     "t": "un",
+     "ini": 3.45,
+     "fin": 3.57
+    },
+    {
+     "t": "río.",
+     "ini": 3.57,
+     "fin": 3.87
+    },
+    {
+     "t": "El",
+     "ini": 4.61,
+     "fin": 4.73
+    },
+    {
+     "t": "agua",
+     "ini": 4.73,
+     "fin": 4.99
+    },
+    {
+     "t": "nunca",
+     "ini": 4.99,
+     "fin": 5.35
+    },
+    {
+     "t": "es",
+     "ini": 5.35,
+     "fin": 5.59
+    },
+    {
+     "t": "la",
+     "ini": 5.59,
+     "fin": 5.71
+    },
+    {
+     "t": "misma,",
+     "ini": 5.71,
+     "fin": 6.03
+    },
+    {
+     "t": "pero",
+     "ini": 6.47,
+     "fin": 6.73
+    },
+    {
+     "t": "sigue",
+     "ini": 6.73,
+     "fin": 7.01
+    },
+    {
+     "t": "siendo",
+     "ini": 7.01,
+     "fin": 7.39
+    },
+    {
+     "t": "el",
+     "ini": 7.39,
+     "fin": 7.57
+    },
+    {
+     "t": "mismo",
+     "ini": 7.57,
+     "fin": 7.87
+    },
+    {
+     "t": "río.",
+     "ini": 7.87,
+     "fin": 8.27
+    },
+    {
+     "t": "Quizás",
+     "ini": 9.09,
+     "fin": 9.45
+    },
+    {
+     "t": "lo",
+     "ini": 9.45,
+     "fin": 9.61
+    },
+    {
+     "t": "que",
+     "ini": 9.61,
+     "fin": 9.73
+    },
+    {
+     "t": "perdura",
+     "ini": 9.73,
+     "fin": 10.15
+    },
+    {
+     "t": "no",
+     "ini": 10.15,
+     "fin": 10.37
+    },
+    {
+     "t": "sea",
+     "ini": 10.37,
+     "fin": 10.61
+    },
+    {
+     "t": "la",
+     "ini": 10.61,
+     "fin": 10.79
+    },
+    {
+     "t": "materia,",
+     "ini": 10.79,
+     "fin": 11.19
+    },
+    {
+     "t": "sino",
+     "ini": 11.63,
+     "fin": 11.93
+    },
+    {
+     "t": "el",
+     "ini": 11.93,
+     "fin": 12.13
+    },
+    {
+     "t": "proceso.",
+     "ini": 12.13,
+     "fin": 12.51
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "mente",
+   "texto": "Ni siquiera tu mente está quieta. Lo que aprendes y lo que recuerdas pueden cambiar las conexiones de tus neuronas.",
+   "fuente": "Tesis del usuario",
+   "audio": "generado/teseo-voz/escena_8.wav",
+   "duracion_s": 7.95,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Ni",
+     "ini": 0.41,
+     "fin": 0.65
+    },
+    {
+     "t": "siquiera",
+     "ini": 0.65,
+     "fin": 0.99
+    },
+    {
+     "t": "tu",
+     "ini": 0.99,
+     "fin": 1.17
+    },
+    {
+     "t": "mente",
+     "ini": 1.17,
+     "fin": 1.49
+    },
+    {
+     "t": "está",
+     "ini": 1.49,
+     "fin": 1.81
+    },
+    {
+     "t": "quieta.",
+     "ini": 1.81,
+     "fin": 2.31
+    },
+    {
+     "t": "Lo",
+     "ini": 2.97,
+     "fin": 3.11
+    },
+    {
+     "t": "que",
+     "ini": 3.11,
+     "fin": 3.23
+    },
+    {
+     "t": "aprendes",
+     "ini": 3.23,
+     "fin": 3.77
+    },
+    {
+     "t": "y",
+     "ini": 3.77,
+     "fin": 3.87
+    },
+    {
+     "t": "lo",
+     "ini": 3.87,
+     "fin": 3.97
+    },
+    {
+     "t": "que",
+     "ini": 3.97,
+     "fin": 4.09
+    },
+    {
+     "t": "recuerdas",
+     "ini": 4.09,
+     "fin": 4.67
+    },
+    {
+     "t": "pueden",
+     "ini": 4.67,
+     "fin": 5.29
+    },
+    {
+     "t": "cambiar",
+     "ini": 5.29,
+     "fin": 5.79
+    },
+    {
+     "t": "las",
+     "ini": 5.79,
+     "fin": 6.05
+    },
+    {
+     "t": "conexiones",
+     "ini": 6.05,
+     "fin": 6.65
+    },
+    {
+     "t": "de",
+     "ini": 6.65,
+     "fin": 6.87
+    },
+    {
+     "t": "tus",
+     "ini": 6.87,
+     "fin": 7.01
+    },
+    {
+     "t": "neuronas.",
+     "ini": 7.01,
+     "fin": 7.69
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "foto",
+   "texto": "Mira una foto tuya de hace diez años. Esa persona tenía otros miedos, otros sueños, otras certezas. Y aun así, no es una desconocida.",
+   "fuente": "Tesis del usuario",
+   "audio": "generado/teseo-voz/escena_9.wav",
+   "duracion_s": 11.66,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Mira",
+     "ini": 0.26,
+     "fin": 0.56
+    },
+    {
+     "t": "una",
+     "ini": 0.56,
+     "fin": 0.82
+    },
+    {
+     "t": "foto",
+     "ini": 0.82,
+     "fin": 1.08
+    },
+    {
+     "t": "tuya",
+     "ini": 1.08,
+     "fin": 1.52
+    },
+    {
+     "t": "de",
+     "ini": 1.52,
+     "fin": 1.66
+    },
+    {
+     "t": "hace",
+     "ini": 1.66,
+     "fin": 1.86
+    },
+    {
+     "t": "diez",
+     "ini": 1.86,
+     "fin": 2.18
+    },
+    {
+     "t": "años.",
+     "ini": 2.18,
+     "fin": 2.52
+    },
+    {
+     "t": "Esa",
+     "ini": 3.28,
+     "fin": 3.62
+    },
+    {
+     "t": "persona",
+     "ini": 3.62,
+     "fin": 4.0
+    },
+    {
+     "t": "tenía",
+     "ini": 4.0,
+     "fin": 4.42
+    },
+    {
+     "t": "otros",
+     "ini": 4.42,
+     "fin": 4.76
+    },
+    {
+     "t": "miedos,",
+     "ini": 4.76,
+     "fin": 5.36
+    },
+    {
+     "t": "otros",
+     "ini": 5.82,
+     "fin": 6.02
+    },
+    {
+     "t": "sueños,",
+     "ini": 6.02,
+     "fin": 6.5
+    },
+    {
+     "t": "otras",
+     "ini": 7.06,
+     "fin": 7.3
+    },
+    {
+     "t": "certezas.",
+     "ini": 7.3,
+     "fin": 8.0
+    },
+    {
+     "t": "Y",
+     "ini": 8.68,
+     "fin": 8.9
+    },
+    {
+     "t": "aun",
+     "ini": 8.9,
+     "fin": 9.06
+    },
+    {
+     "t": "así,",
+     "ini": 9.06,
+     "fin": 9.42
+    },
+    {
+     "t": "no",
+     "ini": 9.86,
+     "fin": 10.12
+    },
+    {
+     "t": "es",
+     "ini": 10.12,
+     "fin": 10.36
+    },
+    {
+     "t": "una",
+     "ini": 10.36,
+     "fin": 10.56
+    },
+    {
+     "t": "desconocida.",
+     "ini": 10.56,
+     "fin": 11.3
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "historia",
+   "texto": "Quizás la identidad no consista en conservar cada pieza, sino en la historia que las conecta. Cambiar no siempre es perderte. A veces es crecer.",
+   "fuente": "Tesis del usuario",
+   "audio": "generado/teseo-voz/escena_10.wav",
+   "duracion_s": 11.23,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Quizás",
+     "ini": 0.36,
+     "fin": 0.68
+    },
+    {
+     "t": "la",
+     "ini": 0.68,
+     "fin": 0.84
+    },
+    {
+     "t": "identidad",
+     "ini": 0.84,
+     "fin": 1.38
+    },
+    {
+     "t": "no",
+     "ini": 1.38,
+     "fin": 1.6
+    },
+    {
+     "t": "consista",
+     "ini": 1.67,
+     "fin": 1.96
+    },
+    {
+     "t": "en",
+     "ini": 1.96,
+     "fin": 2.32
+    },
+    {
+     "t": "conservar",
+     "ini": 2.32,
+     "fin": 2.86
+    },
+    {
+     "t": "cada",
+     "ini": 2.86,
+     "fin": 3.1
+    },
+    {
+     "t": "pieza,",
+     "ini": 3.1,
+     "fin": 3.64
+    },
+    {
+     "t": "sino",
+     "ini": 4.0,
+     "fin": 4.4
+    },
+    {
+     "t": "en",
+     "ini": 4.4,
+     "fin": 4.58
+    },
+    {
+     "t": "la",
+     "ini": 4.58,
+     "fin": 4.68
+    },
+    {
+     "t": "historia",
+     "ini": 4.68,
+     "fin": 5.06
+    },
+    {
+     "t": "que",
+     "ini": 5.06,
+     "fin": 5.32
+    },
+    {
+     "t": "las",
+     "ini": 5.32,
+     "fin": 5.46
+    },
+    {
+     "t": "conecta.",
+     "ini": 5.46,
+     "fin": 6.0
+    },
+    {
+     "t": "Cambiar",
+     "ini": 6.84,
+     "fin": 7.24
+    },
+    {
+     "t": "no",
+     "ini": 7.24,
+     "fin": 7.5
+    },
+    {
+     "t": "siempre",
+     "ini": 7.5,
+     "fin": 7.9
+    },
+    {
+     "t": "es",
+     "ini": 7.9,
+     "fin": 8.1
+    },
+    {
+     "t": "perderte.",
+     "ini": 8.1,
+     "fin": 8.64
+    },
+    {
+     "t": "A",
+     "ini": 9.42,
+     "fin": 9.56
+    },
+    {
+     "t": "veces",
+     "ini": 9.56,
+     "fin": 9.8
+    },
+    {
+     "t": "es",
+     "ini": 9.8,
+     "fin": 10.24
+    },
+    {
+     "t": "crecer.",
+     "ini": 10.24,
+     "fin": 10.74
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "cierre",
+   "texto": "No somos las piezas que nos componen. Somos la historia que esas piezas hicieron posible.",
+   "fuente": "Tesis del usuario",
+   "audio": "generado/teseo-voz/escena_11.wav",
+   "duracion_s": 6.79,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "No",
+     "ini": 0.49,
+     "fin": 0.75
+    },
+    {
+     "t": "somos",
+     "ini": 0.75,
+     "fin": 1.01
+    },
+    {
+     "t": "las",
+     "ini": 1.01,
+     "fin": 1.25
+    },
+    {
+     "t": "piezas",
+     "ini": 1.25,
+     "fin": 1.65
+    },
+    {
+     "t": "que",
+     "ini": 1.65,
+     "fin": 1.83
+    },
+    {
+     "t": "nos",
+     "ini": 1.83,
+     "fin": 1.97
+    },
+    {
+     "t": "componen.",
+     "ini": 1.97,
+     "fin": 2.55
+    },
+    {
+     "t": "Somos",
+     "ini": 2.55,
+     "fin": 3.47
+    },
+    {
+     "t": "la",
+     "ini": 3.47,
+     "fin": 3.59
+    },
+    {
+     "t": "historia",
+     "ini": 3.59,
+     "fin": 4.01
+    },
+    {
+     "t": "que",
+     "ini": 4.01,
+     "fin": 4.31
+    },
+    {
+     "t": "esas",
+     "ini": 4.31,
+     "fin": 4.53
+    },
+    {
+     "t": "piezas",
+     "ini": 4.53,
+     "fin": 5.13
+    },
+    {
+     "t": "hicieron",
+     "ini": 5.13,
+     "fin": 5.61
+    },
+    {
+     "t": "posible.",
+     "ini": 5.61,
+     "fin": 6.11
+    }
+   ],
+   "tiempos": "alineado"
+  }
+ ]
+}

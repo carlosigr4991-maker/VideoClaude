@@ -1,0 +1,13 @@
+{
+  "id": "padre-patricio",
+  "escenas": [
+    {"id": "frase", "texto": "«Queridos hermanos, un día, todos los que estamos aquí también vamos a morir». Lo dijo el padre Patricio Sánchez Molinari durante su homilía. Minutos después, ocurrió lo que nadie podía imaginar.", "etiqueta": "CONFIRMADO", "fuente": "Expreso; grabación de la misa"},
+    {"id": "lugar", "texto": "Era el sábado diecisiete de octubre de dos mil veintiséis, en la iglesia Nuestra Señora del Perpetuo Socorro, en Guayaquil, Ecuador. La misa se transmitía en vivo por redes sociales.", "etiqueta": "CONFIRMADO", "fuente": "Infobae; Expreso"},
+    {"id": "homilia", "texto": "Ese día, el padre hablaba del tiempo. Pedía dedicar menos horas a las cosas materiales y al trabajo, y más a la familia y a Dios.", "etiqueta": "CONFIRMADO", "fuente": "Expreso"},
+    {"id": "caida", "texto": "Cerca del minuto veintisiete de la celebración, la pesada cruz de madera que estaba detrás del altar se desprendió de la pared y cayó sobre él.", "etiqueta": "CONFIRMADO", "fuente": "Expreso; El Comercio"},
+    {"id": "auxilio", "texto": "Los fieles corrieron a auxiliarlo, pero el sacerdote no sobrevivió. La Arquidiócesis de Guayaquil confirmó su muerte.", "etiqueta": "CONFIRMADO", "fuente": "Expreso; comunicado de la Arquidiócesis"},
+    {"id": "quien", "texto": "Había nacido en Cuenca en mil novecientos setenta y tres, y pertenecía a los padres redentoristas. Quienes lo conocieron lo recuerdan como un hombre sencillo, humilde y cercano.", "etiqueta": "CONFIRMADO", "fuente": "El Universo"},
+    {"id": "despues", "texto": "Días después, el cardenal Luis Cabrera anunció una revisión técnica de los templos de la Arquidiócesis. Hasta donde se ha informado, todavía no hay una causa oficial de la caída.", "etiqueta": "SIN CAUSA OFICIAL", "fuente": "EWTN News, 28 de octubre de 2026; Expreso"},
+    {"id": "cierre", "texto": "Nada indica que él supiera lo que iba a pasar. Pero su última homilía nos deja una pregunta: ¿en qué gastamos nuestro tiempo?", "etiqueta": "REFLEXIÓN", "fuente": "El Tiempo"}
+  ]
+}

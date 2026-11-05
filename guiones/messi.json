@@ -1,0 +1,18 @@
+{
+  "id": "messi",
+  "perfil": "natural",
+  "escenas": [
+    {"id": "gancho", "texto": "Cristiano Ronaldo tiene más goles que Lionel Messi. Y aun así, hay un argumento muy fuerte para decir que Messi es el mejor de la historia.", "fuente": "Wikipedia, récords de ambos (nov. 2026)"},
+    {"id": "numeros", "texto": "Porque el argumento no es un número. Son dos. Más de novecientos treinta goles, y más de cuatrocientas veinte asistencias. Nadie en la historia ha dado más.", "fuente": "Wikipedia, logros de Messi (nov. 2026)"},
+    {"id": "fusion", "texto": "Casi todos los grandes son una de dos cosas: el que crea la jugada, o el que la termina. Messi es el diez y el nueve en un mismo cuerpo.", "fuente": "Opinión del autor"},
+    {"id": "cristiano", "texto": "Cristiano es la mayor máquina de gol que ha existido. Pero brilla más terminando jugadas que creándolas.", "fuente": "985 goles, Wikipedia; el resto es opinión"},
+    {"id": "maradona", "texto": "Maradona fue genio puro, y México ochenta y seis sigue siendo leyenda. Pero su cima fue más breve.", "fuente": "Opinión del autor"},
+    {"id": "pele", "texto": "Pelé ganó tres Mundiales, algo que nadie más ha logrado. Pero jugó otro fútbol, difícil de comparar.", "fuente": "Tres Mundiales: FIFA; el resto es opinión"},
+    {"id": "cruyff", "texto": "Cruyff y Di Stéfano cambiaron el juego para siempre. Pero sus cifras de gol quedan lejos.", "fuente": "Opinión del autor"},
+    {"id": "jovenes", "texto": "Mbappé y Haaland todavía están escribiendo su historia. La vara es sostenerlo durante dos décadas.", "fuente": "Opinión del autor"},
+    {"id": "tiempo", "texto": "Porque Messi ganó ocho Balones de Oro, entre dos mil nueve y dos mil veintitrés. Catorce años, del primero al último.", "fuente": "Wikipedia, logros de Messi"},
+    {"id": "titulos", "texto": "Y lo ganó casi todo. Cuatro Champions. Cuarenta y siete títulos. Y en Catar, por fin, el Mundial.", "fuente": "Wikipedia; ESPN"},
+    {"id": "ultimo", "texto": "En dos mil veintiséis, con treinta y nueve años, volvió a la final. La perdió contra España. Pero dejó ocho goles, cuatro asistencias y el Balón de Plata.", "fuente": "ESPN"},
+    {"id": "cierre", "texto": "¿Es el mejor de la historia? Nunca habrá una sola respuesta. Pero nadie ha juntado tanto gol, tanta creación, durante tanto tiempo. Y tú, ¿a quién elegirías?", "fuente": "Opinión del autor"}
+  ]
+}

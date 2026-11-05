@@ -1,0 +1,18 @@
+{
+  "id": "virus",
+  "perfil": "natural",
+  "escenas": [
+    {"id": "gancho", "texto": "Llevas virus escritos en tu ADN. Cerca del ocho por ciento de tu genoma viene de retrovirus antiguos que infectaron a nuestros ancestros.", "fuente": "Consorcio del Genoma Humano, Nature 2001"},
+    {"id": "infeccion", "texto": "Un retrovirus entra en una célula y copia su código dentro del ADN. Si esa célula es un óvulo o un espermatozoide, la copia se hereda, generación tras generación.", "fuente": "Griffiths, Genome Biology 2001"},
+    {"id": "restos", "texto": "Casi todas esas copias están dañadas, y ya no pueden fabricar virus. Pero la evolución reutilizó algunas.", "fuente": "Griffiths, Genome Biology 2001"},
+    {"id": "llave", "texto": "A un virus, una proteína de su envoltura le sirve para fusionarse con la célula y entrar.", "fuente": "Mi et al., Nature 2000"},
+    {"id": "placenta", "texto": "En nosotros, una versión de esa proteína se llama sincitina, y ayuda a fusionar células de la placenta, donde se forma la capa que separa la sangre de la madre y la del feto.", "fuente": "Mi et al., Nature 2000"},
+    {"id": "matiz", "texto": "Los virus no crearon la placenta. Pero la evolución aprovechó una de sus piezas.", "fuente": "Mi et al., Nature 2000"},
+    {"id": "defensa", "texto": "Otros restos virales ayudan hoy a encender genes de defensa. Lo que fue parte de una infección, ahora trabaja para el sistema inmunitario.", "fuente": "Chuong, Elde y Feschotte, Science 2016"},
+    {"id": "seleccion", "texto": "Y los virus también nos moldearon de otra forma: quienes resistían mejor una infección dejaban más descendencia. No es que el virus quiera mejorarnos. Es selección natural.", "fuente": "Principio general de la biología evolutiva"},
+    {"id": "viruela", "texto": "Pero la mayor paradoja llegó con la viruela. De cada diez enfermos, murieron unos tres.", "fuente": "CDC"},
+    {"id": "jenner", "texto": "En mil setecientos noventa y seis, Edward Jenner probó que la viruela de las vacas podía proteger contra la humana. De ahí viene la palabra vacuna.", "fuente": "CDC"},
+    {"id": "erradicacion", "texto": "Más tarde, las vacunas usaron otro virus emparentado, el vaccinia. Y en mil novecientos ochenta, tras una campaña mundial, la viruela fue declarada erradicada.", "fuente": "CDC; OMS"},
+    {"id": "cierre", "texto": "Los virus siguen siendo peligrosos. Pero una parte de aquello contra lo que luchamos también forma parte de lo que somos.", "fuente": "Conclusión del autor"}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "teseo",
+  "escenas": [
+    {"id": "gancho", "texto": "¿Eres la misma persona que hace cinco minutos? Piénsalo bien. En ese tiempo, tu cuerpo reemplazó más de mil millones de células. Y esta pregunta empezó con un barco.", "fuente": "Sender y Milo, Nature Medicine 2021"},
+    {"id": "barco", "texto": "Los atenienses conservaron durante siglos el barco de Teseo. Cuando una tabla se pudría, la cambiaban por otra. Imagina el día en que ya no queda ninguna original. ¿Sigue siendo el mismo barco?", "fuente": "Plutarco, Vida de Teseo"},
+    {"id": "segundo", "texto": "Thomas Hobbes lo complicó aún más. ¿Y si alguien guarda las tablas viejas y arma otro barco con ellas? ¿Cuál es el verdadero? Todavía no hay una respuesta definitiva.", "fuente": "Hobbes, De Corpore, 1655"},
+    {"id": "cuerpo", "texto": "Ahora piensa que ese barco eres tú.", "fuente": "Tesis del usuario"},
+    {"id": "renovacion", "texto": "Las células que recubren tu intestino duran unos pocos días. Tus glóbulos rojos, unos cuatro meses. Y tus huesos se destruyen y se reconstruyen sin parar.", "fuente": "Spalding et al., Cell 2005; Sender y Milo, Nature Medicine 2021"},
+    {"id": "siete", "texto": "Dicen que cada siete años cambias por completo. Es falso. Muchas neuronas de tu corteza tienen casi tu misma edad.", "fuente": "Spalding et al., Cell 2005"},
+    {"id": "rio", "texto": "Entonces, ¿qué permanece? Piensa en un río. El agua nunca es la misma, pero sigue siendo el mismo río. Quizás lo que perdura no sea la materia, sino el proceso.", "fuente": "Tesis del usuario"},
+    {"id": "mente", "texto": "Ni siquiera tu mente está quieta. Lo que aprendes y lo que recuerdas pueden cambiar las conexiones de tus neuronas.", "fuente": "Tesis del usuario"},
+    {"id": "foto", "texto": "Mira una foto tuya de hace diez años. Esa persona tenía otros miedos, otros sueños, otras certezas. Y aun así, no es una desconocida.", "fuente": "Tesis del usuario"},
+    {"id": "historia", "texto": "Quizás la identidad no consista en conservar cada pieza, sino en la historia que las conecta. Cambiar no siempre es perderte. A veces es crecer.", "fuente": "Tesis del usuario"},
+    {"id": "cierre", "texto": "No somos las piezas que nos componen. Somos la historia que esas piezas hicieron posible.", "fuente": "Tesis del usuario"}
+  ]
+}

@@ -1,0 +1,384 @@
+{
+ "id": "caso-demo",
+ "perfil": "sombria",
+ "escenas": [
+  {
+   "id": "aviso",
+   "texto": "Este es un caso inventado, creado solo para probar la plantilla.",
+   "hora": "",
+   "etiqueta": "CASO FICTICIO",
+   "fuente": "Sin fuente: ejemplo de demostración",
+   "audio": "generado/caso-demo/escena_1.wav",
+   "duracion_s": 3.765,
+   "palabras": [
+    {
+     "t": "Este",
+     "ini": 0.0,
+     "fin": 0.36
+    },
+    {
+     "t": "es",
+     "ini": 0.36,
+     "fin": 0.54
+    },
+    {
+     "t": "un",
+     "ini": 0.54,
+     "fin": 0.7
+    },
+    {
+     "t": "caso",
+     "ini": 0.7,
+     "fin": 0.92
+    },
+    {
+     "t": "inventado,",
+     "ini": 0.92,
+     "fin": 1.6
+    },
+    {
+     "t": "creado",
+     "ini": 1.78,
+     "fin": 2.1
+    },
+    {
+     "t": "solo",
+     "ini": 2.1,
+     "fin": 2.4
+    },
+    {
+     "t": "para",
+     "ini": 2.4,
+     "fin": 2.68
+    },
+    {
+     "t": "probar",
+     "ini": 2.68,
+     "fin": 3.08
+    },
+    {
+     "t": "la",
+     "ini": 3.08,
+     "fin": 3.16
+    },
+    {
+     "t": "plantilla.",
+     "ini": 3.16,
+     "fin": 3.64
+    }
+   ],
+   "tiempos": "whisper"
+  },
+  {
+   "id": "a",
+   "texto": "A las nueve y diez, la persona A entra por la puerta principal y camina hasta la cocina.",
+   "hora": "21:10",
+   "etiqueta": "CONFIRMADO",
+   "fuente": "Fuente de ejemplo: declaración judicial",
+   "audio": "generado/caso-demo/escena_2.wav",
+   "duracion_s": 5.02,
+   "palabras": [
+    {
+     "t": "A",
+     "ini": 0.0,
+     "fin": 0.067
+    },
+    {
+     "t": "las",
+     "ini": 0.067,
+     "fin": 0.267
+    },
+    {
+     "t": "nueve",
+     "ini": 0.267,
+     "fin": 0.601
+    },
+    {
+     "t": "y",
+     "ini": 0.601,
+     "fin": 0.668
+    },
+    {
+     "t": "diez,",
+     "ini": 0.668,
+     "fin": 1.001
+    },
+    {
+     "t": "la",
+     "ini": 1.001,
+     "fin": 1.135
+    },
+    {
+     "t": "persona",
+     "ini": 1.135,
+     "fin": 1.602
+    },
+    {
+     "t": "A",
+     "ini": 1.602,
+     "fin": 1.669
+    },
+    {
+     "t": "entra",
+     "ini": 1.669,
+     "fin": 2.003
+    },
+    {
+     "t": "por",
+     "ini": 2.003,
+     "fin": 2.203
+    },
+    {
+     "t": "la",
+     "ini": 2.203,
+     "fin": 2.337
+    },
+    {
+     "t": "puerta",
+     "ini": 2.337,
+     "fin": 2.737
+    },
+    {
+     "t": "principal",
+     "ini": 2.737,
+     "fin": 3.338
+    },
+    {
+     "t": "y",
+     "ini": 3.338,
+     "fin": 3.405
+    },
+    {
+     "t": "camina",
+     "ini": 3.405,
+     "fin": 3.805
+    },
+    {
+     "t": "hasta",
+     "ini": 3.805,
+     "fin": 4.139
+    },
+    {
+     "t": "la",
+     "ini": 4.139,
+     "fin": 4.273
+    },
+    {
+     "t": "cocina.",
+     "ini": 4.273,
+     "fin": 4.74
+    }
+   ],
+   "tiempos": "proporcional"
+  },
+  {
+   "id": "b",
+   "texto": "A las nueve y veinte, la persona B llega por el garaje y se detiene en la sala.",
+   "hora": "21:20",
+   "etiqueta": "CONFIRMADO",
+   "fuente": "Fuente de ejemplo: cámara del garaje",
+   "audio": "generado/caso-demo/escena_3.wav",
+   "duracion_s": 4.295,
+   "palabras": [
+    {
+     "t": "A",
+     "ini": 0.0,
+     "fin": 0.14
+    },
+    {
+     "t": "las",
+     "ini": 0.14,
+     "fin": 0.28
+    },
+    {
+     "t": "nueve",
+     "ini": 0.28,
+     "fin": 0.54
+    },
+    {
+     "t": "y",
+     "ini": 0.54,
+     "fin": 0.7
+    },
+    {
+     "t": "veinte,",
+     "ini": 0.7,
+     "fin": 1.04
+    },
+    {
+     "t": "la",
+     "ini": 1.04,
+     "fin": 1.4
+    },
+    {
+     "t": "persona",
+     "ini": 1.4,
+     "fin": 1.78
+    },
+    {
+     "t": "B",
+     "ini": 1.78,
+     "fin": 1.98
+    },
+    {
+     "t": "llega",
+     "ini": 1.98,
+     "fin": 2.24
+    },
+    {
+     "t": "por",
+     "ini": 2.24,
+     "fin": 2.48
+    },
+    {
+     "t": "el",
+     "ini": 2.48,
+     "fin": 2.6
+    },
+    {
+     "t": "garaje",
+     "ini": 2.6,
+     "fin": 2.96
+    },
+    {
+     "t": "y",
+     "ini": 2.96,
+     "fin": 3.2
+    },
+    {
+     "t": "se",
+     "ini": 3.2,
+     "fin": 3.32
+    },
+    {
+     "t": "detiene",
+     "ini": 3.32,
+     "fin": 3.66
+    },
+    {
+     "t": "en",
+     "ini": 3.66,
+     "fin": 3.78
+    },
+    {
+     "t": "la",
+     "ini": 3.78,
+     "fin": 3.86
+    },
+    {
+     "t": "sala.",
+     "ini": 3.86,
+     "fin": 4.06
+    }
+   ],
+   "tiempos": "whisper"
+  },
+  {
+   "id": "alarma",
+   "texto": "A las nueve y media, la alarma registra que se abrió la puerta trasera. Nadie sabe quién la abrió.",
+   "hora": "21:30",
+   "etiqueta": "SIN CONFIRMAR",
+   "fuente": "Fuente de ejemplo: registro de la alarma",
+   "audio": "generado/caso-demo/escena_4.wav",
+   "duracion_s": 5.175,
+   "palabras": [
+    {
+     "t": "A",
+     "ini": 0.0,
+     "fin": 0.14
+    },
+    {
+     "t": "las",
+     "ini": 0.14,
+     "fin": 0.28
+    },
+    {
+     "t": "nueve",
+     "ini": 0.28,
+     "fin": 0.52
+    },
+    {
+     "t": "y",
+     "ini": 0.52,
+     "fin": 0.7
+    },
+    {
+     "t": "media,",
+     "ini": 0.7,
+     "fin": 1.0
+    },
+    {
+     "t": "la",
+     "ini": 1.24,
+     "fin": 1.42
+    },
+    {
+     "t": "alarma",
+     "ini": 1.42,
+     "fin": 1.78
+    },
+    {
+     "t": "registra",
+     "ini": 1.78,
+     "fin": 2.26
+    },
+    {
+     "t": "que",
+     "ini": 2.26,
+     "fin": 2.36
+    },
+    {
+     "t": "se",
+     "ini": 2.36,
+     "fin": 2.48
+    },
+    {
+     "t": "abrió",
+     "ini": 2.48,
+     "fin": 2.7
+    },
+    {
+     "t": "la",
+     "ini": 2.7,
+     "fin": 2.8
+    },
+    {
+     "t": "puerta",
+     "ini": 2.8,
+     "fin": 3.06
+    },
+    {
+     "t": "trasera.",
+     "ini": 3.06,
+     "fin": 3.6
+    },
+    {
+     "t": "Nadie",
+     "ini": 3.9,
+     "fin": 4.24
+    },
+    {
+     "t": "sabe",
+     "ini": 4.24,
+     "fin": 4.4
+    },
+    {
+     "t": "quién",
+     "ini": 4.4,
+     "fin": 4.66
+    },
+    {
+     "t": "la",
+     "ini": 4.66,
+     "fin": 4.82
+    },
+    {
+     "t": "abrió.",
+     "ini": 4.82,
+     "fin": 5.0
+    }
+   ],
+   "tiempos": "whisper"
+  }
+ ]
+}

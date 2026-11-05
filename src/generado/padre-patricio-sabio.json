@@ -1,0 +1,1157 @@
+{
+ "id": "padre-patricio-sabio",
+ "perfil": "sabio",
+ "escenas": [
+  {
+   "id": "frase",
+   "texto": "«Queridos hermanos, un día, todos los que estamos aquí también vamos a morir». Lo dijo el padre Patricio Sánchez Molinari durante su homilía. Minutos después, ocurrió lo que nadie podía imaginar.",
+   "etiqueta": "CONFIRMADO",
+   "fuente": "Expreso; grabación de la misa",
+   "audio": "generado/padre-patricio-sabio/escena_1.wav",
+   "duracion_s": 14.78,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "«Queridos",
+     "ini": 0.0,
+     "fin": 0.42
+    },
+    {
+     "t": "hermanos,",
+     "ini": 0.42,
+     "fin": 1.1
+    },
+    {
+     "t": "un",
+     "ini": 1.64,
+     "fin": 1.82
+    },
+    {
+     "t": "día,",
+     "ini": 1.82,
+     "fin": 2.08
+    },
+    {
+     "t": "todos",
+     "ini": 2.08,
+     "fin": 2.66
+    },
+    {
+     "t": "los",
+     "ini": 2.66,
+     "fin": 2.94
+    },
+    {
+     "t": "que",
+     "ini": 2.94,
+     "fin": 3.12
+    },
+    {
+     "t": "estamos",
+     "ini": 3.12,
+     "fin": 3.44
+    },
+    {
+     "t": "aquí",
+     "ini": 3.44,
+     "fin": 3.84
+    },
+    {
+     "t": "también",
+     "ini": 3.84,
+     "fin": 4.26
+    },
+    {
+     "t": "vamos",
+     "ini": 4.26,
+     "fin": 4.74
+    },
+    {
+     "t": "a",
+     "ini": 4.74,
+     "fin": 4.96
+    },
+    {
+     "t": "morir».",
+     "ini": 4.96,
+     "fin": 5.34
+    },
+    {
+     "t": "Lo",
+     "ini": 6.06,
+     "fin": 6.32
+    },
+    {
+     "t": "dijo",
+     "ini": 6.32,
+     "fin": 6.58
+    },
+    {
+     "t": "el",
+     "ini": 6.58,
+     "fin": 6.8
+    },
+    {
+     "t": "padre",
+     "ini": 6.8,
+     "fin": 7.06
+    },
+    {
+     "t": "Patricio",
+     "ini": 7.06,
+     "fin": 7.76
+    },
+    {
+     "t": "Sánchez",
+     "ini": 7.76,
+     "fin": 8.14
+    },
+    {
+     "t": "Molinari",
+     "ini": 8.14,
+     "fin": 8.74
+    },
+    {
+     "t": "durante",
+     "ini": 8.74,
+     "fin": 9.04
+    },
+    {
+     "t": "su",
+     "ini": 9.04,
+     "fin": 9.44
+    },
+    {
+     "t": "homilía.",
+     "ini": 9.44,
+     "fin": 9.94
+    },
+    {
+     "t": "Minutos",
+     "ini": 10.72,
+     "fin": 11.12
+    },
+    {
+     "t": "después,",
+     "ini": 11.12,
+     "fin": 11.56
+    },
+    {
+     "t": "ocurrió",
+     "ini": 11.56,
+     "fin": 12.64
+    },
+    {
+     "t": "lo",
+     "ini": 12.64,
+     "fin": 12.82
+    },
+    {
+     "t": "que",
+     "ini": 12.82,
+     "fin": 12.98
+    },
+    {
+     "t": "nadie",
+     "ini": 12.98,
+     "fin": 13.36
+    },
+    {
+     "t": "podía",
+     "ini": 13.36,
+     "fin": 13.76
+    },
+    {
+     "t": "imaginar.",
+     "ini": 13.76,
+     "fin": 14.5
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "lugar",
+   "texto": "Era el sábado diecisiete de octubre de dos mil veintiséis, en la iglesia Nuestra Señora del Perpetuo Socorro, en Guayaquil, Ecuador. La misa se transmitía en vivo por redes sociales.",
+   "etiqueta": "CONFIRMADO",
+   "fuente": "Infobae; Expreso",
+   "audio": "generado/padre-patricio-sabio/escena_2.wav",
+   "duracion_s": 13.87,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Era",
+     "ini": 0.28,
+     "fin": 0.5
+    },
+    {
+     "t": "el",
+     "ini": 0.5,
+     "fin": 0.7
+    },
+    {
+     "t": "sábado",
+     "ini": 0.7,
+     "fin": 1.1
+    },
+    {
+     "t": "diecisiete",
+     "ini": 1.21,
+     "fin": 1.56
+    },
+    {
+     "t": "de",
+     "ini": 1.72,
+     "fin": 2.02
+    },
+    {
+     "t": "octubre",
+     "ini": 2.02,
+     "fin": 2.5
+    },
+    {
+     "t": "de",
+     "ini": 2.5,
+     "fin": 2.66
+    },
+    {
+     "t": "dos",
+     "ini": 2.99,
+     "fin": 3.13
+    },
+    {
+     "t": "mil",
+     "ini": 3.48,
+     "fin": 3.6
+    },
+    {
+     "t": "veintiséis,",
+     "ini": 3.97,
+     "fin": 4.07
+    },
+    {
+     "t": "en",
+     "ini": 4.46,
+     "fin": 4.54
+    },
+    {
+     "t": "la",
+     "ini": 4.54,
+     "fin": 4.66
+    },
+    {
+     "t": "iglesia",
+     "ini": 4.66,
+     "fin": 5.06
+    },
+    {
+     "t": "Nuestra",
+     "ini": 5.06,
+     "fin": 5.6
+    },
+    {
+     "t": "Señora",
+     "ini": 5.6,
+     "fin": 6.06
+    },
+    {
+     "t": "del",
+     "ini": 6.06,
+     "fin": 6.32
+    },
+    {
+     "t": "Perpetuo",
+     "ini": 6.713,
+     "fin": 6.927
+    },
+    {
+     "t": "Socorro,",
+     "ini": 7.367,
+     "fin": 7.533
+    },
+    {
+     "t": "en",
+     "ini": 8.02,
+     "fin": 8.14
+    },
+    {
+     "t": "Guayaquil,",
+     "ini": 8.14,
+     "fin": 8.82
+    },
+    {
+     "t": "Ecuador.",
+     "ini": 9.12,
+     "fin": 9.44
+    },
+    {
+     "t": "La",
+     "ini": 10.38,
+     "fin": 10.6
+    },
+    {
+     "t": "misa",
+     "ini": 10.6,
+     "fin": 10.94
+    },
+    {
+     "t": "se",
+     "ini": 10.94,
+     "fin": 11.12
+    },
+    {
+     "t": "transmitía",
+     "ini": 11.12,
+     "fin": 11.84
+    },
+    {
+     "t": "en",
+     "ini": 11.84,
+     "fin": 12.04
+    },
+    {
+     "t": "vivo",
+     "ini": 12.04,
+     "fin": 12.32
+    },
+    {
+     "t": "por",
+     "ini": 12.32,
+     "fin": 12.68
+    },
+    {
+     "t": "redes",
+     "ini": 12.68,
+     "fin": 12.98
+    },
+    {
+     "t": "sociales.",
+     "ini": 12.98,
+     "fin": 13.54
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "homilia",
+   "texto": "Ese día, el padre hablaba del tiempo. Pedía dedicar menos horas a las cosas materiales y al trabajo, y más a la familia y a Dios.",
+   "etiqueta": "CONFIRMADO",
+   "fuente": "Expreso",
+   "audio": "generado/padre-patricio-sabio/escena_3.wav",
+   "duracion_s": 10.02,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Ese",
+     "ini": 0.33,
+     "fin": 0.69
+    },
+    {
+     "t": "día,",
+     "ini": 0.69,
+     "fin": 0.99
+    },
+    {
+     "t": "el",
+     "ini": 0.99,
+     "fin": 1.65
+    },
+    {
+     "t": "padre",
+     "ini": 1.65,
+     "fin": 1.89
+    },
+    {
+     "t": "hablaba",
+     "ini": 1.89,
+     "fin": 2.39
+    },
+    {
+     "t": "del",
+     "ini": 2.39,
+     "fin": 2.59
+    },
+    {
+     "t": "tiempo.",
+     "ini": 2.59,
+     "fin": 2.97
+    },
+    {
+     "t": "Pedía",
+     "ini": 3.49,
+     "fin": 3.97
+    },
+    {
+     "t": "dedicar",
+     "ini": 3.97,
+     "fin": 4.39
+    },
+    {
+     "t": "menos",
+     "ini": 4.39,
+     "fin": 4.69
+    },
+    {
+     "t": "horas",
+     "ini": 4.69,
+     "fin": 5.05
+    },
+    {
+     "t": "a",
+     "ini": 5.05,
+     "fin": 5.25
+    },
+    {
+     "t": "las",
+     "ini": 5.25,
+     "fin": 5.39
+    },
+    {
+     "t": "cosas",
+     "ini": 5.39,
+     "fin": 5.63
+    },
+    {
+     "t": "materiales",
+     "ini": 5.63,
+     "fin": 6.45
+    },
+    {
+     "t": "y",
+     "ini": 6.45,
+     "fin": 6.53
+    },
+    {
+     "t": "al",
+     "ini": 6.53,
+     "fin": 6.65
+    },
+    {
+     "t": "trabajo,",
+     "ini": 6.65,
+     "fin": 7.09
+    },
+    {
+     "t": "y",
+     "ini": 7.09,
+     "fin": 7.83
+    },
+    {
+     "t": "más",
+     "ini": 7.83,
+     "fin": 8.05
+    },
+    {
+     "t": "a",
+     "ini": 8.05,
+     "fin": 8.23
+    },
+    {
+     "t": "la",
+     "ini": 8.23,
+     "fin": 8.29
+    },
+    {
+     "t": "familia",
+     "ini": 8.29,
+     "fin": 8.77
+    },
+    {
+     "t": "y",
+     "ini": 8.77,
+     "fin": 9.29
+    },
+    {
+     "t": "a",
+     "ini": 9.29,
+     "fin": 9.39
+    },
+    {
+     "t": "Dios.",
+     "ini": 9.39,
+     "fin": 9.57
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "caida",
+   "texto": "Cerca del minuto veintisiete de la celebración, la pesada cruz de madera que estaba detrás del altar se desprendió de la pared y cayó sobre él.",
+   "etiqueta": "CONFIRMADO",
+   "fuente": "Expreso; El Comercio",
+   "audio": "generado/padre-patricio-sabio/escena_4.wav",
+   "duracion_s": 10.12,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Cerca",
+     "ini": 0.45,
+     "fin": 0.91
+    },
+    {
+     "t": "del",
+     "ini": 0.91,
+     "fin": 1.09
+    },
+    {
+     "t": "minuto",
+     "ini": 1.09,
+     "fin": 1.49
+    },
+    {
+     "t": "veintisiete",
+     "ini": 1.57,
+     "fin": 1.91
+    },
+    {
+     "t": "de",
+     "ini": 2.05,
+     "fin": 2.33
+    },
+    {
+     "t": "la",
+     "ini": 2.33,
+     "fin": 2.45
+    },
+    {
+     "t": "celebración,",
+     "ini": 2.45,
+     "fin": 3.13
+    },
+    {
+     "t": "la",
+     "ini": 3.69,
+     "fin": 3.77
+    },
+    {
+     "t": "pesada",
+     "ini": 3.77,
+     "fin": 4.17
+    },
+    {
+     "t": "cruz",
+     "ini": 4.17,
+     "fin": 4.53
+    },
+    {
+     "t": "de",
+     "ini": 4.53,
+     "fin": 4.65
+    },
+    {
+     "t": "madera",
+     "ini": 4.65,
+     "fin": 5.03
+    },
+    {
+     "t": "que",
+     "ini": 5.03,
+     "fin": 5.23
+    },
+    {
+     "t": "estaba",
+     "ini": 5.23,
+     "fin": 5.57
+    },
+    {
+     "t": "detrás",
+     "ini": 5.57,
+     "fin": 6.03
+    },
+    {
+     "t": "del",
+     "ini": 6.03,
+     "fin": 6.23
+    },
+    {
+     "t": "altar",
+     "ini": 6.23,
+     "fin": 6.57
+    },
+    {
+     "t": "se",
+     "ini": 6.57,
+     "fin": 7.15
+    },
+    {
+     "t": "desprendió",
+     "ini": 7.15,
+     "fin": 7.79
+    },
+    {
+     "t": "de",
+     "ini": 7.79,
+     "fin": 7.91
+    },
+    {
+     "t": "la",
+     "ini": 7.91,
+     "fin": 8.03
+    },
+    {
+     "t": "pared",
+     "ini": 8.03,
+     "fin": 8.41
+    },
+    {
+     "t": "y",
+     "ini": 8.41,
+     "fin": 8.83
+    },
+    {
+     "t": "cayó",
+     "ini": 8.83,
+     "fin": 9.21
+    },
+    {
+     "t": "sobre",
+     "ini": 9.21,
+     "fin": 9.51
+    },
+    {
+     "t": "él.",
+     "ini": 9.51,
+     "fin": 9.83
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "auxilio",
+   "texto": "Los fieles corrieron a auxiliarlo, pero el sacerdote no sobrevivió. La Arquidiócesis de Guayaquil confirmó su muerte.",
+   "etiqueta": "CONFIRMADO",
+   "fuente": "Expreso; comunicado de la Arquidiócesis",
+   "audio": "generado/padre-patricio-sabio/escena_5.wav",
+   "duracion_s": 8.96,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Los",
+     "ini": 0.29,
+     "fin": 0.45
+    },
+    {
+     "t": "fieles",
+     "ini": 0.45,
+     "fin": 0.87
+    },
+    {
+     "t": "corrieron",
+     "ini": 0.87,
+     "fin": 1.37
+    },
+    {
+     "t": "a",
+     "ini": 1.37,
+     "fin": 1.47
+    },
+    {
+     "t": "auxiliarlo,",
+     "ini": 1.47,
+     "fin": 2.19
+    },
+    {
+     "t": "pero",
+     "ini": 2.53,
+     "fin": 2.77
+    },
+    {
+     "t": "el",
+     "ini": 2.77,
+     "fin": 2.91
+    },
+    {
+     "t": "sacerdote",
+     "ini": 2.91,
+     "fin": 3.49
+    },
+    {
+     "t": "no",
+     "ini": 3.49,
+     "fin": 3.81
+    },
+    {
+     "t": "sobrevivió.",
+     "ini": 3.81,
+     "fin": 4.55
+    },
+    {
+     "t": "La",
+     "ini": 5.21,
+     "fin": 5.43
+    },
+    {
+     "t": "Arquidiócesis",
+     "ini": 5.43,
+     "fin": 6.29
+    },
+    {
+     "t": "de",
+     "ini": 6.29,
+     "fin": 6.41
+    },
+    {
+     "t": "Guayaquil",
+     "ini": 6.41,
+     "fin": 7.07
+    },
+    {
+     "t": "confirmó",
+     "ini": 7.07,
+     "fin": 7.99
+    },
+    {
+     "t": "su",
+     "ini": 7.99,
+     "fin": 8.17
+    },
+    {
+     "t": "muerte.",
+     "ini": 8.17,
+     "fin": 8.57
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "quien",
+   "texto": "Había nacido en Cuenca en mil novecientos setenta y tres, y pertenecía a los padres redentoristas. Quienes lo conocieron lo recuerdan como un hombre sencillo, humilde y cercano.",
+   "etiqueta": "CONFIRMADO",
+   "fuente": "El Universo",
+   "audio": "generado/padre-patricio-sabio/escena_6.wav",
+   "duracion_s": 13.29,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Había",
+     "ini": 0.39,
+     "fin": 0.69
+    },
+    {
+     "t": "nacido",
+     "ini": 0.69,
+     "fin": 1.07
+    },
+    {
+     "t": "en",
+     "ini": 1.07,
+     "fin": 1.27
+    },
+    {
+     "t": "Cuenca",
+     "ini": 1.27,
+     "fin": 1.69
+    },
+    {
+     "t": "en",
+     "ini": 1.69,
+     "fin": 1.95
+    },
+    {
+     "t": "mil",
+     "ini": 1.937,
+     "fin": 2.333
+    },
+    {
+     "t": "novecientos",
+     "ini": 2.183,
+     "fin": 2.717
+    },
+    {
+     "t": "setenta",
+     "ini": 2.43,
+     "fin": 3.1
+    },
+    {
+     "t": "y",
+     "ini": 2.677,
+     "fin": 3.483
+    },
+    {
+     "t": "tres,",
+     "ini": 2.923,
+     "fin": 3.867
+    },
+    {
+     "t": "y",
+     "ini": 3.17,
+     "fin": 4.25
+    },
+    {
+     "t": "pertenecía",
+     "ini": 4.25,
+     "fin": 4.91
+    },
+    {
+     "t": "a",
+     "ini": 4.91,
+     "fin": 5.11
+    },
+    {
+     "t": "los",
+     "ini": 5.11,
+     "fin": 5.23
+    },
+    {
+     "t": "padres",
+     "ini": 5.23,
+     "fin": 5.63
+    },
+    {
+     "t": "redentoristas.",
+     "ini": 5.63,
+     "fin": 6.63
+    },
+    {
+     "t": "Quienes",
+     "ini": 7.53,
+     "fin": 7.87
+    },
+    {
+     "t": "lo",
+     "ini": 7.87,
+     "fin": 7.99
+    },
+    {
+     "t": "conocieron",
+     "ini": 7.99,
+     "fin": 8.59
+    },
+    {
+     "t": "lo",
+     "ini": 8.59,
+     "fin": 8.83
+    },
+    {
+     "t": "recuerdan",
+     "ini": 8.83,
+     "fin": 9.37
+    },
+    {
+     "t": "como",
+     "ini": 9.37,
+     "fin": 9.65
+    },
+    {
+     "t": "un",
+     "ini": 9.65,
+     "fin": 9.87
+    },
+    {
+     "t": "hombre",
+     "ini": 9.87,
+     "fin": 10.15
+    },
+    {
+     "t": "sencillo,",
+     "ini": 10.15,
+     "fin": 11.01
+    },
+    {
+     "t": "humilde",
+     "ini": 11.41,
+     "fin": 11.77
+    },
+    {
+     "t": "y",
+     "ini": 11.77,
+     "fin": 12.21
+    },
+    {
+     "t": "cercano.",
+     "ini": 12.21,
+     "fin": 12.77
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "despues",
+   "texto": "Días después, el cardenal Luis Cabrera anunció una revisión técnica de los templos de la Arquidiócesis. Hasta donde se ha informado, todavía no hay una causa oficial de la caída.",
+   "etiqueta": "SIN CAUSA OFICIAL",
+   "fuente": "EWTN News, 28 de octubre de 2026; Expreso",
+   "audio": "generado/padre-patricio-sabio/escena_7.wav",
+   "duracion_s": 12.82,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Días",
+     "ini": 0.52,
+     "fin": 0.84
+    },
+    {
+     "t": "después,",
+     "ini": 0.84,
+     "fin": 1.24
+    },
+    {
+     "t": "el",
+     "ini": 1.24,
+     "fin": 1.92
+    },
+    {
+     "t": "cardenal",
+     "ini": 1.92,
+     "fin": 2.4
+    },
+    {
+     "t": "Luis",
+     "ini": 2.4,
+     "fin": 2.66
+    },
+    {
+     "t": "Cabrera",
+     "ini": 2.66,
+     "fin": 3.24
+    },
+    {
+     "t": "anunció",
+     "ini": 3.24,
+     "fin": 3.96
+    },
+    {
+     "t": "una",
+     "ini": 3.96,
+     "fin": 4.16
+    },
+    {
+     "t": "revisión",
+     "ini": 4.16,
+     "fin": 4.66
+    },
+    {
+     "t": "técnica",
+     "ini": 4.66,
+     "fin": 5.18
+    },
+    {
+     "t": "de",
+     "ini": 5.18,
+     "fin": 5.38
+    },
+    {
+     "t": "los",
+     "ini": 5.38,
+     "fin": 5.54
+    },
+    {
+     "t": "templos",
+     "ini": 5.54,
+     "fin": 6.06
+    },
+    {
+     "t": "de",
+     "ini": 6.06,
+     "fin": 6.16
+    },
+    {
+     "t": "la",
+     "ini": 6.16,
+     "fin": 6.3
+    },
+    {
+     "t": "Arquidiócesis.",
+     "ini": 6.3,
+     "fin": 7.78
+    },
+    {
+     "t": "Hasta",
+     "ini": 7.78,
+     "fin": 8.06
+    },
+    {
+     "t": "donde",
+     "ini": 8.06,
+     "fin": 8.32
+    },
+    {
+     "t": "se",
+     "ini": 8.32,
+     "fin": 8.56
+    },
+    {
+     "t": "ha",
+     "ini": 8.56,
+     "fin": 8.66
+    },
+    {
+     "t": "informado,",
+     "ini": 8.66,
+     "fin": 9.28
+    },
+    {
+     "t": "todavía",
+     "ini": 9.7,
+     "fin": 10.04
+    },
+    {
+     "t": "no",
+     "ini": 10.04,
+     "fin": 10.36
+    },
+    {
+     "t": "hay",
+     "ini": 10.36,
+     "fin": 10.56
+    },
+    {
+     "t": "una",
+     "ini": 10.56,
+     "fin": 10.72
+    },
+    {
+     "t": "causa",
+     "ini": 10.72,
+     "fin": 11.08
+    },
+    {
+     "t": "oficial",
+     "ini": 11.08,
+     "fin": 11.64
+    },
+    {
+     "t": "de",
+     "ini": 11.64,
+     "fin": 11.84
+    },
+    {
+     "t": "la",
+     "ini": 11.84,
+     "fin": 11.96
+    },
+    {
+     "t": "caída.",
+     "ini": 11.96,
+     "fin": 12.38
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "cierre",
+   "texto": "Nada indica que él supiera lo que iba a pasar. Pero su última homilía nos deja una pregunta: ¿en qué gastamos nuestro tiempo?",
+   "etiqueta": "REFLEXIÓN",
+   "fuente": "El Tiempo",
+   "audio": "generado/padre-patricio-sabio/escena_8.wav",
+   "duracion_s": 10.442,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Nada",
+     "ini": 0.44,
+     "fin": 0.7
+    },
+    {
+     "t": "indica",
+     "ini": 0.7,
+     "fin": 1.22
+    },
+    {
+     "t": "que",
+     "ini": 1.22,
+     "fin": 1.42
+    },
+    {
+     "t": "él",
+     "ini": 1.42,
+     "fin": 1.6
+    },
+    {
+     "t": "supiera",
+     "ini": 1.6,
+     "fin": 2.12
+    },
+    {
+     "t": "lo",
+     "ini": 2.12,
+     "fin": 2.28
+    },
+    {
+     "t": "que",
+     "ini": 2.28,
+     "fin": 2.44
+    },
+    {
+     "t": "iba",
+     "ini": 2.44,
+     "fin": 2.64
+    },
+    {
+     "t": "a",
+     "ini": 2.64,
+     "fin": 2.8
+    },
+    {
+     "t": "pasar.",
+     "ini": 2.8,
+     "fin": 3.14
+    },
+    {
+     "t": "Pero",
+     "ini": 3.88,
+     "fin": 4.16
+    },
+    {
+     "t": "su",
+     "ini": 4.16,
+     "fin": 4.38
+    },
+    {
+     "t": "última",
+     "ini": 4.38,
+     "fin": 4.76
+    },
+    {
+     "t": "homilía",
+     "ini": 4.76,
+     "fin": 5.4
+    },
+    {
+     "t": "nos",
+     "ini": 5.4,
+     "fin": 5.92
+    },
+    {
+     "t": "deja",
+     "ini": 5.92,
+     "fin": 6.28
+    },
+    {
+     "t": "una",
+     "ini": 6.28,
+     "fin": 6.52
+    },
+    {
+     "t": "pregunta:",
+     "ini": 6.52,
+     "fin": 6.96
+    },
+    {
+     "t": "¿en",
+     "ini": 8.0,
+     "fin": 8.16
+    },
+    {
+     "t": "qué",
+     "ini": 8.16,
+     "fin": 8.38
+    },
+    {
+     "t": "gastamos",
+     "ini": 8.38,
+     "fin": 9.02
+    },
+    {
+     "t": "nuestro",
+     "ini": 9.02,
+     "fin": 9.26
+    },
+    {
+     "t": "tiempo?",
+     "ini": 9.26,
+     "fin": 9.82
+    }
+   ],
+   "tiempos": "alineado"
+  }
+ ]
+}

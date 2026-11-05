@@ -1,0 +1,10 @@
+{
+  "id": "lluvia",
+  "perfil": "natural",
+  "escenas": [
+    {"id": "mar", "texto": "¿Sabías que la lluvia de hoy pudo estar antes en el mar?"},
+    {"id": "vapor", "texto": "El sol calienta el agua, y el agua sube al cielo convertida en vapor."},
+    {"id": "nube", "texto": "Allá arriba hace frío. El vapor se junta en gotitas y forma las nubes."},
+    {"id": "lluvia", "texto": "Cuando las gotitas pesan mucho, caen. ¡Y eso es la lluvia!"}
+  ]
+}

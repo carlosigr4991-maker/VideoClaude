@@ -1,0 +1,18 @@
+DESCRIPCIÓN SUGERIDA
+
+Lanza electrones contra una pared con dos rendijas y la pantalla no muestra dos franjas, sino muchas. Pon un detector y desaparecen. No, tu mente no cambia la materia: esto es lo que el experimento de la doble rendija sí demuestra.
+
+Ilustración simplificada con fines divulgativos. El experimento de Hitachi usó un biprisma de electrones, y el estudio del detector de Buks y colaboradores, un interferómetro en un chip; el principio es el mismo. Narración generada con inteligencia artificial.
+
+Fuentes:
+- Jönsson, C. (1961), Zeitschrift für Physik.
+- Tonomura, A. et al. (1989), American Journal of Physics.
+- Buks, E. et al. (1998), Nature: https://www.doi.org/10.1038/36057
+- Physics World, el experimento de la doble rendija: https://physicsworld.com/a/the-double-slit-experiment/
+
+Voz: Fish Audio, "voz de locutor k".
+
+Música: "Enchanted Journey", de Kevin MacLeod (incompetech.com). Licencia CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+Imágenes (Wikimedia Commons):
+- Formación del patrón de interferencia, recortes: Dr. Tonomura / Belsazar, CC BY-SA 3.0: https://commons.wikimedia.org/wiki/File:Double-slit_experiment_results_Tanamura_2.jpg

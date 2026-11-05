@@ -1,0 +1,24 @@
+{
+  "id": "vida",
+  "escenas": [
+    {"id": "gancho", "texto": "Ninguno de los átomos de tu cuerpo está vivo. Y aun así, tú sí. Entonces, ¿en qué momento comenzó la vida?"},
+    {"id": "instante", "texto": "Solemos imaginar un instante. Una primera célula, una combinación extraordinaria de moléculas que dejó de ser materia inerte y se convirtió en algo vivo. Pero ¿y si estamos buscando el comienzo en el lugar equivocado?"},
+    {"id": "aviso", "texto": "Esto no es una teoría demostrada. Es una hipótesis filosófica, construida a partir de lo que la ciencia sí sabe."},
+    {"id": "escalas", "texto": "Antes de las células, existían moléculas. Antes de las moléculas, átomos. Y antes de ellos, partículas interactuando bajo las leyes del universo. Nada de eso estaba vivo, al menos según nuestra definición."},
+    {"id": "quimica", "texto": "Los átomos no deciden unirse. Las moléculas no tienen intenciones. Y las reacciones químicas no persiguen objetivos. Pero, bajo ciertas condiciones, sus propiedades generan formas de organización cada vez más complejas."},
+    {"id": "pregunta", "texto": "Y aparece una pregunta inquietante: ¿en qué momento una sucesión de reacciones empieza a producir algo que puede perpetuarse a sí mismo?"},
+    {"id": "virus", "texto": "Pensemos en los virus. Contienen información genética y evolucionan. Pero para reproducirse dependen de una célula. Son casi como instrucciones esperando un sistema capaz de ejecutarlas. ¿Están vivos? Todavía se debate.", "fuente": "Studies in History and Philosophy of Biological and Biomedical Sciences, 2016"},
+    {"id": "proceso", "texto": "Y eso nos obliga a preguntarnos si la vida es necesariamente un organismo, o si también puede entenderse como un proceso de información, reproducción y organización."},
+    {"id": "tierra", "texto": "Retrocedamos más. La Tierra se formó hace unos cuatro mil quinientos millones de años. Y hay rastros probables de vida de hace unos tres mil quinientos millones. En ese intervalo, por procesos que todavía investigamos, surgieron sistemas capaces de mantener su organización y evolucionar.", "fuente": "Formación Dresser, Australia: estudios de 2019 y 2022"},
+    {"id": "transicion", "texto": "Quizás la vida no fue una ruptura con la materia anterior, sino una transición: un nuevo nivel de organización, construido sobre las mismas leyes de siempre."},
+    {"id": "celulas", "texto": "Y entonces ocurrió algo más extraordinario. Las células comenzaron a cooperar. Algunas dejaron de funcionar por su cuenta y pasaron a formar parte de organismos mayores. Y no ocurrió una sola vez: la vida multicelular surgió muchas veces, de forma independiente.", "fuente": "Grosberg y Strathmann, 2007"},
+    {"id": "organismo", "texto": "Hoy, cada célula, cada tejido y cada órgano de tu cuerpo participa en sostener algo más grande que ellos."},
+    {"id": "conciencia", "texto": "Y en algún punto de esa historia apareció la conciencia. Nadie sabe exactamente cuándo, ni cómo. Pero en nosotros, al menos, produjo un organismo capaz de observar su propia existencia."},
+    {"id": "contradiccion", "texto": "Y hay algo contradictorio en ello. La evolución favoreció la supervivencia y la reproducción. Pero nosotros podemos cuestionarlas. Podemos decidir no tener hijos. Podemos anteponer una idea a nuestra comodidad. Podemos buscar respuestas que no nos dan ninguna ventaja."},
+    {"id": "materia", "texto": "La materia, después de organizarse durante miles de millones de años, terminó produciendo algo capaz de preguntarse por qué existe."},
+    {"id": "maquinas", "texto": "Y queda una última posibilidad. Si la materia pudo llegar a la vida, y la vida a la conciencia, ¿qué nos impide pensar que esa historia no terminó? Ya construimos máquinas que procesan información y aprenden."},
+    {"id": "futuro", "texto": "Estamos lejos de demostrar que una máquina pueda albergar vida, o conciencia. Pero la pregunta ya no parece tan absurda: ¿podría algo creado por la vida convertirse en el soporte de una nueva forma de existencia? O quizás solo estemos proyectando nuestras ideas sobre algo que no comprendemos."},
+    {"id": "consecuencia", "texto": "Volvamos al principio. Tal vez el error está en imaginar que la vida es una excepción en un universo inerte. Tal vez sea una de las muchas formas en que la materia puede organizarse. Y si es así, no seríamos el punto final de esta historia. Seríamos una de sus consecuencias."},
+    {"id": "cierre", "texto": "Porque quizás la pregunta nunca fue cuándo comenzó la vida. Quizás la verdadera pregunta sea hasta dónde puede llegar la materia antes de que volvamos a llamarla vida."}
+  ]
+}

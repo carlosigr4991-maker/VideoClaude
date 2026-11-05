@@ -1,0 +1,10 @@
+{
+  "id": "caso-demo",
+  "perfil": "sombria",
+  "escenas": [
+    {"id": "aviso", "texto": "Este es un caso inventado, creado solo para probar la plantilla.", "hora": "", "etiqueta": "CASO FICTICIO", "fuente": "Sin fuente: ejemplo de demostración"},
+    {"id": "a", "texto": "A las nueve y diez, la persona A entra por la puerta principal y camina hasta la cocina.", "hora": "21:10", "etiqueta": "CONFIRMADO", "fuente": "Fuente de ejemplo: declaración judicial"},
+    {"id": "b", "texto": "A las nueve y veinte, la persona B llega por el garaje y se detiene en la sala.", "hora": "21:20", "etiqueta": "CONFIRMADO", "fuente": "Fuente de ejemplo: cámara del garaje"},
+    {"id": "alarma", "texto": "A las nueve y media, la alarma registra que se abrió la puerta trasera. Nadie sabe quién la abrió.", "hora": "21:30", "etiqueta": "SIN CONFIRMAR", "fuente": "Fuente de ejemplo: registro de la alarma"}
+  ]
+}

@@ -1,0 +1,297 @@
+{
+ "id": "lluvia",
+ "perfil": "natural",
+ "escenas": [
+  {
+   "id": "mar",
+   "texto": "¿Sabías que la lluvia de hoy pudo estar antes en el mar?",
+   "audio": "generado/lluvia/escena_1.wav",
+   "duracion_s": 3.056,
+   "palabras": [
+    {
+     "t": "¿Sabías",
+     "ini": 0.0,
+     "fin": 0.36
+    },
+    {
+     "t": "que",
+     "ini": 0.36,
+     "fin": 0.54
+    },
+    {
+     "t": "la",
+     "ini": 0.54,
+     "fin": 0.64
+    },
+    {
+     "t": "lluvia",
+     "ini": 0.64,
+     "fin": 1.0
+    },
+    {
+     "t": "de",
+     "ini": 1.0,
+     "fin": 1.12
+    },
+    {
+     "t": "hoy",
+     "ini": 1.12,
+     "fin": 1.3
+    },
+    {
+     "t": "pudo",
+     "ini": 1.3,
+     "fin": 1.62
+    },
+    {
+     "t": "estar",
+     "ini": 1.62,
+     "fin": 1.86
+    },
+    {
+     "t": "antes",
+     "ini": 1.86,
+     "fin": 2.3
+    },
+    {
+     "t": "en",
+     "ini": 2.3,
+     "fin": 2.48
+    },
+    {
+     "t": "el",
+     "ini": 2.48,
+     "fin": 2.6
+    },
+    {
+     "t": "mar?",
+     "ini": 2.6,
+     "fin": 2.76
+    }
+   ],
+   "tiempos": "whisper"
+  },
+  {
+   "id": "vapor",
+   "texto": "El sol calienta el agua, y el agua sube al cielo convertida en vapor.",
+   "audio": "generado/lluvia/escena_2.wav",
+   "duracion_s": 3.972,
+   "palabras": [
+    {
+     "t": "El",
+     "ini": 0.0,
+     "fin": 0.2
+    },
+    {
+     "t": "sol",
+     "ini": 0.2,
+     "fin": 0.38
+    },
+    {
+     "t": "calienta",
+     "ini": 0.38,
+     "fin": 1.02
+    },
+    {
+     "t": "el",
+     "ini": 1.02,
+     "fin": 1.12
+    },
+    {
+     "t": "agua,",
+     "ini": 1.12,
+     "fin": 1.38
+    },
+    {
+     "t": "y",
+     "ini": 1.38,
+     "fin": 1.82
+    },
+    {
+     "t": "el",
+     "ini": 1.82,
+     "fin": 1.94
+    },
+    {
+     "t": "agua",
+     "ini": 1.94,
+     "fin": 2.14
+    },
+    {
+     "t": "sube",
+     "ini": 2.14,
+     "fin": 2.48
+    },
+    {
+     "t": "al",
+     "ini": 2.48,
+     "fin": 2.62
+    },
+    {
+     "t": "cielo",
+     "ini": 2.62,
+     "fin": 2.78
+    },
+    {
+     "t": "convertida",
+     "ini": 2.78,
+     "fin": 3.42
+    },
+    {
+     "t": "en",
+     "ini": 3.42,
+     "fin": 3.5
+    },
+    {
+     "t": "vapor.",
+     "ini": 3.5,
+     "fin": 3.66
+    }
+   ],
+   "tiempos": "whisper"
+  },
+  {
+   "id": "nube",
+   "texto": "Allá arriba hace frío. El vapor se junta en gotitas y forma las nubes.",
+   "audio": "generado/lluvia/escena_3.wav",
+   "duracion_s": 4.631,
+   "palabras": [
+    {
+     "t": "Allá",
+     "ini": 0.0,
+     "fin": 0.306
+    },
+    {
+     "t": "arriba",
+     "ini": 0.306,
+     "fin": 0.765
+    },
+    {
+     "t": "hace",
+     "ini": 0.765,
+     "fin": 1.071
+    },
+    {
+     "t": "frío.",
+     "ini": 1.071,
+     "fin": 1.453
+    },
+    {
+     "t": "El",
+     "ini": 1.453,
+     "fin": 1.606
+    },
+    {
+     "t": "vapor",
+     "ini": 1.606,
+     "fin": 1.989
+    },
+    {
+     "t": "se",
+     "ini": 1.989,
+     "fin": 2.142
+    },
+    {
+     "t": "junta",
+     "ini": 2.142,
+     "fin": 2.524
+    },
+    {
+     "t": "en",
+     "ini": 2.524,
+     "fin": 2.677
+    },
+    {
+     "t": "gotitas",
+     "ini": 2.677,
+     "fin": 3.213
+    },
+    {
+     "t": "y",
+     "ini": 3.213,
+     "fin": 3.289
+    },
+    {
+     "t": "forma",
+     "ini": 3.289,
+     "fin": 3.672
+    },
+    {
+     "t": "las",
+     "ini": 3.672,
+     "fin": 3.901
+    },
+    {
+     "t": "nubes.",
+     "ini": 3.901,
+     "fin": 4.36
+    }
+   ],
+   "tiempos": "proporcional"
+  },
+  {
+   "id": "lluvia",
+   "texto": "Cuando las gotitas pesan mucho, caen. ¡Y eso es la lluvia!",
+   "audio": "generado/lluvia/escena_4.wav",
+   "duracion_s": 3.816,
+   "palabras": [
+    {
+     "t": "Cuando",
+     "ini": 0.0,
+     "fin": 0.22
+    },
+    {
+     "t": "las",
+     "ini": 0.22,
+     "fin": 0.4
+    },
+    {
+     "t": "gotitas",
+     "ini": 0.4,
+     "fin": 0.82
+    },
+    {
+     "t": "pesan",
+     "ini": 0.82,
+     "fin": 1.32
+    },
+    {
+     "t": "mucho,",
+     "ini": 1.32,
+     "fin": 1.58
+    },
+    {
+     "t": "caen.",
+     "ini": 1.58,
+     "fin": 2.12
+    },
+    {
+     "t": "¡Y",
+     "ini": 2.12,
+     "fin": 2.62
+    },
+    {
+     "t": "eso",
+     "ini": 2.62,
+     "fin": 2.86
+    },
+    {
+     "t": "es",
+     "ini": 2.86,
+     "fin": 3.04
+    },
+    {
+     "t": "la",
+     "ini": 3.04,
+     "fin": 3.18
+    },
+    {
+     "t": "lluvia!",
+     "ini": 3.18,
+     "fin": 3.56
+    }
+   ],
+   "tiempos": "whisper"
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "id": "muestra-ald-natural",
+ "perfil": "natural",
+ "escenas": [
+  {
+   "id": "muestra",
+   "texto": "Hoy vas a aprender por qué llueve. Es más sencillo de lo que parece. Primero, el sol calienta el agua del mar. Después, ese vapor sube, se enfría y forma las nubes.",
+   "audio": "generado/muestra-ald-natural/escena_1.wav",
+   "duracion_s": 11.388,
+   "palabras": [
+    {
+     "t": "Hoy",
+     "ini": 0.0,
+     "fin": 0.26
+    },
+    {
+     "t": "vas",
+     "ini": 0.26,
+     "fin": 0.48
+    },
+    {
+     "t": "a",
+     "ini": 0.48,
+     "fin": 0.64
+    },
+    {
+     "t": "aprender",
+     "ini": 0.64,
+     "fin": 0.96
+    },
+    {
+     "t": "por",
+     "ini": 0.96,
+     "fin": 1.38
+    },
+    {
+     "t": "qué",
+     "ini": 1.38,
+     "fin": 1.6
+    },
+    {
+     "t": "llueve.",
+     "ini": 1.6,
+     "fin": 2.0
+    },
+    {
+     "t": "Es",
+     "ini": 2.34,
+     "fin": 2.58
+    },
+    {
+     "t": "más",
+     "ini": 2.58,
+     "fin": 2.74
+    },
+    {
+     "t": "sencillo",
+     "ini": 2.74,
+     "fin": 3.28
+    },
+    {
+     "t": "de",
+     "ini": 3.28,
+     "fin": 3.36
+    },
+    {
+     "t": "lo",
+     "ini": 3.36,
+     "fin": 3.46
+    },
+    {
+     "t": "que",
+     "ini": 3.46,
+     "fin": 3.56
+    },
+    {
+     "t": "parece.",
+     "ini": 3.56,
+     "fin": 3.96
+    },
+    {
+     "t": "Primero,",
+     "ini": 4.44,
+     "fin": 4.96
+    },
+    {
+     "t": "el",
+     "ini": 4.96,
+     "fin": 5.28
+    },
+    {
+     "t": "sol",
+     "ini": 5.28,
+     "fin": 5.54
+    },
+    {
+     "t": "calienta",
+     "ini": 5.54,
+     "fin": 6.18
+    },
+    {
+     "t": "el",
+     "ini": 6.18,
+     "fin": 6.26
+    },
+    {
+     "t": "agua",
+     "ini": 6.26,
+     "fin": 6.44
+    },
+    {
+     "t": "del",
+     "ini": 6.44,
+     "fin": 6.64
+    },
+    {
+     "t": "mar.",
+     "ini": 6.64,
+     "fin": 6.84
+    },
+    {
+     "t": "Después,",
+     "ini": 7.28,
+     "fin": 7.76
+    },
+    {
+     "t": "ese",
+     "ini": 7.76,
+     "fin": 8.34
+    },
+    {
+     "t": "vapor",
+     "ini": 8.34,
+     "fin": 8.62
+    },
+    {
+     "t": "sube,",
+     "ini": 8.62,
+     "fin": 9.18
+    },
+    {
+     "t": "se",
+     "ini": 9.52,
+     "fin": 9.66
+    },
+    {
+     "t": "enfría",
+     "ini": 9.66,
+     "fin": 10.18
+    },
+    {
+     "t": "y",
+     "ini": 10.18,
+     "fin": 10.36
+    },
+    {
+     "t": "forma",
+     "ini": 10.36,
+     "fin": 10.66
+    },
+    {
+     "t": "las",
+     "ini": 10.66,
+     "fin": 10.86
+    },
+    {
+     "t": "nubes.",
+     "ini": 10.86,
+     "fin": 11.2
+    }
+   ],
+   "tiempos": "whisper"
+  }
+ ]
+}

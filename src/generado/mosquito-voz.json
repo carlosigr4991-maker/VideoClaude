@@ -1,0 +1,1216 @@
+{
+ "id": "mosquito-voz",
+ "perfil": "voz",
+ "escenas": [
+  {
+   "id": "gancho",
+   "texto": "En solo siete a diez días, un diminuto huevo puede convertirse en un mosquito que vuela. Y casi toda esa transformación ocurre en el agua.",
+   "fuente": "CDC (Aedes, en clima cálido)",
+   "audio": "generado/mosquito-voz/escena_1.wav",
+   "duracion_s": 8.04,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "En",
+     "ini": 0.0,
+     "fin": 0.24
+    },
+    {
+     "t": "solo",
+     "ini": 0.24,
+     "fin": 0.42
+    },
+    {
+     "t": "siete",
+     "ini": 0.52,
+     "fin": 0.7
+    },
+    {
+     "t": "a",
+     "ini": 0.8,
+     "fin": 0.98
+    },
+    {
+     "t": "diez",
+     "ini": 1.0,
+     "fin": 1.22
+    },
+    {
+     "t": "días,",
+     "ini": 1.2,
+     "fin": 1.46
+    },
+    {
+     "t": "un",
+     "ini": 1.46,
+     "fin": 2.02
+    },
+    {
+     "t": "diminuto",
+     "ini": 2.02,
+     "fin": 2.54
+    },
+    {
+     "t": "huevo",
+     "ini": 2.54,
+     "fin": 2.88
+    },
+    {
+     "t": "puede",
+     "ini": 2.88,
+     "fin": 3.14
+    },
+    {
+     "t": "convertirse",
+     "ini": 3.14,
+     "fin": 3.78
+    },
+    {
+     "t": "en",
+     "ini": 3.78,
+     "fin": 3.96
+    },
+    {
+     "t": "un",
+     "ini": 3.96,
+     "fin": 4.1
+    },
+    {
+     "t": "mosquito",
+     "ini": 4.1,
+     "fin": 4.62
+    },
+    {
+     "t": "que",
+     "ini": 4.62,
+     "fin": 4.84
+    },
+    {
+     "t": "vuela.",
+     "ini": 4.84,
+     "fin": 5.1
+    },
+    {
+     "t": "Y",
+     "ini": 5.1,
+     "fin": 5.36
+    },
+    {
+     "t": "casi",
+     "ini": 5.36,
+     "fin": 5.56
+    },
+    {
+     "t": "toda",
+     "ini": 5.56,
+     "fin": 5.92
+    },
+    {
+     "t": "esa",
+     "ini": 5.92,
+     "fin": 6.12
+    },
+    {
+     "t": "transformación",
+     "ini": 6.12,
+     "fin": 6.82
+    },
+    {
+     "t": "ocurre",
+     "ini": 6.82,
+     "fin": 7.44
+    },
+    {
+     "t": "en",
+     "ini": 7.44,
+     "fin": 7.58
+    },
+    {
+     "t": "el",
+     "ini": 7.58,
+     "fin": 7.7
+    },
+    {
+     "t": "agua.",
+     "ini": 7.7,
+     "fin": 7.92
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "huevos",
+   "texto": "Todo empieza cuando la hembra pone sus huevos. Algunas especies los dejan en la pared de un recipiente, justo encima del nivel del agua. Allí pueden sobrevivir secos durante meses.",
+   "fuente": "CDC; EPA",
+   "audio": "generado/mosquito-voz/escena_2.wav",
+   "duracion_s": 9.95,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Todo",
+     "ini": 0.12,
+     "fin": 0.22
+    },
+    {
+     "t": "empieza",
+     "ini": 0.22,
+     "fin": 0.6
+    },
+    {
+     "t": "cuando",
+     "ini": 0.6,
+     "fin": 0.82
+    },
+    {
+     "t": "la",
+     "ini": 0.82,
+     "fin": 1.08
+    },
+    {
+     "t": "hembra",
+     "ini": 1.08,
+     "fin": 1.36
+    },
+    {
+     "t": "pone",
+     "ini": 1.36,
+     "fin": 1.72
+    },
+    {
+     "t": "sus",
+     "ini": 1.72,
+     "fin": 1.94
+    },
+    {
+     "t": "huevos.",
+     "ini": 1.94,
+     "fin": 2.3
+    },
+    {
+     "t": "Algunas",
+     "ini": 2.52,
+     "fin": 2.86
+    },
+    {
+     "t": "especies",
+     "ini": 2.86,
+     "fin": 3.26
+    },
+    {
+     "t": "los",
+     "ini": 3.26,
+     "fin": 3.44
+    },
+    {
+     "t": "dejan",
+     "ini": 3.44,
+     "fin": 3.76
+    },
+    {
+     "t": "en",
+     "ini": 3.76,
+     "fin": 3.88
+    },
+    {
+     "t": "la",
+     "ini": 3.88,
+     "fin": 4.0
+    },
+    {
+     "t": "pared",
+     "ini": 4.0,
+     "fin": 4.26
+    },
+    {
+     "t": "de",
+     "ini": 4.26,
+     "fin": 4.4
+    },
+    {
+     "t": "un",
+     "ini": 4.4,
+     "fin": 4.54
+    },
+    {
+     "t": "recipiente,",
+     "ini": 4.54,
+     "fin": 5.12
+    },
+    {
+     "t": "justo",
+     "ini": 5.4,
+     "fin": 5.72
+    },
+    {
+     "t": "encima",
+     "ini": 5.72,
+     "fin": 6.18
+    },
+    {
+     "t": "del",
+     "ini": 6.18,
+     "fin": 6.4
+    },
+    {
+     "t": "nivel",
+     "ini": 6.4,
+     "fin": 6.66
+    },
+    {
+     "t": "del",
+     "ini": 6.66,
+     "fin": 6.84
+    },
+    {
+     "t": "agua.",
+     "ini": 6.84,
+     "fin": 7.1
+    },
+    {
+     "t": "Allí",
+     "ini": 7.62,
+     "fin": 7.92
+    },
+    {
+     "t": "pueden",
+     "ini": 7.92,
+     "fin": 8.16
+    },
+    {
+     "t": "sobrevivir",
+     "ini": 8.16,
+     "fin": 8.7
+    },
+    {
+     "t": "secos",
+     "ini": 8.7,
+     "fin": 9.16
+    },
+    {
+     "t": "durante",
+     "ini": 9.16,
+     "fin": 9.36
+    },
+    {
+     "t": "meses.",
+     "ini": 9.36,
+     "fin": 9.82
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "eclosion",
+   "texto": "Cuando el agua sube y los cubre, llega el momento. Los huevos se abren, y de ellos salen las larvas.",
+   "fuente": "CDC",
+   "audio": "generado/mosquito-voz/escena_3.wav",
+   "duracion_s": 5.91,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Cuando",
+     "ini": 0.13,
+     "fin": 0.29
+    },
+    {
+     "t": "el",
+     "ini": 0.29,
+     "fin": 0.43
+    },
+    {
+     "t": "agua",
+     "ini": 0.43,
+     "fin": 0.59
+    },
+    {
+     "t": "sube",
+     "ini": 0.59,
+     "fin": 0.97
+    },
+    {
+     "t": "y",
+     "ini": 0.97,
+     "fin": 1.07
+    },
+    {
+     "t": "los",
+     "ini": 1.07,
+     "fin": 1.19
+    },
+    {
+     "t": "cubre,",
+     "ini": 1.19,
+     "fin": 1.59
+    },
+    {
+     "t": "llega",
+     "ini": 1.59,
+     "fin": 2.13
+    },
+    {
+     "t": "el",
+     "ini": 2.13,
+     "fin": 2.33
+    },
+    {
+     "t": "momento.",
+     "ini": 2.33,
+     "fin": 2.61
+    },
+    {
+     "t": "Los",
+     "ini": 2.93,
+     "fin": 3.05
+    },
+    {
+     "t": "huevos",
+     "ini": 3.05,
+     "fin": 3.31
+    },
+    {
+     "t": "se",
+     "ini": 3.31,
+     "fin": 3.53
+    },
+    {
+     "t": "abren,",
+     "ini": 3.53,
+     "fin": 3.83
+    },
+    {
+     "t": "y",
+     "ini": 3.83,
+     "fin": 4.29
+    },
+    {
+     "t": "de",
+     "ini": 4.29,
+     "fin": 4.43
+    },
+    {
+     "t": "ellos",
+     "ini": 4.43,
+     "fin": 4.65
+    },
+    {
+     "t": "salen",
+     "ini": 4.65,
+     "fin": 5.09
+    },
+    {
+     "t": "las",
+     "ini": 5.09,
+     "fin": 5.27
+    },
+    {
+     "t": "larvas.",
+     "ini": 5.27,
+     "fin": 5.59
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "larva",
+   "texto": "La larva vive en el agua y se mueve sin parar. Come bacterias y otros organismos diminutos, y la mayoría sube a la superficie para respirar aire.",
+   "fuente": "Penn State Extension; EPA",
+   "audio": "generado/mosquito-voz/escena_4.wav",
+   "duracion_s": 8.14,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "La",
+     "ini": 0.32,
+     "fin": 0.5
+    },
+    {
+     "t": "larva",
+     "ini": 0.5,
+     "fin": 0.74
+    },
+    {
+     "t": "vive",
+     "ini": 0.74,
+     "fin": 0.92
+    },
+    {
+     "t": "en",
+     "ini": 0.92,
+     "fin": 1.14
+    },
+    {
+     "t": "el",
+     "ini": 1.14,
+     "fin": 1.26
+    },
+    {
+     "t": "agua",
+     "ini": 1.26,
+     "fin": 1.48
+    },
+    {
+     "t": "y",
+     "ini": 1.48,
+     "fin": 1.74
+    },
+    {
+     "t": "se",
+     "ini": 1.74,
+     "fin": 1.86
+    },
+    {
+     "t": "mueve",
+     "ini": 1.86,
+     "fin": 2.14
+    },
+    {
+     "t": "sin",
+     "ini": 2.14,
+     "fin": 2.32
+    },
+    {
+     "t": "parar.",
+     "ini": 2.32,
+     "fin": 2.58
+    },
+    {
+     "t": "Come",
+     "ini": 2.88,
+     "fin": 2.96
+    },
+    {
+     "t": "bacterias",
+     "ini": 2.96,
+     "fin": 3.54
+    },
+    {
+     "t": "y",
+     "ini": 3.54,
+     "fin": 3.8
+    },
+    {
+     "t": "otros",
+     "ini": 3.8,
+     "fin": 3.98
+    },
+    {
+     "t": "organismos",
+     "ini": 3.98,
+     "fin": 4.62
+    },
+    {
+     "t": "diminutos,",
+     "ini": 4.62,
+     "fin": 5.12
+    },
+    {
+     "t": "y",
+     "ini": 5.12,
+     "fin": 5.6
+    },
+    {
+     "t": "la",
+     "ini": 5.6,
+     "fin": 5.7
+    },
+    {
+     "t": "mayoría",
+     "ini": 5.7,
+     "fin": 5.98
+    },
+    {
+     "t": "sube",
+     "ini": 5.98,
+     "fin": 6.42
+    },
+    {
+     "t": "a",
+     "ini": 6.42,
+     "fin": 6.5
+    },
+    {
+     "t": "la",
+     "ini": 6.5,
+     "fin": 6.56
+    },
+    {
+     "t": "superficie",
+     "ini": 6.56,
+     "fin": 7.12
+    },
+    {
+     "t": "para",
+     "ini": 7.12,
+     "fin": 7.32
+    },
+    {
+     "t": "respirar",
+     "ini": 7.32,
+     "fin": 7.8
+    },
+    {
+     "t": "aire.",
+     "ini": 7.8,
+     "fin": 8.02
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "muda",
+   "texto": "A medida que crece, muda su cubierta exterior varias veces.",
+   "fuente": "Penn State Extension",
+   "audio": "generado/mosquito-voz/escena_5.wav",
+   "duracion_s": 3.39,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "A",
+     "ini": 0.12,
+     "fin": 0.22
+    },
+    {
+     "t": "medida",
+     "ini": 0.22,
+     "fin": 0.38
+    },
+    {
+     "t": "que",
+     "ini": 0.38,
+     "fin": 0.62
+    },
+    {
+     "t": "crece,",
+     "ini": 0.62,
+     "fin": 1.0
+    },
+    {
+     "t": "muda",
+     "ini": 1.0,
+     "fin": 1.5
+    },
+    {
+     "t": "su",
+     "ini": 1.5,
+     "fin": 1.66
+    },
+    {
+     "t": "cubierta",
+     "ini": 1.66,
+     "fin": 2.06
+    },
+    {
+     "t": "exterior",
+     "ini": 2.06,
+     "fin": 2.44
+    },
+    {
+     "t": "varias",
+     "ini": 2.44,
+     "fin": 2.8
+    },
+    {
+     "t": "veces.",
+     "ini": 2.8,
+     "fin": 3.18
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "pupa",
+   "texto": "Luego se convierte en pupa. Sigue en el agua y puede nadar, pero ya no come. En unos pocos días, su cuerpo se transforma por completo.",
+   "fuente": "Penn State Extension; EPA",
+   "audio": "generado/mosquito-voz/escena_6.wav",
+   "duracion_s": 8.44,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Luego",
+     "ini": 0.21,
+     "fin": 0.53
+    },
+    {
+     "t": "se",
+     "ini": 0.53,
+     "fin": 0.71
+    },
+    {
+     "t": "convierte",
+     "ini": 0.71,
+     "fin": 1.07
+    },
+    {
+     "t": "en",
+     "ini": 1.07,
+     "fin": 1.31
+    },
+    {
+     "t": "pupa.",
+     "ini": 1.31,
+     "fin": 1.69
+    },
+    {
+     "t": "Sigue",
+     "ini": 2.09,
+     "fin": 2.29
+    },
+    {
+     "t": "en",
+     "ini": 2.29,
+     "fin": 2.45
+    },
+    {
+     "t": "el",
+     "ini": 2.45,
+     "fin": 2.57
+    },
+    {
+     "t": "agua",
+     "ini": 2.57,
+     "fin": 2.79
+    },
+    {
+     "t": "y",
+     "ini": 2.79,
+     "fin": 3.05
+    },
+    {
+     "t": "puede",
+     "ini": 3.05,
+     "fin": 3.29
+    },
+    {
+     "t": "nadar,",
+     "ini": 3.29,
+     "fin": 3.67
+    },
+    {
+     "t": "pero",
+     "ini": 3.93,
+     "fin": 4.11
+    },
+    {
+     "t": "ya",
+     "ini": 4.11,
+     "fin": 4.31
+    },
+    {
+     "t": "no",
+     "ini": 4.31,
+     "fin": 4.43
+    },
+    {
+     "t": "come.",
+     "ini": 4.43,
+     "fin": 4.69
+    },
+    {
+     "t": "En",
+     "ini": 5.19,
+     "fin": 5.33
+    },
+    {
+     "t": "unos",
+     "ini": 5.33,
+     "fin": 5.51
+    },
+    {
+     "t": "pocos",
+     "ini": 5.51,
+     "fin": 5.81
+    },
+    {
+     "t": "días,",
+     "ini": 5.81,
+     "fin": 6.11
+    },
+    {
+     "t": "su",
+     "ini": 6.11,
+     "fin": 6.51
+    },
+    {
+     "t": "cuerpo",
+     "ini": 6.51,
+     "fin": 6.79
+    },
+    {
+     "t": "se",
+     "ini": 6.79,
+     "fin": 7.01
+    },
+    {
+     "t": "transforma",
+     "ini": 7.01,
+     "fin": 7.59
+    },
+    {
+     "t": "por",
+     "ini": 7.59,
+     "fin": 7.75
+    },
+    {
+     "t": "completo.",
+     "ini": 7.75,
+     "fin": 8.17
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "adulto",
+   "texto": "Entonces, el adulto emerge sobre la superficie del agua. Espera a que su cuerpo se endurezca, y levanta el vuelo.",
+   "fuente": "EPA",
+   "audio": "generado/mosquito-voz/escena_7.wav",
+   "duracion_s": 6.56,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Entonces,",
+     "ini": 0.27,
+     "fin": 0.73
+    },
+    {
+     "t": "el",
+     "ini": 0.73,
+     "fin": 1.11
+    },
+    {
+     "t": "adulto",
+     "ini": 1.11,
+     "fin": 1.49
+    },
+    {
+     "t": "emerge",
+     "ini": 1.49,
+     "fin": 1.73
+    },
+    {
+     "t": "sobre",
+     "ini": 1.73,
+     "fin": 2.09
+    },
+    {
+     "t": "la",
+     "ini": 2.09,
+     "fin": 2.25
+    },
+    {
+     "t": "superficie",
+     "ini": 2.25,
+     "fin": 2.83
+    },
+    {
+     "t": "del",
+     "ini": 2.83,
+     "fin": 2.99
+    },
+    {
+     "t": "agua.",
+     "ini": 2.99,
+     "fin": 3.19
+    },
+    {
+     "t": "Espera",
+     "ini": 3.35,
+     "fin": 3.75
+    },
+    {
+     "t": "a",
+     "ini": 3.75,
+     "fin": 3.85
+    },
+    {
+     "t": "que",
+     "ini": 3.85,
+     "fin": 3.93
+    },
+    {
+     "t": "su",
+     "ini": 3.93,
+     "fin": 4.11
+    },
+    {
+     "t": "cuerpo",
+     "ini": 4.11,
+     "fin": 4.35
+    },
+    {
+     "t": "se",
+     "ini": 4.35,
+     "fin": 4.55
+    },
+    {
+     "t": "endurezca,",
+     "ini": 4.55,
+     "fin": 5.09
+    },
+    {
+     "t": "y",
+     "ini": 5.09,
+     "fin": 5.51
+    },
+    {
+     "t": "levanta",
+     "ini": 5.51,
+     "fin": 5.99
+    },
+    {
+     "t": "el",
+     "ini": 5.99,
+     "fin": 6.11
+    },
+    {
+     "t": "vuelo.",
+     "ini": 6.11,
+     "fin": 6.43
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "comida",
+   "texto": "Machos y hembras se alimentan de azúcares de las plantas. Pero solo la hembra pica.",
+   "fuente": "Contra Costa Mosquito & Vector Control",
+   "audio": "generado/mosquito-voz/escena_8.wav",
+   "duracion_s": 4.35,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Machos",
+     "ini": 0.13,
+     "fin": 0.47
+    },
+    {
+     "t": "y",
+     "ini": 0.47,
+     "fin": 0.59
+    },
+    {
+     "t": "hembras",
+     "ini": 0.66,
+     "fin": 0.81
+    },
+    {
+     "t": "se",
+     "ini": 0.85,
+     "fin": 1.03
+    },
+    {
+     "t": "alimentan",
+     "ini": 1.03,
+     "fin": 1.53
+    },
+    {
+     "t": "de",
+     "ini": 1.53,
+     "fin": 1.67
+    },
+    {
+     "t": "azúcares",
+     "ini": 1.67,
+     "fin": 2.17
+    },
+    {
+     "t": "de",
+     "ini": 2.17,
+     "fin": 2.27
+    },
+    {
+     "t": "las",
+     "ini": 2.27,
+     "fin": 2.41
+    },
+    {
+     "t": "plantas.",
+     "ini": 2.41,
+     "fin": 2.87
+    },
+    {
+     "t": "Pero",
+     "ini": 2.95,
+     "fin": 3.13
+    },
+    {
+     "t": "solo",
+     "ini": 3.13,
+     "fin": 3.43
+    },
+    {
+     "t": "la",
+     "ini": 3.43,
+     "fin": 3.63
+    },
+    {
+     "t": "hembra",
+     "ini": 3.63,
+     "fin": 3.91
+    },
+    {
+     "t": "pica.",
+     "ini": 3.91,
+     "fin": 4.25
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "hembra",
+   "texto": "Necesita las proteínas de la sangre para producir sus huevos. Después de alimentarse, busca agua, y el ciclo vuelve a empezar.",
+   "fuente": "CDC; Contra Costa",
+   "audio": "generado/mosquito-voz/escena_9.wav",
+   "duracion_s": 7.68,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Necesita",
+     "ini": 0.1,
+     "fin": 0.58
+    },
+    {
+     "t": "las",
+     "ini": 0.58,
+     "fin": 0.76
+    },
+    {
+     "t": "proteínas",
+     "ini": 0.76,
+     "fin": 1.3
+    },
+    {
+     "t": "de",
+     "ini": 1.3,
+     "fin": 1.38
+    },
+    {
+     "t": "la",
+     "ini": 1.38,
+     "fin": 1.48
+    },
+    {
+     "t": "sangre",
+     "ini": 1.48,
+     "fin": 1.78
+    },
+    {
+     "t": "para",
+     "ini": 1.78,
+     "fin": 2.06
+    },
+    {
+     "t": "producir",
+     "ini": 2.06,
+     "fin": 2.56
+    },
+    {
+     "t": "sus",
+     "ini": 2.56,
+     "fin": 2.78
+    },
+    {
+     "t": "huevos.",
+     "ini": 2.78,
+     "fin": 3.14
+    },
+    {
+     "t": "Después",
+     "ini": 3.14,
+     "fin": 3.92
+    },
+    {
+     "t": "de",
+     "ini": 3.92,
+     "fin": 4.16
+    },
+    {
+     "t": "alimentarse,",
+     "ini": 4.16,
+     "fin": 4.8
+    },
+    {
+     "t": "busca",
+     "ini": 4.8,
+     "fin": 5.3
+    },
+    {
+     "t": "agua,",
+     "ini": 5.3,
+     "fin": 5.78
+    },
+    {
+     "t": "y",
+     "ini": 5.78,
+     "fin": 6.2
+    },
+    {
+     "t": "el",
+     "ini": 6.2,
+     "fin": 6.34
+    },
+    {
+     "t": "ciclo",
+     "ini": 6.34,
+     "fin": 6.72
+    },
+    {
+     "t": "vuelve",
+     "ini": 6.72,
+     "fin": 7.16
+    },
+    {
+     "t": "a",
+     "ini": 7.16,
+     "fin": 7.24
+    },
+    {
+     "t": "empezar.",
+     "ini": 7.24,
+     "fin": 7.52
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "cierre",
+   "texto": "Por eso, un poco de agua estancada importa tanto. Vaciar baldes, macetas y recipientes puede cortar el ciclo antes de que el mosquito empiece a volar.",
+   "fuente": "CDC; EPA",
+   "audio": "generado/mosquito-voz/escena_10.wav",
+   "duracion_s": 9.429,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Por",
+     "ini": 0.16,
+     "fin": 0.18
+    },
+    {
+     "t": "eso,",
+     "ini": 0.18,
+     "fin": 0.42
+    },
+    {
+     "t": "un",
+     "ini": 0.42,
+     "fin": 0.9
+    },
+    {
+     "t": "poco",
+     "ini": 0.9,
+     "fin": 1.1
+    },
+    {
+     "t": "de",
+     "ini": 1.1,
+     "fin": 1.28
+    },
+    {
+     "t": "agua",
+     "ini": 1.28,
+     "fin": 1.5
+    },
+    {
+     "t": "estancada",
+     "ini": 1.5,
+     "fin": 2.06
+    },
+    {
+     "t": "importa",
+     "ini": 2.06,
+     "fin": 2.34
+    },
+    {
+     "t": "tanto.",
+     "ini": 2.34,
+     "fin": 2.86
+    },
+    {
+     "t": "Vaciar",
+     "ini": 2.927,
+     "fin": 3.42
+    },
+    {
+     "t": "baldes,",
+     "ini": 3.513,
+     "fin": 3.98
+    },
+    {
+     "t": "macetas",
+     "ini": 4.1,
+     "fin": 4.54
+    },
+    {
+     "t": "y",
+     "ini": 4.54,
+     "fin": 4.72
+    },
+    {
+     "t": "recipientes",
+     "ini": 4.72,
+     "fin": 5.32
+    },
+    {
+     "t": "puede",
+     "ini": 5.32,
+     "fin": 5.82
+    },
+    {
+     "t": "cortar",
+     "ini": 5.82,
+     "fin": 6.2
+    },
+    {
+     "t": "el",
+     "ini": 6.2,
+     "fin": 6.36
+    },
+    {
+     "t": "ciclo",
+     "ini": 6.36,
+     "fin": 6.78
+    },
+    {
+     "t": "antes",
+     "ini": 6.78,
+     "fin": 7.14
+    },
+    {
+     "t": "de",
+     "ini": 7.14,
+     "fin": 7.34
+    },
+    {
+     "t": "que",
+     "ini": 7.34,
+     "fin": 7.46
+    },
+    {
+     "t": "el",
+     "ini": 7.46,
+     "fin": 7.58
+    },
+    {
+     "t": "mosquito",
+     "ini": 7.58,
+     "fin": 8.0
+    },
+    {
+     "t": "empiece",
+     "ini": 8.0,
+     "fin": 8.54
+    },
+    {
+     "t": "a",
+     "ini": 8.54,
+     "fin": 8.68
+    },
+    {
+     "t": "volar.",
+     "ini": 8.68,
+     "fin": 9.02
+    }
+   ],
+   "tiempos": "alineado"
+  }
+ ]
+}

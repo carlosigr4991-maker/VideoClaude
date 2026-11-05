@@ -1,0 +1,18 @@
+{
+  "env": {
+    "TEMP": "E:\\a ver que sale\\.tmp",
+    "TMP": "E:\\a ver que sale\\.tmp",
+    "npm_config_logs_dir": "E:\\a ver que sale\\.cache\\npm-logs"
+  },
+  "permissions": {
+    "deny": [
+      "Read(./node_modules/**)",
+      "Read(./.cache/**)",
+      "Read(./out/**)",
+      "Read(./logs/**)",
+      "Read(./public/generado/**)",
+      "Read(./src/generado/**)",
+      "Read(./package-lock.json)"
+    ]
+  }
+}

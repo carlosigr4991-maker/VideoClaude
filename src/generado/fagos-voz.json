@@ -1,0 +1,1437 @@
+{
+ "id": "fagos-voz",
+ "perfil": "voz",
+ "escenas": [
+  {
+   "id": "gancho",
+   "texto": "A principios de dos mil dieciséis, Tom Patterson estaba en coma. Una bacteria resistente se había extendido por su cuerpo, y casi ningún antibiótico funcionaba.",
+   "fuente": "Schooley et al., 2017; CIDRAP",
+   "audio": "generado/fagos-voz/escena_1.wav",
+   "duracion_s": 9.33,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "A",
+     "ini": 0.0,
+     "fin": 0.22
+    },
+    {
+     "t": "principios",
+     "ini": 0.22,
+     "fin": 0.7
+    },
+    {
+     "t": "de",
+     "ini": 0.7,
+     "fin": 0.84
+    },
+    {
+     "t": "dos",
+     "ini": 1.055,
+     "fin": 1.2
+    },
+    {
+     "t": "mil",
+     "ini": 1.41,
+     "fin": 1.56
+    },
+    {
+     "t": "dieciséis,",
+     "ini": 1.765,
+     "fin": 1.92
+    },
+    {
+     "t": "Tom",
+     "ini": 2.12,
+     "fin": 2.28
+    },
+    {
+     "t": "Patterson",
+     "ini": 2.28,
+     "fin": 2.76
+    },
+    {
+     "t": "estaba",
+     "ini": 2.76,
+     "fin": 3.14
+    },
+    {
+     "t": "en",
+     "ini": 3.14,
+     "fin": 3.38
+    },
+    {
+     "t": "coma.",
+     "ini": 3.38,
+     "fin": 3.6
+    },
+    {
+     "t": "Una",
+     "ini": 4.04,
+     "fin": 4.2
+    },
+    {
+     "t": "bacteria",
+     "ini": 4.2,
+     "fin": 4.48
+    },
+    {
+     "t": "resistente",
+     "ini": 4.48,
+     "fin": 5.2
+    },
+    {
+     "t": "se",
+     "ini": 5.2,
+     "fin": 5.4
+    },
+    {
+     "t": "había",
+     "ini": 5.4,
+     "fin": 5.58
+    },
+    {
+     "t": "extendido",
+     "ini": 5.58,
+     "fin": 6.08
+    },
+    {
+     "t": "por",
+     "ini": 6.08,
+     "fin": 6.26
+    },
+    {
+     "t": "su",
+     "ini": 6.26,
+     "fin": 6.42
+    },
+    {
+     "t": "cuerpo,",
+     "ini": 6.42,
+     "fin": 6.72
+    },
+    {
+     "t": "y",
+     "ini": 6.72,
+     "fin": 7.18
+    },
+    {
+     "t": "casi",
+     "ini": 7.18,
+     "fin": 7.42
+    },
+    {
+     "t": "ningún",
+     "ini": 7.42,
+     "fin": 7.84
+    },
+    {
+     "t": "antibiótico",
+     "ini": 7.84,
+     "fin": 8.54
+    },
+    {
+     "t": "funcionaba.",
+     "ini": 8.54,
+     "fin": 9.1
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "idea",
+   "texto": "Entonces, su esposa, la científica Steffanie Strathdee, buscó una salida poco común: atacar a la bacteria con virus.",
+   "fuente": "CIDRAP, 2017",
+   "audio": "generado/fagos-voz/escena_2.wav",
+   "duracion_s": 8.15,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Entonces,",
+     "ini": 0.23,
+     "fin": 0.67
+    },
+    {
+     "t": "su",
+     "ini": 1.05,
+     "fin": 1.21
+    },
+    {
+     "t": "esposa,",
+     "ini": 1.21,
+     "fin": 1.59
+    },
+    {
+     "t": "la",
+     "ini": 1.99,
+     "fin": 2.07
+    },
+    {
+     "t": "científica",
+     "ini": 2.07,
+     "fin": 2.67
+    },
+    {
+     "t": "Steffanie",
+     "ini": 2.763,
+     "fin": 3.263
+    },
+    {
+     "t": "Strathdee,",
+     "ini": 3.457,
+     "fin": 3.857
+    },
+    {
+     "t": "buscó",
+     "ini": 4.15,
+     "fin": 4.45
+    },
+    {
+     "t": "una",
+     "ini": 4.45,
+     "fin": 4.61
+    },
+    {
+     "t": "salida",
+     "ini": 4.61,
+     "fin": 4.99
+    },
+    {
+     "t": "poco",
+     "ini": 4.99,
+     "fin": 5.33
+    },
+    {
+     "t": "común:",
+     "ini": 5.33,
+     "fin": 5.69
+    },
+    {
+     "t": "atacar",
+     "ini": 6.15,
+     "fin": 6.65
+    },
+    {
+     "t": "a",
+     "ini": 6.65,
+     "fin": 6.75
+    },
+    {
+     "t": "la",
+     "ini": 6.75,
+     "fin": 6.83
+    },
+    {
+     "t": "bacteria",
+     "ini": 6.83,
+     "fin": 7.19
+    },
+    {
+     "t": "con",
+     "ini": 7.19,
+     "fin": 7.53
+    },
+    {
+     "t": "virus.",
+     "ini": 7.53,
+     "fin": 7.81
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "fago",
+   "texto": "Se llaman bacteriófagos. Infectan bacterias, no células humanas.",
+   "fuente": "Biología de los bacteriófagos",
+   "audio": "generado/fagos-voz/escena_3.wav",
+   "duracion_s": 4.94,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Se",
+     "ini": 0.34,
+     "fin": 0.52
+    },
+    {
+     "t": "llaman",
+     "ini": 0.52,
+     "fin": 0.78
+    },
+    {
+     "t": "bacteriófagos.",
+     "ini": 0.78,
+     "fin": 1.78
+    },
+    {
+     "t": "Infectan",
+     "ini": 2.2,
+     "fin": 2.72
+    },
+    {
+     "t": "bacterias,",
+     "ini": 2.72,
+     "fin": 3.3
+    },
+    {
+     "t": "no",
+     "ini": 3.56,
+     "fin": 3.76
+    },
+    {
+     "t": "células",
+     "ini": 3.76,
+     "fin": 4.14
+    },
+    {
+     "t": "humanas.",
+     "ini": 4.14,
+     "fin": 4.7
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "ataque",
+   "texto": "Primero, el fago reconoce a su bacteria y se posa sobre ella. Luego, le inyecta su material genético.",
+   "fuente": "Ciclo lítico de los bacteriófagos",
+   "audio": "generado/fagos-voz/escena_4.wav",
+   "duracion_s": 5.84,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Primero,",
+     "ini": 0.24,
+     "fin": 0.66
+    },
+    {
+     "t": "el",
+     "ini": 0.88,
+     "fin": 0.92
+    },
+    {
+     "t": "fago",
+     "ini": 0.92,
+     "fin": 1.16
+    },
+    {
+     "t": "reconoce",
+     "ini": 1.16,
+     "fin": 1.7
+    },
+    {
+     "t": "a",
+     "ini": 1.7,
+     "fin": 1.78
+    },
+    {
+     "t": "su",
+     "ini": 1.78,
+     "fin": 1.88
+    },
+    {
+     "t": "bacteria",
+     "ini": 1.88,
+     "fin": 2.18
+    },
+    {
+     "t": "y",
+     "ini": 2.18,
+     "fin": 2.6
+    },
+    {
+     "t": "se",
+     "ini": 2.6,
+     "fin": 2.74
+    },
+    {
+     "t": "posa",
+     "ini": 2.74,
+     "fin": 3.1
+    },
+    {
+     "t": "sobre",
+     "ini": 3.1,
+     "fin": 3.3
+    },
+    {
+     "t": "ella.",
+     "ini": 3.3,
+     "fin": 3.56
+    },
+    {
+     "t": "Luego,",
+     "ini": 3.82,
+     "fin": 4.04
+    },
+    {
+     "t": "le",
+     "ini": 4.04,
+     "fin": 4.36
+    },
+    {
+     "t": "inyecta",
+     "ini": 4.36,
+     "fin": 4.82
+    },
+    {
+     "t": "su",
+     "ini": 4.82,
+     "fin": 4.96
+    },
+    {
+     "t": "material",
+     "ini": 4.96,
+     "fin": 5.26
+    },
+    {
+     "t": "genético.",
+     "ini": 5.26,
+     "fin": 5.84
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "lisis",
+   "texto": "La bacteria, secuestrada, fabrica copias nuevas del virus. Hasta que revienta, y los nuevos fagos salen a buscar a la siguiente.",
+   "fuente": "Ciclo lítico de los bacteriófagos",
+   "audio": "generado/fagos-voz/escena_5.wav",
+   "duracion_s": 8.13,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "La",
+     "ini": 0.0,
+     "fin": 0.36
+    },
+    {
+     "t": "bacteria,",
+     "ini": 0.36,
+     "fin": 0.66
+    },
+    {
+     "t": "secuestrada,",
+     "ini": 0.66,
+     "fin": 1.66
+    },
+    {
+     "t": "fabrica",
+     "ini": 1.66,
+     "fin": 2.46
+    },
+    {
+     "t": "copias",
+     "ini": 2.46,
+     "fin": 2.92
+    },
+    {
+     "t": "nuevas",
+     "ini": 2.92,
+     "fin": 3.22
+    },
+    {
+     "t": "del",
+     "ini": 3.22,
+     "fin": 3.52
+    },
+    {
+     "t": "virus.",
+     "ini": 3.52,
+     "fin": 3.78
+    },
+    {
+     "t": "Hasta",
+     "ini": 3.96,
+     "fin": 4.32
+    },
+    {
+     "t": "que",
+     "ini": 4.32,
+     "fin": 4.5
+    },
+    {
+     "t": "revienta,",
+     "ini": 4.5,
+     "fin": 5.08
+    },
+    {
+     "t": "y",
+     "ini": 5.08,
+     "fin": 5.46
+    },
+    {
+     "t": "los",
+     "ini": 5.46,
+     "fin": 5.64
+    },
+    {
+     "t": "nuevos",
+     "ini": 5.64,
+     "fin": 5.9
+    },
+    {
+     "t": "fagos",
+     "ini": 5.9,
+     "fin": 6.44
+    },
+    {
+     "t": "salen",
+     "ini": 6.44,
+     "fin": 6.94
+    },
+    {
+     "t": "a",
+     "ini": 6.94,
+     "fin": 7.04
+    },
+    {
+     "t": "buscar",
+     "ini": 7.04,
+     "fin": 7.3
+    },
+    {
+     "t": "a",
+     "ini": 7.3,
+     "fin": 7.46
+    },
+    {
+     "t": "la",
+     "ini": 7.46,
+     "fin": 7.54
+    },
+    {
+     "t": "siguiente.",
+     "ini": 7.54,
+     "fin": 7.78
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "busqueda",
+   "texto": "Pero cada fago sirve para ciertas bacterias, así que había que hallar los correctos. Los equipos buscaron en muestras del ambiente, incluso en aguas residuales.",
+   "fuente": "CIDRAP, 2017",
+   "audio": "generado/fagos-voz/escena_6.wav",
+   "duracion_s": 8.87,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Pero",
+     "ini": 0.35,
+     "fin": 0.49
+    },
+    {
+     "t": "cada",
+     "ini": 0.49,
+     "fin": 0.69
+    },
+    {
+     "t": "fago",
+     "ini": 0.69,
+     "fin": 1.05
+    },
+    {
+     "t": "sirve",
+     "ini": 1.05,
+     "fin": 1.41
+    },
+    {
+     "t": "para",
+     "ini": 1.41,
+     "fin": 1.63
+    },
+    {
+     "t": "ciertas",
+     "ini": 1.63,
+     "fin": 2.07
+    },
+    {
+     "t": "bacterias,",
+     "ini": 2.07,
+     "fin": 2.61
+    },
+    {
+     "t": "así",
+     "ini": 2.73,
+     "fin": 2.95
+    },
+    {
+     "t": "que",
+     "ini": 2.95,
+     "fin": 3.11
+    },
+    {
+     "t": "había",
+     "ini": 3.11,
+     "fin": 3.29
+    },
+    {
+     "t": "que",
+     "ini": 3.29,
+     "fin": 3.47
+    },
+    {
+     "t": "hallar",
+     "ini": 3.47,
+     "fin": 3.71
+    },
+    {
+     "t": "los",
+     "ini": 3.71,
+     "fin": 3.87
+    },
+    {
+     "t": "correctos.",
+     "ini": 3.87,
+     "fin": 4.39
+    },
+    {
+     "t": "Los",
+     "ini": 4.59,
+     "fin": 4.71
+    },
+    {
+     "t": "equipos",
+     "ini": 4.71,
+     "fin": 5.09
+    },
+    {
+     "t": "buscaron",
+     "ini": 5.09,
+     "fin": 5.57
+    },
+    {
+     "t": "en",
+     "ini": 5.57,
+     "fin": 5.69
+    },
+    {
+     "t": "muestras",
+     "ini": 5.69,
+     "fin": 6.05
+    },
+    {
+     "t": "del",
+     "ini": 6.05,
+     "fin": 6.23
+    },
+    {
+     "t": "ambiente,",
+     "ini": 6.23,
+     "fin": 6.57
+    },
+    {
+     "t": "incluso",
+     "ini": 7.05,
+     "fin": 7.41
+    },
+    {
+     "t": "en",
+     "ini": 7.41,
+     "fin": 7.69
+    },
+    {
+     "t": "aguas",
+     "ini": 7.69,
+     "fin": 7.95
+    },
+    {
+     "t": "residuales.",
+     "ini": 7.95,
+     "fin": 8.63
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "despertar",
+   "texto": "En marzo, los médicos le aplicaron las mezclas de fagos. Dos días después de recibirlas por la vena, mejoró y despertó.",
+   "fuente": "CIDRAP, 2017",
+   "audio": "generado/fagos-voz/escena_7.wav",
+   "duracion_s": 7.42,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "En",
+     "ini": 0.24,
+     "fin": 0.44
+    },
+    {
+     "t": "marzo,",
+     "ini": 0.44,
+     "fin": 0.78
+    },
+    {
+     "t": "los",
+     "ini": 0.88,
+     "fin": 0.96
+    },
+    {
+     "t": "médicos",
+     "ini": 0.96,
+     "fin": 1.36
+    },
+    {
+     "t": "le",
+     "ini": 1.36,
+     "fin": 1.52
+    },
+    {
+     "t": "aplicaron",
+     "ini": 1.52,
+     "fin": 1.98
+    },
+    {
+     "t": "las",
+     "ini": 1.98,
+     "fin": 2.18
+    },
+    {
+     "t": "mezclas",
+     "ini": 2.18,
+     "fin": 2.66
+    },
+    {
+     "t": "de",
+     "ini": 2.66,
+     "fin": 2.76
+    },
+    {
+     "t": "fagos.",
+     "ini": 2.76,
+     "fin": 3.2
+    },
+    {
+     "t": "Dos",
+     "ini": 3.5,
+     "fin": 3.72
+    },
+    {
+     "t": "días",
+     "ini": 3.72,
+     "fin": 3.94
+    },
+    {
+     "t": "después",
+     "ini": 3.94,
+     "fin": 4.3
+    },
+    {
+     "t": "de",
+     "ini": 4.3,
+     "fin": 4.5
+    },
+    {
+     "t": "recibirlas",
+     "ini": 4.5,
+     "fin": 5.02
+    },
+    {
+     "t": "por",
+     "ini": 5.02,
+     "fin": 5.24
+    },
+    {
+     "t": "la",
+     "ini": 5.24,
+     "fin": 5.36
+    },
+    {
+     "t": "vena,",
+     "ini": 5.36,
+     "fin": 5.68
+    },
+    {
+     "t": "mejoró",
+     "ini": 5.84,
+     "fin": 6.44
+    },
+    {
+     "t": "y",
+     "ini": 6.44,
+     "fin": 6.7
+    },
+    {
+     "t": "despertó.",
+     "ini": 6.7,
+     "fin": 7.16
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "matiz",
+   "texto": "No fue magia. También recibió antibióticos, la bacteria empezó a resistir a los fagos, y sus médicos no pueden asegurar que fueran la causa. Volvió a casa en agosto.",
+   "fuente": "Schooley et al., 2017; CIDRAP",
+   "audio": "generado/fagos-voz/escena_8.wav",
+   "duracion_s": 10.41,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "No",
+     "ini": 0.26,
+     "fin": 0.46
+    },
+    {
+     "t": "fue",
+     "ini": 0.46,
+     "fin": 0.64
+    },
+    {
+     "t": "magia.",
+     "ini": 0.64,
+     "fin": 1.0
+    },
+    {
+     "t": "También",
+     "ini": 1.38,
+     "fin": 1.64
+    },
+    {
+     "t": "recibió",
+     "ini": 1.64,
+     "fin": 2.14
+    },
+    {
+     "t": "antibióticos,",
+     "ini": 2.14,
+     "fin": 2.76
+    },
+    {
+     "t": "la",
+     "ini": 2.76,
+     "fin": 3.32
+    },
+    {
+     "t": "bacteria",
+     "ini": 3.32,
+     "fin": 3.58
+    },
+    {
+     "t": "empezó",
+     "ini": 3.58,
+     "fin": 4.14
+    },
+    {
+     "t": "a",
+     "ini": 4.14,
+     "fin": 4.24
+    },
+    {
+     "t": "resistir",
+     "ini": 4.24,
+     "fin": 4.72
+    },
+    {
+     "t": "a",
+     "ini": 4.72,
+     "fin": 4.78
+    },
+    {
+     "t": "los",
+     "ini": 4.78,
+     "fin": 4.92
+    },
+    {
+     "t": "fagos,",
+     "ini": 4.92,
+     "fin": 5.34
+    },
+    {
+     "t": "y",
+     "ini": 5.54,
+     "fin": 5.7
+    },
+    {
+     "t": "sus",
+     "ini": 5.7,
+     "fin": 5.86
+    },
+    {
+     "t": "médicos",
+     "ini": 5.86,
+     "fin": 6.26
+    },
+    {
+     "t": "no",
+     "ini": 6.26,
+     "fin": 6.52
+    },
+    {
+     "t": "pueden",
+     "ini": 6.52,
+     "fin": 6.82
+    },
+    {
+     "t": "asegurar",
+     "ini": 6.82,
+     "fin": 7.28
+    },
+    {
+     "t": "que",
+     "ini": 7.28,
+     "fin": 7.48
+    },
+    {
+     "t": "fueran",
+     "ini": 7.48,
+     "fin": 7.82
+    },
+    {
+     "t": "la",
+     "ini": 7.82,
+     "fin": 7.96
+    },
+    {
+     "t": "causa.",
+     "ini": 7.96,
+     "fin": 8.18
+    },
+    {
+     "t": "Volvió",
+     "ini": 8.78,
+     "fin": 9.18
+    },
+    {
+     "t": "a",
+     "ini": 9.18,
+     "fin": 9.3
+    },
+    {
+     "t": "casa",
+     "ini": 9.3,
+     "fin": 9.52
+    },
+    {
+     "t": "en",
+     "ini": 9.52,
+     "fin": 9.72
+    },
+    {
+     "t": "agosto.",
+     "ini": 9.72,
+     "fin": 10.08
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "historia",
+   "texto": "La idea tiene un siglo. Félix d'Hérelle ya trató infecciones con fagos, pero en occidente los antibióticos los dejaron de lado. Hoy vuelven, porque en dos mil diecinueve la resistencia bacteriana causó más de un millón de muertes.",
+   "fuente": "Lancet, 2022; revisiones históricas",
+   "audio": "generado/fagos-voz/escena_9.wav",
+   "duracion_s": 13.72,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "La",
+     "ini": 0.33,
+     "fin": 0.47
+    },
+    {
+     "t": "idea",
+     "ini": 0.47,
+     "fin": 0.65
+    },
+    {
+     "t": "tiene",
+     "ini": 0.65,
+     "fin": 0.89
+    },
+    {
+     "t": "un",
+     "ini": 0.89,
+     "fin": 1.09
+    },
+    {
+     "t": "siglo.",
+     "ini": 1.09,
+     "fin": 1.33
+    },
+    {
+     "t": "Félix",
+     "ini": 1.65,
+     "fin": 1.85
+    },
+    {
+     "t": "d'Hérelle",
+     "ini": 1.95,
+     "fin": 2.23
+    },
+    {
+     "t": "ya",
+     "ini": 2.25,
+     "fin": 2.61
+    },
+    {
+     "t": "trató",
+     "ini": 2.61,
+     "fin": 2.91
+    },
+    {
+     "t": "infecciones",
+     "ini": 2.91,
+     "fin": 3.35
+    },
+    {
+     "t": "con",
+     "ini": 3.35,
+     "fin": 3.59
+    },
+    {
+     "t": "fagos,",
+     "ini": 3.59,
+     "fin": 4.09
+    },
+    {
+     "t": "pero",
+     "ini": 4.41,
+     "fin": 4.61
+    },
+    {
+     "t": "en",
+     "ini": 4.61,
+     "fin": 4.75
+    },
+    {
+     "t": "occidente",
+     "ini": 4.75,
+     "fin": 5.15
+    },
+    {
+     "t": "los",
+     "ini": 5.15,
+     "fin": 5.37
+    },
+    {
+     "t": "antibióticos",
+     "ini": 5.37,
+     "fin": 6.05
+    },
+    {
+     "t": "los",
+     "ini": 6.05,
+     "fin": 6.27
+    },
+    {
+     "t": "dejaron",
+     "ini": 6.27,
+     "fin": 6.63
+    },
+    {
+     "t": "de",
+     "ini": 6.63,
+     "fin": 6.79
+    },
+    {
+     "t": "lado.",
+     "ini": 6.79,
+     "fin": 6.99
+    },
+    {
+     "t": "Hoy",
+     "ini": 7.29,
+     "fin": 7.43
+    },
+    {
+     "t": "vuelven,",
+     "ini": 7.43,
+     "fin": 7.81
+    },
+    {
+     "t": "porque",
+     "ini": 8.21,
+     "fin": 8.43
+    },
+    {
+     "t": "en",
+     "ini": 8.43,
+     "fin": 8.61
+    },
+    {
+     "t": "dos",
+     "ini": 8.62,
+     "fin": 8.975
+    },
+    {
+     "t": "mil",
+     "ini": 8.81,
+     "fin": 9.34
+    },
+    {
+     "t": "diecinueve",
+     "ini": 9.0,
+     "fin": 9.705
+    },
+    {
+     "t": "la",
+     "ini": 9.19,
+     "fin": 10.07
+    },
+    {
+     "t": "resistencia",
+     "ini": 10.07,
+     "fin": 10.65
+    },
+    {
+     "t": "bacteriana",
+     "ini": 10.65,
+     "fin": 11.25
+    },
+    {
+     "t": "causó",
+     "ini": 11.25,
+     "fin": 11.75
+    },
+    {
+     "t": "más",
+     "ini": 11.75,
+     "fin": 12.03
+    },
+    {
+     "t": "de",
+     "ini": 12.03,
+     "fin": 12.27
+    },
+    {
+     "t": "un",
+     "ini": 12.27,
+     "fin": 12.43
+    },
+    {
+     "t": "millón",
+     "ini": 12.43,
+     "fin": 12.87
+    },
+    {
+     "t": "de",
+     "ini": 12.87,
+     "fin": 13.03
+    },
+    {
+     "t": "muertes.",
+     "ini": 13.03,
+     "fin": 13.45
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "oceano",
+   "texto": "Y esta guerra no ocurre solo en hospitales. En el océano, se estima que los virus matan cada día cerca de la quinta parte de la biomasa microbiana, y lo que liberan alimenta a otros organismos.",
+   "fuente": "Suttle, Nature Reviews Microbiology 2007",
+   "audio": "generado/fagos-voz/escena_10.wav",
+   "duracion_s": 11.51,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Y",
+     "ini": 0.27,
+     "fin": 0.43
+    },
+    {
+     "t": "esta",
+     "ini": 0.43,
+     "fin": 0.61
+    },
+    {
+     "t": "guerra",
+     "ini": 0.61,
+     "fin": 0.85
+    },
+    {
+     "t": "no",
+     "ini": 0.85,
+     "fin": 1.15
+    },
+    {
+     "t": "ocurre",
+     "ini": 1.15,
+     "fin": 1.53
+    },
+    {
+     "t": "solo",
+     "ini": 1.53,
+     "fin": 1.79
+    },
+    {
+     "t": "en",
+     "ini": 1.79,
+     "fin": 1.95
+    },
+    {
+     "t": "hospitales.",
+     "ini": 1.95,
+     "fin": 2.51
+    },
+    {
+     "t": "En",
+     "ini": 2.51,
+     "fin": 2.95
+    },
+    {
+     "t": "el",
+     "ini": 2.95,
+     "fin": 3.05
+    },
+    {
+     "t": "océano,",
+     "ini": 3.05,
+     "fin": 3.47
+    },
+    {
+     "t": "se",
+     "ini": 3.73,
+     "fin": 3.93
+    },
+    {
+     "t": "estima",
+     "ini": 3.93,
+     "fin": 4.23
+    },
+    {
+     "t": "que",
+     "ini": 4.23,
+     "fin": 4.35
+    },
+    {
+     "t": "los",
+     "ini": 4.35,
+     "fin": 4.49
+    },
+    {
+     "t": "virus",
+     "ini": 4.49,
+     "fin": 4.71
+    },
+    {
+     "t": "matan",
+     "ini": 4.71,
+     "fin": 5.19
+    },
+    {
+     "t": "cada",
+     "ini": 5.19,
+     "fin": 5.47
+    },
+    {
+     "t": "día",
+     "ini": 5.47,
+     "fin": 5.77
+    },
+    {
+     "t": "cerca",
+     "ini": 5.77,
+     "fin": 6.07
+    },
+    {
+     "t": "de",
+     "ini": 6.07,
+     "fin": 6.29
+    },
+    {
+     "t": "la",
+     "ini": 6.29,
+     "fin": 6.39
+    },
+    {
+     "t": "quinta",
+     "ini": 6.39,
+     "fin": 6.79
+    },
+    {
+     "t": "parte",
+     "ini": 6.79,
+     "fin": 7.15
+    },
+    {
+     "t": "de",
+     "ini": 7.15,
+     "fin": 7.31
+    },
+    {
+     "t": "la",
+     "ini": 7.31,
+     "fin": 7.41
+    },
+    {
+     "t": "biomasa",
+     "ini": 7.41,
+     "fin": 7.89
+    },
+    {
+     "t": "microbiana,",
+     "ini": 7.89,
+     "fin": 8.45
+    },
+    {
+     "t": "y",
+     "ini": 8.81,
+     "fin": 8.97
+    },
+    {
+     "t": "lo",
+     "ini": 8.97,
+     "fin": 9.07
+    },
+    {
+     "t": "que",
+     "ini": 9.07,
+     "fin": 9.15
+    },
+    {
+     "t": "liberan",
+     "ini": 9.15,
+     "fin": 9.59
+    },
+    {
+     "t": "alimenta",
+     "ini": 9.59,
+     "fin": 10.23
+    },
+    {
+     "t": "a",
+     "ini": 10.23,
+     "fin": 10.37
+    },
+    {
+     "t": "otros",
+     "ini": 10.37,
+     "fin": 10.59
+    },
+    {
+     "t": "organismos.",
+     "ini": 10.59,
+     "fin": 11.31
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "cierre",
+   "texto": "Los fagos no son una cura universal, y faltan más ensayos. Pero a veces, el enemigo de tu enemigo puede ser un virus.",
+   "fuente": "Conclusión de la tesis",
+   "audio": "generado/fagos-voz/escena_11.wav",
+   "duracion_s": 8.124,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Los",
+     "ini": 0.2,
+     "fin": 0.32
+    },
+    {
+     "t": "fagos",
+     "ini": 0.32,
+     "fin": 0.82
+    },
+    {
+     "t": "no",
+     "ini": 0.82,
+     "fin": 1.16
+    },
+    {
+     "t": "son",
+     "ini": 1.16,
+     "fin": 1.42
+    },
+    {
+     "t": "una",
+     "ini": 1.42,
+     "fin": 1.58
+    },
+    {
+     "t": "cura",
+     "ini": 1.58,
+     "fin": 1.88
+    },
+    {
+     "t": "universal,",
+     "ini": 1.88,
+     "fin": 2.34
+    },
+    {
+     "t": "y",
+     "ini": 2.86,
+     "fin": 2.9
+    },
+    {
+     "t": "faltan",
+     "ini": 2.9,
+     "fin": 3.38
+    },
+    {
+     "t": "más",
+     "ini": 3.38,
+     "fin": 3.6
+    },
+    {
+     "t": "ensayos.",
+     "ini": 3.6,
+     "fin": 4.24
+    },
+    {
+     "t": "Pero",
+     "ini": 4.62,
+     "fin": 4.78
+    },
+    {
+     "t": "a",
+     "ini": 4.78,
+     "fin": 4.88
+    },
+    {
+     "t": "veces,",
+     "ini": 4.88,
+     "fin": 5.1
+    },
+    {
+     "t": "el",
+     "ini": 5.44,
+     "fin": 5.48
+    },
+    {
+     "t": "enemigo",
+     "ini": 5.48,
+     "fin": 5.86
+    },
+    {
+     "t": "de",
+     "ini": 5.86,
+     "fin": 6.0
+    },
+    {
+     "t": "tu",
+     "ini": 6.0,
+     "fin": 6.12
+    },
+    {
+     "t": "enemigo",
+     "ini": 6.12,
+     "fin": 6.6
+    },
+    {
+     "t": "puede",
+     "ini": 6.6,
+     "fin": 7.0
+    },
+    {
+     "t": "ser",
+     "ini": 7.0,
+     "fin": 7.28
+    },
+    {
+     "t": "un",
+     "ini": 7.28,
+     "fin": 7.4
+    },
+    {
+     "t": "virus.",
+     "ini": 7.4,
+     "fin": 7.64
+    }
+   ],
+   "tiempos": "alineado"
+  }
+ ]
+}

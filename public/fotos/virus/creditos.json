@@ -1,0 +1,37 @@
+{
+ "retrovirus": {
+  "archivo": "File:HIV-budding-BW-detail(2).jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:HIV-budding-BW-detail(2).jpg",
+  "autor": "Photo Credit: C. Goldsmith Content Providers: CDC/ C. Goldsmith, P. Feorino, E. ",
+  "licencia": "Public domain",
+  "licencia_url": null
+ },
+ "variola": {
+  "archivo": "File:Smallpox virus virions TEM PHIL 1849.JPG",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Smallpox_virus_virions_TEM_PHIL_1849.JPG",
+  "autor": "Content Providers(s): CDC/ Dr. Fred Murphy; Sylvia Whitfield",
+  "licencia": "Public domain",
+  "licencia_url": null
+ },
+ "vaccinia": {
+  "archivo": "File:Vaccinia virus PHIL 2143 lores.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Vaccinia_virus_PHIL_2143_lores.jpg",
+  "autor": "Photo Credit: Content Providers(s): CDC/Cynthia Goldsmith",
+  "licencia": "Public domain",
+  "licencia_url": null
+ },
+ "jenner": {
+  "archivo": "File:Melingue Jenner peint.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Melingue_Jenner_peint.jpg",
+  "autor": "Gaston Mélingue",
+  "licencia": "Public domain",
+  "licencia_url": null
+ },
+ "nelmes": {
+  "archivo": "File:The hand of Sarah Nelmes infected with the cowpox. Wellcome L0043483.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:The_hand_of_Sarah_Nelmes_infected_with_the_cowpox._Wellcome_L0043483.jpg",
+  "autor": "",
+  "licencia": "CC BY 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/4.0"
+ }
+}

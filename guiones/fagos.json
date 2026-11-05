@@ -1,0 +1,17 @@
+{
+  "id": "fagos",
+  "perfil": "natural",
+  "escenas": [
+    {"id": "gancho", "texto": "A principios de dos mil dieciséis, Tom Patterson estaba en coma. Una bacteria resistente se había extendido por su cuerpo, y casi ningún antibiótico funcionaba.", "fuente": "Schooley et al., 2017; CIDRAP"},
+    {"id": "idea", "texto": "Entonces, su esposa, la científica Steffanie Strathdee, buscó una salida poco común: atacar a la bacteria con virus.", "fuente": "CIDRAP, 2017"},
+    {"id": "fago", "texto": "Se llaman bacteriófagos. Infectan bacterias, no células humanas.", "fuente": "Biología de los bacteriófagos"},
+    {"id": "ataque", "texto": "Primero, el fago reconoce a su bacteria y se posa sobre ella. Luego, le inyecta su material genético.", "fuente": "Ciclo lítico de los bacteriófagos"},
+    {"id": "lisis", "texto": "La bacteria, secuestrada, fabrica copias nuevas del virus. Hasta que revienta, y los nuevos fagos salen a buscar a la siguiente.", "fuente": "Ciclo lítico de los bacteriófagos"},
+    {"id": "busqueda", "texto": "Pero cada fago sirve para ciertas bacterias, así que había que hallar los correctos. Los equipos buscaron en muestras del ambiente, incluso en aguas residuales.", "fuente": "CIDRAP, 2017"},
+    {"id": "despertar", "texto": "En marzo, los médicos le aplicaron las mezclas de fagos. Dos días después de recibirlas por la vena, mejoró y despertó.", "fuente": "CIDRAP, 2017"},
+    {"id": "matiz", "texto": "No fue magia. También recibió antibióticos, la bacteria empezó a resistir a los fagos, y sus médicos no pueden asegurar que fueran la causa. Volvió a casa en agosto.", "fuente": "Schooley et al., 2017; CIDRAP"},
+    {"id": "historia", "texto": "La idea tiene un siglo. Félix d'Hérelle ya trató infecciones con fagos, pero en occidente los antibióticos los dejaron de lado. Hoy vuelven, porque en dos mil diecinueve la resistencia bacteriana causó más de un millón de muertes.", "fuente": "Lancet, 2022; revisiones históricas"},
+    {"id": "oceano", "texto": "Y esta guerra no ocurre solo en hospitales. En el océano, se estima que los virus matan cada día cerca de la quinta parte de la biomasa microbiana, y lo que liberan alimenta a otros organismos.", "fuente": "Suttle, Nature Reviews Microbiology 2007"},
+    {"id": "cierre", "texto": "Los fagos no son una cura universal, y faltan más ensayos. Pero a veces, el enemigo de tu enemigo puede ser un virus.", "fuente": "Conclusión de la tesis"}
+  ]
+}

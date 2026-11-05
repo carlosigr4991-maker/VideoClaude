@@ -1,0 +1,1436 @@
+{
+ "id": "rendija-voz",
+ "perfil": "voz",
+ "escenas": [
+  {
+   "id": "bolitas",
+   "texto": "Lanza bolitas contra una pared con dos rendijas. Detrás, en una pantalla, verás dos franjas. Una por cada abertura.",
+   "fuente": "Física clásica",
+   "audio": "generado/rendija-voz/escena_1.wav",
+   "duracion_s": 9.15,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Lanza",
+     "ini": 0.0,
+     "fin": 0.48
+    },
+    {
+     "t": "bolitas",
+     "ini": 0.48,
+     "fin": 0.88
+    },
+    {
+     "t": "contra",
+     "ini": 0.88,
+     "fin": 1.22
+    },
+    {
+     "t": "una",
+     "ini": 1.22,
+     "fin": 1.44
+    },
+    {
+     "t": "pared",
+     "ini": 1.44,
+     "fin": 1.78
+    },
+    {
+     "t": "con",
+     "ini": 1.78,
+     "fin": 2.0
+    },
+    {
+     "t": "dos",
+     "ini": 2.0,
+     "fin": 2.28
+    },
+    {
+     "t": "rendijas.",
+     "ini": 2.28,
+     "fin": 2.94
+    },
+    {
+     "t": "Detrás,",
+     "ini": 3.44,
+     "fin": 4.06
+    },
+    {
+     "t": "en",
+     "ini": 4.38,
+     "fin": 4.46
+    },
+    {
+     "t": "una",
+     "ini": 4.46,
+     "fin": 4.6
+    },
+    {
+     "t": "pantalla,",
+     "ini": 4.6,
+     "fin": 5.0
+    },
+    {
+     "t": "verás",
+     "ini": 5.64,
+     "fin": 5.94
+    },
+    {
+     "t": "dos",
+     "ini": 5.94,
+     "fin": 6.18
+    },
+    {
+     "t": "franjas.",
+     "ini": 6.18,
+     "fin": 6.72
+    },
+    {
+     "t": "Una",
+     "ini": 7.26,
+     "fin": 7.54
+    },
+    {
+     "t": "por",
+     "ini": 7.54,
+     "fin": 7.78
+    },
+    {
+     "t": "cada",
+     "ini": 7.78,
+     "fin": 8.04
+    },
+    {
+     "t": "abertura.",
+     "ini": 8.04,
+     "fin": 8.64
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "electrones",
+   "texto": "Ahora cambia las bolitas por electrones. En mil novecientos sesenta y uno, Claus Jönsson hizo este experimento, y la pantalla no mostró dos franjas. Mostró muchas.",
+   "fuente": "Jönsson, Zeitschrift für Physik 1961",
+   "audio": "generado/rendija-voz/escena_2.wav",
+   "duracion_s": 12.32,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Ahora",
+     "ini": 0.51,
+     "fin": 0.79
+    },
+    {
+     "t": "cambia",
+     "ini": 0.79,
+     "fin": 1.23
+    },
+    {
+     "t": "las",
+     "ini": 1.23,
+     "fin": 1.39
+    },
+    {
+     "t": "bolitas",
+     "ini": 1.39,
+     "fin": 1.81
+    },
+    {
+     "t": "por",
+     "ini": 1.81,
+     "fin": 2.07
+    },
+    {
+     "t": "electrones.",
+     "ini": 2.07,
+     "fin": 2.71
+    },
+    {
+     "t": "En",
+     "ini": 3.33,
+     "fin": 3.49
+    },
+    {
+     "t": "mil",
+     "ini": 3.697,
+     "fin": 3.902
+    },
+    {
+     "t": "novecientos",
+     "ini": 4.065,
+     "fin": 4.315
+    },
+    {
+     "t": "sesenta",
+     "ini": 4.432,
+     "fin": 4.727
+    },
+    {
+     "t": "y",
+     "ini": 4.8,
+     "fin": 5.14
+    },
+    {
+     "t": "uno,",
+     "ini": 5.168,
+     "fin": 5.553
+    },
+    {
+     "t": "Claus",
+     "ini": 5.535,
+     "fin": 5.965
+    },
+    {
+     "t": "Jönsson",
+     "ini": 5.902,
+     "fin": 6.377
+    },
+    {
+     "t": "hizo",
+     "ini": 6.27,
+     "fin": 6.79
+    },
+    {
+     "t": "este",
+     "ini": 6.79,
+     "fin": 7.09
+    },
+    {
+     "t": "experimento,",
+     "ini": 7.09,
+     "fin": 8.21
+    },
+    {
+     "t": "y",
+     "ini": 8.21,
+     "fin": 8.43
+    },
+    {
+     "t": "la",
+     "ini": 8.43,
+     "fin": 8.55
+    },
+    {
+     "t": "pantalla",
+     "ini": 8.55,
+     "fin": 8.91
+    },
+    {
+     "t": "no",
+     "ini": 8.91,
+     "fin": 9.27
+    },
+    {
+     "t": "mostró",
+     "ini": 9.27,
+     "fin": 9.67
+    },
+    {
+     "t": "dos",
+     "ini": 9.67,
+     "fin": 9.89
+    },
+    {
+     "t": "franjas.",
+     "ini": 9.89,
+     "fin": 10.37
+    },
+    {
+     "t": "Mostró",
+     "ini": 10.89,
+     "fin": 11.47
+    },
+    {
+     "t": "muchas.",
+     "ini": 11.47,
+     "fin": 11.91
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "ondas",
+   "texto": "Es el patrón que dejan dos ondas cuando se cruzan. Donde se suman, una franja brillante. Donde se cancelan, oscuridad.",
+   "fuente": "Física de ondas",
+   "audio": "generado/rendija-voz/escena_3.wav",
+   "duracion_s": 9.43,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Es",
+     "ini": 0.41,
+     "fin": 0.67
+    },
+    {
+     "t": "el",
+     "ini": 0.67,
+     "fin": 0.79
+    },
+    {
+     "t": "patrón",
+     "ini": 0.79,
+     "fin": 1.17
+    },
+    {
+     "t": "que",
+     "ini": 1.17,
+     "fin": 1.31
+    },
+    {
+     "t": "dejan",
+     "ini": 1.31,
+     "fin": 1.65
+    },
+    {
+     "t": "dos",
+     "ini": 1.65,
+     "fin": 1.91
+    },
+    {
+     "t": "ondas",
+     "ini": 1.91,
+     "fin": 2.31
+    },
+    {
+     "t": "cuando",
+     "ini": 2.31,
+     "fin": 2.55
+    },
+    {
+     "t": "se",
+     "ini": 2.55,
+     "fin": 2.81
+    },
+    {
+     "t": "cruzan.",
+     "ini": 2.81,
+     "fin": 3.19
+    },
+    {
+     "t": "Donde",
+     "ini": 3.93,
+     "fin": 4.21
+    },
+    {
+     "t": "se",
+     "ini": 4.21,
+     "fin": 4.41
+    },
+    {
+     "t": "suman,",
+     "ini": 4.41,
+     "fin": 4.83
+    },
+    {
+     "t": "una",
+     "ini": 4.83,
+     "fin": 5.51
+    },
+    {
+     "t": "franja",
+     "ini": 5.51,
+     "fin": 5.93
+    },
+    {
+     "t": "brillante.",
+     "ini": 5.93,
+     "fin": 6.49
+    },
+    {
+     "t": "Donde",
+     "ini": 6.49,
+     "fin": 7.29
+    },
+    {
+     "t": "se",
+     "ini": 7.29,
+     "fin": 7.55
+    },
+    {
+     "t": "cancelan,",
+     "ini": 7.55,
+     "fin": 8.17
+    },
+    {
+     "t": "oscuridad.",
+     "ini": 8.17,
+     "fin": 9.19
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "uno",
+   "texto": "Se podría pensar que los electrones chocan entre sí. Pero en mil novecientos ochenta y nueve, un equipo de Hitachi, en una versión de este experimento, los envió uno por uno. Cada electrón dejó un solo punto. Y aun así, punto tras punto, las franjas aparecieron.",
+   "fuente": "Tonomura et al., American Journal of Physics 1989",
+   "audio": "generado/rendija-voz/escena_4.wav",
+   "duracion_s": 19.01,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Se",
+     "ini": 0.24,
+     "fin": 0.58
+    },
+    {
+     "t": "podría",
+     "ini": 0.58,
+     "fin": 0.84
+    },
+    {
+     "t": "pensar",
+     "ini": 0.84,
+     "fin": 1.24
+    },
+    {
+     "t": "que",
+     "ini": 1.24,
+     "fin": 1.44
+    },
+    {
+     "t": "los",
+     "ini": 1.44,
+     "fin": 1.62
+    },
+    {
+     "t": "electrones",
+     "ini": 1.62,
+     "fin": 2.2
+    },
+    {
+     "t": "chocan",
+     "ini": 2.2,
+     "fin": 2.62
+    },
+    {
+     "t": "entre",
+     "ini": 2.62,
+     "fin": 2.86
+    },
+    {
+     "t": "sí.",
+     "ini": 2.86,
+     "fin": 3.12
+    },
+    {
+     "t": "Pero",
+     "ini": 3.58,
+     "fin": 4.08
+    },
+    {
+     "t": "en",
+     "ini": 4.08,
+     "fin": 4.26
+    },
+    {
+     "t": "mil",
+     "ini": 4.267,
+     "fin": 4.627
+    },
+    {
+     "t": "novecientos",
+     "ini": 4.453,
+     "fin": 4.993
+    },
+    {
+     "t": "ochenta",
+     "ini": 4.64,
+     "fin": 5.36
+    },
+    {
+     "t": "y",
+     "ini": 4.827,
+     "fin": 5.727
+    },
+    {
+     "t": "nueve,",
+     "ini": 5.013,
+     "fin": 6.093
+    },
+    {
+     "t": "un",
+     "ini": 5.2,
+     "fin": 6.46
+    },
+    {
+     "t": "equipo",
+     "ini": 6.46,
+     "fin": 6.74
+    },
+    {
+     "t": "de",
+     "ini": 6.74,
+     "fin": 6.94
+    },
+    {
+     "t": "Hitachi,",
+     "ini": 7.2,
+     "fin": 7.42
+    },
+    {
+     "t": "en",
+     "ini": 7.66,
+     "fin": 7.9
+    },
+    {
+     "t": "una",
+     "ini": 7.9,
+     "fin": 8.04
+    },
+    {
+     "t": "versión",
+     "ini": 8.04,
+     "fin": 8.4
+    },
+    {
+     "t": "de",
+     "ini": 8.4,
+     "fin": 8.62
+    },
+    {
+     "t": "este",
+     "ini": 8.62,
+     "fin": 8.84
+    },
+    {
+     "t": "experimento,",
+     "ini": 8.84,
+     "fin": 9.66
+    },
+    {
+     "t": "los",
+     "ini": 10.06,
+     "fin": 10.18
+    },
+    {
+     "t": "envió",
+     "ini": 10.18,
+     "fin": 10.6
+    },
+    {
+     "t": "uno",
+     "ini": 10.6,
+     "fin": 11.02
+    },
+    {
+     "t": "por",
+     "ini": 11.02,
+     "fin": 11.28
+    },
+    {
+     "t": "uno.",
+     "ini": 11.28,
+     "fin": 11.52
+    },
+    {
+     "t": "Cada",
+     "ini": 12.2,
+     "fin": 12.5
+    },
+    {
+     "t": "electrón",
+     "ini": 12.5,
+     "fin": 13.08
+    },
+    {
+     "t": "dejó",
+     "ini": 13.08,
+     "fin": 13.44
+    },
+    {
+     "t": "un",
+     "ini": 13.44,
+     "fin": 13.64
+    },
+    {
+     "t": "solo",
+     "ini": 13.64,
+     "fin": 13.88
+    },
+    {
+     "t": "punto.",
+     "ini": 13.88,
+     "fin": 14.26
+    },
+    {
+     "t": "Y",
+     "ini": 14.26,
+     "fin": 14.96
+    },
+    {
+     "t": "aun",
+     "ini": 15.0,
+     "fin": 15.12
+    },
+    {
+     "t": "así,",
+     "ini": 15.12,
+     "fin": 15.44
+    },
+    {
+     "t": "punto",
+     "ini": 15.96,
+     "fin": 16.2
+    },
+    {
+     "t": "tras",
+     "ini": 16.2,
+     "fin": 16.48
+    },
+    {
+     "t": "punto,",
+     "ini": 16.48,
+     "fin": 16.94
+    },
+    {
+     "t": "las",
+     "ini": 17.44,
+     "fin": 17.6
+    },
+    {
+     "t": "franjas",
+     "ini": 17.6,
+     "fin": 18.04
+    },
+    {
+     "t": "aparecieron.",
+     "ini": 18.04,
+     "fin": 18.74
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "detector",
+   "texto": "Entonces viene lo más extraño. Si colocas un detector capaz de revelar por qué camino pasa cada electrón, las franjas se apagan.",
+   "fuente": "Buks et al., Nature 1998",
+   "audio": "generado/rendija-voz/escena_5.wav",
+   "duracion_s": 9.57,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Entonces",
+     "ini": 0.27,
+     "fin": 0.85
+    },
+    {
+     "t": "viene",
+     "ini": 0.85,
+     "fin": 1.21
+    },
+    {
+     "t": "lo",
+     "ini": 1.21,
+     "fin": 1.45
+    },
+    {
+     "t": "más",
+     "ini": 1.45,
+     "fin": 1.65
+    },
+    {
+     "t": "extraño.",
+     "ini": 1.65,
+     "fin": 2.21
+    },
+    {
+     "t": "Si",
+     "ini": 2.21,
+     "fin": 3.09
+    },
+    {
+     "t": "colocas",
+     "ini": 3.09,
+     "fin": 3.53
+    },
+    {
+     "t": "un",
+     "ini": 3.53,
+     "fin": 3.67
+    },
+    {
+     "t": "detector",
+     "ini": 3.67,
+     "fin": 4.01
+    },
+    {
+     "t": "capaz",
+     "ini": 4.01,
+     "fin": 4.45
+    },
+    {
+     "t": "de",
+     "ini": 4.45,
+     "fin": 4.69
+    },
+    {
+     "t": "revelar",
+     "ini": 4.69,
+     "fin": 5.17
+    },
+    {
+     "t": "por",
+     "ini": 5.17,
+     "fin": 5.39
+    },
+    {
+     "t": "qué",
+     "ini": 5.39,
+     "fin": 5.61
+    },
+    {
+     "t": "camino",
+     "ini": 5.61,
+     "fin": 5.99
+    },
+    {
+     "t": "pasa",
+     "ini": 5.99,
+     "fin": 6.37
+    },
+    {
+     "t": "cada",
+     "ini": 6.37,
+     "fin": 6.75
+    },
+    {
+     "t": "electrón,",
+     "ini": 6.75,
+     "fin": 7.37
+    },
+    {
+     "t": "las",
+     "ini": 7.93,
+     "fin": 8.09
+    },
+    {
+     "t": "franjas",
+     "ini": 8.09,
+     "fin": 8.53
+    },
+    {
+     "t": "se",
+     "ini": 8.53,
+     "fin": 8.79
+    },
+    {
+     "t": "apagan.",
+     "ini": 8.79,
+     "fin": 9.15
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "mente",
+   "texto": "No es que tu mirada cambie la materia. No hace falta ninguna mente. El detector interactúa físicamente con el electrón, y esa interacción basta para borrar las franjas.",
+   "fuente": "Buks et al., Nature 1998",
+   "audio": "generado/rendija-voz/escena_6.wav",
+   "duracion_s": 12.18,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "No",
+     "ini": 0.42,
+     "fin": 0.64
+    },
+    {
+     "t": "es",
+     "ini": 0.64,
+     "fin": 0.78
+    },
+    {
+     "t": "que",
+     "ini": 0.78,
+     "fin": 0.9
+    },
+    {
+     "t": "tu",
+     "ini": 0.9,
+     "fin": 1.0
+    },
+    {
+     "t": "mirada",
+     "ini": 1.0,
+     "fin": 1.32
+    },
+    {
+     "t": "cambie",
+     "ini": 1.32,
+     "fin": 1.76
+    },
+    {
+     "t": "la",
+     "ini": 1.76,
+     "fin": 1.88
+    },
+    {
+     "t": "materia.",
+     "ini": 1.88,
+     "fin": 2.2
+    },
+    {
+     "t": "No",
+     "ini": 2.92,
+     "fin": 3.12
+    },
+    {
+     "t": "hace",
+     "ini": 3.12,
+     "fin": 3.32
+    },
+    {
+     "t": "falta",
+     "ini": 3.32,
+     "fin": 3.62
+    },
+    {
+     "t": "ninguna",
+     "ini": 3.62,
+     "fin": 3.98
+    },
+    {
+     "t": "mente.",
+     "ini": 3.98,
+     "fin": 4.48
+    },
+    {
+     "t": "El",
+     "ini": 5.18,
+     "fin": 5.32
+    },
+    {
+     "t": "detector",
+     "ini": 5.32,
+     "fin": 5.68
+    },
+    {
+     "t": "interactúa",
+     "ini": 5.68,
+     "fin": 6.42
+    },
+    {
+     "t": "físicamente",
+     "ini": 6.42,
+     "fin": 6.98
+    },
+    {
+     "t": "con",
+     "ini": 6.98,
+     "fin": 7.44
+    },
+    {
+     "t": "el",
+     "ini": 7.44,
+     "fin": 7.56
+    },
+    {
+     "t": "electrón,",
+     "ini": 7.56,
+     "fin": 8.08
+    },
+    {
+     "t": "y",
+     "ini": 8.08,
+     "fin": 8.8
+    },
+    {
+     "t": "esa",
+     "ini": 8.8,
+     "fin": 9.04
+    },
+    {
+     "t": "interacción",
+     "ini": 9.04,
+     "fin": 9.64
+    },
+    {
+     "t": "basta",
+     "ini": 9.64,
+     "fin": 10.34
+    },
+    {
+     "t": "para",
+     "ini": 10.34,
+     "fin": 10.7
+    },
+    {
+     "t": "borrar",
+     "ini": 10.7,
+     "fin": 11.08
+    },
+    {
+     "t": "las",
+     "ini": 11.08,
+     "fin": 11.3
+    },
+    {
+     "t": "franjas.",
+     "ini": 11.3,
+     "fin": 11.72
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "caminos",
+   "texto": "¿Entonces el electrón pasó por los dos lados? No exactamente. La mecánica cuántica no describe una bolita en dos caminos, sino posibilidades que se pueden sumar o cancelar.",
+   "fuente": "Mecánica cuántica",
+   "audio": "generado/rendija-voz/escena_7.wav",
+   "duracion_s": 13.04,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "¿Entonces",
+     "ini": 0.46,
+     "fin": 1.18
+    },
+    {
+     "t": "el",
+     "ini": 1.18,
+     "fin": 1.46
+    },
+    {
+     "t": "electrón",
+     "ini": 1.46,
+     "fin": 1.92
+    },
+    {
+     "t": "pasó",
+     "ini": 1.92,
+     "fin": 2.24
+    },
+    {
+     "t": "por",
+     "ini": 2.24,
+     "fin": 2.48
+    },
+    {
+     "t": "los",
+     "ini": 2.48,
+     "fin": 2.66
+    },
+    {
+     "t": "dos",
+     "ini": 2.66,
+     "fin": 2.82
+    },
+    {
+     "t": "lados?",
+     "ini": 2.82,
+     "fin": 3.14
+    },
+    {
+     "t": "No",
+     "ini": 3.74,
+     "fin": 4.1
+    },
+    {
+     "t": "exactamente.",
+     "ini": 4.1,
+     "fin": 4.58
+    },
+    {
+     "t": "La",
+     "ini": 5.28,
+     "fin": 5.66
+    },
+    {
+     "t": "mecánica",
+     "ini": 5.66,
+     "fin": 6.14
+    },
+    {
+     "t": "cuántica",
+     "ini": 6.14,
+     "fin": 6.7
+    },
+    {
+     "t": "no",
+     "ini": 6.7,
+     "fin": 6.92
+    },
+    {
+     "t": "describe",
+     "ini": 6.92,
+     "fin": 7.32
+    },
+    {
+     "t": "una",
+     "ini": 7.32,
+     "fin": 7.62
+    },
+    {
+     "t": "bolita",
+     "ini": 7.62,
+     "fin": 8.08
+    },
+    {
+     "t": "en",
+     "ini": 8.08,
+     "fin": 8.26
+    },
+    {
+     "t": "dos",
+     "ini": 8.26,
+     "fin": 8.46
+    },
+    {
+     "t": "caminos,",
+     "ini": 8.46,
+     "fin": 8.96
+    },
+    {
+     "t": "sino",
+     "ini": 9.4,
+     "fin": 9.76
+    },
+    {
+     "t": "posibilidades",
+     "ini": 9.76,
+     "fin": 10.5
+    },
+    {
+     "t": "que",
+     "ini": 10.5,
+     "fin": 10.76
+    },
+    {
+     "t": "se",
+     "ini": 10.76,
+     "fin": 10.9
+    },
+    {
+     "t": "pueden",
+     "ini": 10.9,
+     "fin": 11.16
+    },
+    {
+     "t": "sumar",
+     "ini": 11.16,
+     "fin": 11.76
+    },
+    {
+     "t": "o",
+     "ini": 11.76,
+     "fin": 12.1
+    },
+    {
+     "t": "cancelar.",
+     "ini": 12.1,
+     "fin": 12.72
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "debate",
+   "texto": "Qué significa eso en realidad, los físicos todavía lo debaten. Las fórmulas predicen el resultado, pero no hay una sola interpretación aceptada.",
+   "fuente": "Tesis del usuario",
+   "audio": "generado/rendija-voz/escena_8.wav",
+   "duracion_s": 10.6,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Qué",
+     "ini": 0.32,
+     "fin": 0.44
+    },
+    {
+     "t": "significa",
+     "ini": 0.44,
+     "fin": 0.94
+    },
+    {
+     "t": "eso",
+     "ini": 0.94,
+     "fin": 1.32
+    },
+    {
+     "t": "en",
+     "ini": 1.32,
+     "fin": 1.48
+    },
+    {
+     "t": "realidad,",
+     "ini": 1.48,
+     "fin": 1.86
+    },
+    {
+     "t": "los",
+     "ini": 2.48,
+     "fin": 2.64
+    },
+    {
+     "t": "físicos",
+     "ini": 2.64,
+     "fin": 3.12
+    },
+    {
+     "t": "todavía",
+     "ini": 3.12,
+     "fin": 3.56
+    },
+    {
+     "t": "lo",
+     "ini": 3.56,
+     "fin": 3.84
+    },
+    {
+     "t": "debaten.",
+     "ini": 3.84,
+     "fin": 4.2
+    },
+    {
+     "t": "Las",
+     "ini": 5.12,
+     "fin": 5.32
+    },
+    {
+     "t": "fórmulas",
+     "ini": 5.32,
+     "fin": 5.76
+    },
+    {
+     "t": "predicen",
+     "ini": 5.76,
+     "fin": 6.36
+    },
+    {
+     "t": "el",
+     "ini": 6.36,
+     "fin": 6.5
+    },
+    {
+     "t": "resultado,",
+     "ini": 6.5,
+     "fin": 7.0
+    },
+    {
+     "t": "pero",
+     "ini": 7.52,
+     "fin": 7.8
+    },
+    {
+     "t": "no",
+     "ini": 7.8,
+     "fin": 8.02
+    },
+    {
+     "t": "hay",
+     "ini": 8.02,
+     "fin": 8.2
+    },
+    {
+     "t": "una",
+     "ini": 8.2,
+     "fin": 8.4
+    },
+    {
+     "t": "sola",
+     "ini": 8.4,
+     "fin": 8.68
+    },
+    {
+     "t": "interpretación",
+     "ini": 8.68,
+     "fin": 9.48
+    },
+    {
+     "t": "aceptada.",
+     "ini": 9.48,
+     "fin": 10.06
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "limites",
+   "texto": "Este experimento no prueba que vivamos en una simulación, ni que el pensamiento cree la realidad. Prueba algo más incómodo: nuestra intuición no sirve para todo.",
+   "fuente": "Tesis del usuario",
+   "audio": "generado/rendija-voz/escena_9.wav",
+   "duracion_s": 11.66,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Este",
+     "ini": 0.54,
+     "fin": 0.84
+    },
+    {
+     "t": "experimento",
+     "ini": 0.84,
+     "fin": 1.6
+    },
+    {
+     "t": "no",
+     "ini": 1.6,
+     "fin": 1.72
+    },
+    {
+     "t": "prueba",
+     "ini": 1.72,
+     "fin": 2.04
+    },
+    {
+     "t": "que",
+     "ini": 2.04,
+     "fin": 2.28
+    },
+    {
+     "t": "vivamos",
+     "ini": 2.28,
+     "fin": 2.66
+    },
+    {
+     "t": "en",
+     "ini": 2.66,
+     "fin": 2.88
+    },
+    {
+     "t": "una",
+     "ini": 2.88,
+     "fin": 3.02
+    },
+    {
+     "t": "simulación,",
+     "ini": 3.02,
+     "fin": 3.66
+    },
+    {
+     "t": "ni",
+     "ini": 4.1,
+     "fin": 4.32
+    },
+    {
+     "t": "que",
+     "ini": 4.32,
+     "fin": 4.46
+    },
+    {
+     "t": "el",
+     "ini": 4.46,
+     "fin": 4.58
+    },
+    {
+     "t": "pensamiento",
+     "ini": 4.58,
+     "fin": 5.22
+    },
+    {
+     "t": "cree",
+     "ini": 5.22,
+     "fin": 5.6
+    },
+    {
+     "t": "la",
+     "ini": 5.6,
+     "fin": 5.82
+    },
+    {
+     "t": "realidad.",
+     "ini": 5.82,
+     "fin": 6.26
+    },
+    {
+     "t": "Prueba",
+     "ini": 6.26,
+     "fin": 7.38
+    },
+    {
+     "t": "algo",
+     "ini": 7.38,
+     "fin": 7.62
+    },
+    {
+     "t": "más",
+     "ini": 7.62,
+     "fin": 7.84
+    },
+    {
+     "t": "incómodo:",
+     "ini": 7.84,
+     "fin": 8.56
+    },
+    {
+     "t": "nuestra",
+     "ini": 9.24,
+     "fin": 9.56
+    },
+    {
+     "t": "intuición",
+     "ini": 9.56,
+     "fin": 10.04
+    },
+    {
+     "t": "no",
+     "ini": 10.04,
+     "fin": 10.36
+    },
+    {
+     "t": "sirve",
+     "ini": 10.36,
+     "fin": 10.78
+    },
+    {
+     "t": "para",
+     "ini": 10.78,
+     "fin": 10.98
+    },
+    {
+     "t": "todo.",
+     "ini": 10.98,
+     "fin": 11.24
+    }
+   ],
+   "tiempos": "alineado"
+  },
+  {
+   "id": "cierre",
+   "texto": "Creíamos que observar era solo mirar. En el mundo cuántico, medir es interactuar. Y quizás el universo sea más extraño de lo que nuestra mente puede imaginar.",
+   "fuente": "Tesis del usuario",
+   "audio": "generado/rendija-voz/escena_10.wav",
+   "duracion_s": 12.733,
+   "pausa_s": 0,
+   "palabras": [
+    {
+     "t": "Creíamos",
+     "ini": 0.42,
+     "fin": 0.94
+    },
+    {
+     "t": "que",
+     "ini": 0.94,
+     "fin": 1.2
+    },
+    {
+     "t": "observar",
+     "ini": 1.2,
+     "fin": 1.84
+    },
+    {
+     "t": "era",
+     "ini": 1.84,
+     "fin": 2.08
+    },
+    {
+     "t": "solo",
+     "ini": 2.08,
+     "fin": 2.4
+    },
+    {
+     "t": "mirar.",
+     "ini": 2.4,
+     "fin": 2.88
+    },
+    {
+     "t": "En",
+     "ini": 3.64,
+     "fin": 3.78
+    },
+    {
+     "t": "el",
+     "ini": 3.78,
+     "fin": 3.9
+    },
+    {
+     "t": "mundo",
+     "ini": 3.9,
+     "fin": 4.14
+    },
+    {
+     "t": "cuántico,",
+     "ini": 4.14,
+     "fin": 4.78
+    },
+    {
+     "t": "medir",
+     "ini": 5.3,
+     "fin": 5.72
+    },
+    {
+     "t": "es",
+     "ini": 5.72,
+     "fin": 5.98
+    },
+    {
+     "t": "interactuar.",
+     "ini": 5.98,
+     "fin": 6.76
+    },
+    {
+     "t": "Y",
+     "ini": 7.42,
+     "fin": 7.64
+    },
+    {
+     "t": "quizás",
+     "ini": 7.64,
+     "fin": 8.02
+    },
+    {
+     "t": "el",
+     "ini": 8.02,
+     "fin": 8.14
+    },
+    {
+     "t": "universo",
+     "ini": 8.14,
+     "fin": 8.5
+    },
+    {
+     "t": "sea",
+     "ini": 8.5,
+     "fin": 8.92
+    },
+    {
+     "t": "más",
+     "ini": 8.92,
+     "fin": 9.18
+    },
+    {
+     "t": "extraño",
+     "ini": 9.18,
+     "fin": 9.82
+    },
+    {
+     "t": "de",
+     "ini": 9.82,
+     "fin": 9.94
+    },
+    {
+     "t": "lo",
+     "ini": 9.94,
+     "fin": 10.04
+    },
+    {
+     "t": "que",
+     "ini": 10.04,
+     "fin": 10.16
+    },
+    {
+     "t": "nuestra",
+     "ini": 10.16,
+     "fin": 10.4
+    },
+    {
+     "t": "mente",
+     "ini": 10.4,
+     "fin": 10.9
+    },
+    {
+     "t": "puede",
+     "ini": 10.9,
+     "fin": 11.24
+    },
+    {
+     "t": "imaginar.",
+     "ini": 11.24,
+     "fin": 11.82
+    }
+   ],
+   "tiempos": "alineado"
+  }
+ ]
+}

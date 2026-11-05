@@ -1,0 +1,13 @@
+{
+  "id": "amor-2",
+  "escenas": [
+    {"id": "reciprocidad", "texto": "Falta la reciprocidad. Tú deseas a alguien que no te desea. Te fascina una mente que no se interesa por la tuya. Quieres una vida juntos con quien solo quiere verte a veces."},
+    {"id": "asimetria", "texto": "Una persona puede amar a la otra, mientras la otra se queda por motivos completamente distintos. Y desde afuera, parecen la misma pareja."},
+    {"id": "igualdad", "texto": "Reciprocidad no significa ser iguales. Significa que lo que cada uno necesita encuentre respuesta en el otro."},
+    {"id": "tiempo", "texto": "Y ninguna verdad es permanente. El deseo cambia. Los intereses se alejan. La confianza se desgasta. Se puede empezar con las tres, y perder una sin darse cuenta."},
+    {"id": "cadena", "texto": "Y una puede arrastrar a las otras. Sin comunicación, baja la intimidad. Sin admiración, cambia el deseo. Sin deseo, cambia la forma de tratarse."},
+    {"id": "matiz", "texto": "¿Significa eso que, sin alguna de las tres, no hay amor? No necesariamente. Hay parejas con poco o ningún deseo sexual que se aman profundamente. Esta teoría no decide si existe amor. Pregunta hasta dónde llega el vínculo."},
+    {"id": "tesis", "texto": "Quizás el amor no sea encontrar a alguien que reúna todo lo que buscas, sino a alguien con quien esas tres verdades puedan crecer en los dos."},
+    {"id": "cierre", "texto": "Porque una pareja puede existir sin un amor integral. Así que vuelve a la pregunta: ¿te quedas porque amas, o porque no quieres perder algo?"}
+  ]
+}
